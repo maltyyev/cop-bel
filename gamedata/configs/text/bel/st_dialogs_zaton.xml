@@ -1,0 +1,3117 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<string_table>
+	<string id="zat_a2_linker_b14_quest_done_0">
+		<text>На Земснарадзе быў дзіўны артэфакт. Трымай.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_done_1">
+		<text>Вось дык цікава... Напалову сфармаваны артэфакт! Вось, бяры ганарар: добрая праца павінна добра аплачвацца. Бачу, ты даволі спрытны... Карацей, калі спатрэбіцца праца — звяртайся. Мне часта даюць заказы на артэфакты. Аплата будзе больш чым прыстойная.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_0">
+		<text>Ёсць для мяне праца?</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_1">
+		<text>Ёсць адна справа. Некалькі сталкераў бачылі ўначы ззянне на Земснарадзе — дзіўнае нават для тутэйшых мясцін. Схадзіш праверыць?</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_11">
+		<text>Праверу.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_111">
+		<text>Тады будзь асцярожны. Папярэджваю: там з радыяцыяй — ого-го! Не забудзь узяць з сабой лекі. Лішнімі дакладна не будуць.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_12">
+		<text>Не цяпер.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_init_2">
+		<text>На сёння я ўжо раздаў усю працу.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_sell_artefact_0">
+		<text>Трымай гэты... напалову сфармаваны артэфакт.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_sell_artefact_1">
+		<text>Твая доля. Я заўсёды кажу: добрая праца павінна добра аплачвацца! Бачу, ты даволі спрытны... Карацей, калі спатрэбіцца праца — звяртайся. Мне часта даюць заказы на артэфакты. Аплата будзе больш чым прыстойная.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_strange_item_0">
+		<text>Я знайшоў на Земснарадзе дзіўны артэфакт. Глянеш?</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_strange_item_1">
+		<text>Вось дык цікава... Напалову сфармаваны артэфакт!.. Слухай, прадай яго мне. Думаю, 3000 за яго — прыстойная цана. Дамовіліся?</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_wrong_0">
+		<text>Я бачыў, як табе аддалі знойдзены мной артэфакт.</text>
+	</string>
+	<string id="zat_a2_linker_b14_quest_wrong_1">
+		<text>Выбачай, але я не хачу ўвязвацца ў гэтыя разборкі. У мяне ўсё проста: прынёс артэфакт — атрымаў ганарар. Ты і сам ведаеш правілы Зоны: глядзі ў абодва, давярай з аглядкай і варон не ліч. Але калі хочаш пастаяннай працы — звяртайся. Мне часта заказваюць артэфакты. Аплата будзе больш чым прыстойная.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_0">
+		<text>Якія артэфакты табе патрэбныя?</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_11">
+		<text>Здабуду «Граві».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_112">
+		<text>Выдатна! Вось гэта я разумею — аператыўнасць! Трымай ганарар.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_12">
+		<text>Здабуду «Вока».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_13">
+		<text>Здабуду «Бурбалку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_14">
+		<text>Здабуду «Пустышку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_15">
+		<text>Здабуду «Залатую рыбку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_16">
+		<text>Здабуду «Полымя».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_17">
+		<text>Здабуду «Святляк».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_18">
+		<text>Здабуду «Сняжынку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_19">
+		<text>Магу прадаць табе «Граві».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_2">
+		<text>Нешта дзіўнае адбываецца: хлопцы бяруць замову — і знікаюць без следу!.. Неспакойна мне нешта. Думаю згарнуць гандаль.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_20">
+		<text>Магу прадаць табе «Вока».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_21">
+		<text>Магу прадаць табе «Бурбалку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_22">
+		<text>Магу прадаць табе «Пустышку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_23">
+		<text>Магу прадаць табе «Залатую рыбку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_24">
+		<text>Магу прадаць табе «Полымя».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_25">
+		<text>Магу прадаць табе «Святляк».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_26">
+		<text>Магу прадаць табе «Сняжынку».</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_27">
+		<text>Зразумеў. Яшчэ зазірну як-небудзь.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_3">
+		<text>Абодва атрады, што працавалі на мяне, зніклі... Пакуль я вырашыў не браць замоў.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_give_adv_task_0">
+		<text>Я выканаў замову.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_give_adv_task_1">
+		<text>Выдатна! Трымай ганарар.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_give_adv_task_2">
+		<text>Трымай. Няхай і не так шмат, затое ўжо дакладна не мала.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_info_0">
+		<text>Раскажы пра артэфакты, якія заказваюць.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_guards_0">
+		<text>Каго можна наняць на ахову навукоўцаў?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_guards_1">
+		<text>Дык маіх хлопцаў — Спартака з камандай. Хлопцы бывалыя: да Зоны хто працаваў у ахове, а хто — не паверыш! — у АМАПе. Ведаюць, з якога боку за ствол хапацца... Калі ў іх цяпер няма іншай працы, з іх можа выйсці добрая каманда для аховы.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_guards_2">
+		<text>Яшчэ зусім нядаўна падказаў бы, а цяпер... Атрада Спартака больш няма, вечная ім памяць.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_0">
+		<text>Каго можна наняць, каб праводзіць замеры для навукоўцаў?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_1">
+		<text>Ты ведаеш Гонту з хлопцамі? Калі ў іх не сезон палявання, яны... кхм... Карацей, адкрытыя для супрацы — асабліва калі справа не патрабуе страляніны. Як яны самі кажуць, нават падчас палявання ў іх паспявае стаміцца палец на спускавым кручку.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_about_sci_helpers_2">
+		<text>Нават не ведаю. Пра атрад Гонты даўно нічога не чуваць... А так я б іх параіў.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_0">
+		<text>Раскажы пра тутэйшае жыццё.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1">
+		<text>Ну-у, тэма шырокая!.. Лепш адкажу на твае пытанні. Пытайся.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1111">
+		<text>Чым тут займаюцца сталкеры?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11111">
+		<text>Сябра, а ты сам хто — няўжо не сталкер?! Ох-хо-хо... Ладна, у жыцці ўсякае бывае, і правалы ў памяці таксама. Карацей, за бортам «Скадоўска» хлопцы даследуюць мясцовасць, шукаюць артэфакты. Адбіваюцца ад людзей і пачвараў, якія спрабуюць напасці. А на самім «Скадоўску» ў асноўным п’юць, балбочуць... адпачываюць, карацей, перад наступнай вылазкай. Праўда, часам пачынаюцца забаўкі — калі б’е выкід. Тады ўсе сядзім тут цішэй вады, ніжэй травы, і памінаем тых, хто ў розныя часы не паспеў дабегчы да сховішча.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1112">
+		<text>Што прывяло сталкераў да цэнтра Зоны?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11121">
+		<text>О, пытанне і праўда пацешнае! Ну як жа. Адны хочуць знайсці Кландайк артэфактаў, другія ловяць кожную новую чутку пра Аазіс, трэція шукаюць Выканаўцу Жаданняў. Ну і не забывай пра звычайную сквапнасць і цікаўнасць... У кожнага свая прычына. У цябе ж таксама знайшлася?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1113">
+		<text>Як ты тут апынуўся?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11131">
+		<text>Я прыйшоў з Глушцом, калі адключылі Выжыгальнік... але табе ж не гэта цікава, праўда?.. Ладна... Мая асноўная справа — артэфакты. За межамі Зоны ўсякага дробяззя і без таго хапае, а сур’ёзныя замоўцы цікавяцца адзінкавымі рэдкімі рэчамі. Таму я і вырашыў уладкаваць лагер для сталкераў там, дзе яшчэ можна знайсці нешта каштоўнае. А чаго хоча сталкер, вярнуўшыся са здабычай? Адпачыць і пагутарыць! Усё гэта ён знойдзе тут, на «Скадоўску».</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1114">
+		<text>Што думаеш пра бандытаў?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11141">
+		<text>Ды як сказаць... У прынцыпе, я нічога не маю супраць тых, хто завітвае на «Скадоўск», пакуль госць паводзіць сябе па-чалавечы. Урэшце, поўных сволачаў не так ужо і шмат... А некаторыя бандыты ж самі былыя сталкеры! Хто ведае, можа, аднойчы нехта з іх вырашыць кінуць цёмныя справы? Усе мы людзі, у жыцці ўсякае бывае.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_1115">
+		<text>А, ладна. Забудзь.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_actor_info_11151">
+		<text>Як скажаш.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_army_0">
+		<text>Скажы, тут вайскоўцы не паказваліся?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_army_1">
+		<text>Ну ты сам падумай: адкуль у нашым лагеры могуць узяцца вайскоўцы? Яны б і на кіламетр не падышлі! Тут многія надта добра памятаюць, як каля Кардона даводзілася жыватом мясіць гразь пад кулямётнымі чэргамі.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_0">
+		<text>Раскажы пра «Компас».</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_1">
+		<text>О, пра яго легенды ходзяць! Кажуць, калі ведаць, як карыстацца гэтым артэфактам, ён правядзе цябе праз любыя анамаліі. Сам разумееш, заказчыкаў на такую карысную рэч хапае. Нядаўна мне падказалі, што на поўдзень адсюль жыве сталкер Ной... здаецца, ён нешта ведае пра «Компас».</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_11">
+		<text>Добра, схаджу да Ноя.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_12">
+		<text>Я падумаю.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_compass_2">
+		<text>Легендарны артэфакт, як я ўжо табе казаў. Здаецца, пра яго нешта ведае Ной — сталкер, які жыве на поўдзень адсюль.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_0">
+		<text>Я знайшоў дзіўны артэфакт недалёка ад «Янава». Ці цікавіць?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_halfart_jup_b1_1">
+		<text>Дай глянуць... хм-м, дзіўная рэч! Цікава, вядома, але наўрад ці я знайду на яго пакупніка. Лепей пакажы яго навукоўцам — яны там жа, ля «Янава». Іх такая штука цалкам можа зацікавіць.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_0">
+		<text>Сыч кажа, што ты не выконваеш дамовы.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_1">
+		<text>Мы з ім дакладна дамовіліся! Я атрымліваю дэтэктары, а потым плачу яму частку грошай са здабычы, каб іх выкупіць. Свае ўмовы я выконваю: за два дэтэктары ўжо заплаціў. Іншых дамоўленасцяў з Сычом у мяне не было! Калі працуеш на яго, трэці дэтэктар можаш забраць. Усё адно я яго выкупляць не буду.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_11">
+		<text>І што мне перадаць Сычу?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_2">
+		<text>Дапусцім.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_about_new_detector_3">
+		<text>Лепш бы ты з Сычом не звязваўся. Калі табе патрэбна добрая праца, магу прапанаваць пастаянную фору ў пошуку артэфактаў. Двух-трох гадзін цалкам хопіць, каб паспець раней за іншых. А калі зацікавішся, будзе і адмысловая замова. Бачыш, мне край як патрэбны артэфакт «Компас».</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_0">
+		<text>Султану ўдалося перахапіць «Компас».</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_double_dialog_1">
+		<text>Гэтаму падонку ўсё не ймецца... Ды ладна, не ў тым справа. Паспрабуй яшчэ раз пагаварыць з Ноем. Калі верыць настойлівым чуткам, гэта можа аказацца... скажам, небескарысным.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_0">
+		<text>Я знайшоў «Компас». Трымай.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_give_dialog_1">
+		<text>Дружа, вось гэта ты мяне выручыў! Лічы, давер аднаго ўплывовага заказчыка цяпер у нас у кішэні... Хадзілі чуткі, што Султан хоча падмяць мой бізнес пад сябе — дык Султана чакае заслужаны аблом! Вось, трымай. Твая больш чым заслужаная ўзнагарода!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_0">
+		<text>Я не буду шукаць для цябе «Компас».</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_compass_revert_dialog_1">
+		<text>Шкада... Ну, што тут зробіш.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_0">
+		<text>Султан перадае прывітанне. Дарэчы, усе твае каналы паставак перакрытыя.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_business_actor_dialog_1">
+		<text>Цяпер ясна, хто за ўсім гэтым стаіць... Толькі няхай ён улічыць: са «Скадоўска» я не сыду. Рукі ён мне выкруціў, цяпер давядзецца і на яго пахаць... Ну, будзе яму адсотак з маіх здзелак. А ты прыходзь па сваю долю раз на дзень.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_0">
+		<text>Давай мой адсотак.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_1">
+		<text>Забірай.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b30_take_money_actor_dialog_2">
+		<text>Рана прыйшоў! Грошай яшчэ няма.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_0">
+		<text>Як думаеш, Спрытны можа гандляваць крадзеным?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_nimble_1">
+		<text>Наўрад ці... Наколькі я яго ведаю, ён стараецца не ўвязвацца ў цёмныя справы. Кожны прыстойны бізнесмен шануе сваю рэпутацыю! Карацей, пакуль я ні ад каго не чуў пра Спрытнага нічога кепскага.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_snag_0">
+		<text>Шукаю Корча. Не ведаеш, дзе яго можна знайсці?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b52_about_snag_1">
+		<text>Апошні раз бачыў, як ён выходзіў з бара. Калі я правільна ўлавіў сэнс яго размоў, Корч падаўся да партовых кранаў. Шукай яго там.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_0">
+		<text>Групу сталкераў збіраюцца абрабаваць, ды яшчэ і свае ж.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1">
+		<text>Ну і справы! Бандытаў і без таго развялося, як блох на сабаку, дык цяпер яшчэ і са сваімі ваяваць?!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11">
+		<text>Мне прапанавалі ўначы напасці на лагер каля «Шаўчэнкі».</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_111">
+		<text>Ах, вырадкі!.. Тады слухай: згаджайся на іх прапанову. Уцяміў, што я задумаў? Папярэджу сваіх, а хлопцы ім падрыхтуюць гарачы прыём!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1111">
+		<text>Згода.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_11111">
+		<text>Тады ідзі да гэтых засранцаў. А я пакуль скажу хлопцам.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_b7_actor_start_1112">
+		<text>Вы ўжо як-небудзь самі.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_0">
+		<text>Я дастаў артэфакт з Аазіса. Цікавіць?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_oasis_art_sell_1">
+		<text>«Сэрца Аазіса»? Не!.. Не, бадай, не. Чуткі розныя ходзяць... Можа, гэта ўсё і забабоны, але лепей я перастрахуюся. Ды і табе параджу: здай яго навукоўцам, на ўсякі выпадак. Няхай самі вывучаюць і вызначаюць, як ён уплывае на чалавека.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_11">
+		<text>Навічок тут? Нічога, асвоішся... Сам ведаеш, Зона — жорсткая настаўніца! Я Барада, тутэйшы бармэн. Калі будуць пытанні — падыходзь да мяне.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_21">
+		<text>Расказвай.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_31">
+		<text>Хочаш зарабіць на пошуку артэфактаў?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_32">
+		<text>Ну як там мая замова? Не забывай: больш за ўсіх зарабляе той, хто хутчэй за іншых.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_33">
+		<text>Спазніўся! Артэфакт мне ўжо прынеслі. Але калі ты выканаў замову, я ўсё ж заплачу — хоць і не так шмат.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_41">
+		<text>Ёсць адна справа... Кажуць, бандыты збіраюцца купіць партыю зброі. Нашы хлопцы хочуць прасачыць за імі і, калі атрымаецца, сарваць здзелку. Любая дапамога будзе дарэчы.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_start_dialog_51">
+		<text>Ну?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_0">
+		<text>Што найміты робяць на станцыі перапрацоўкі адходаў?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_b40_about_merc_camp_1">
+		<text>Я б на тваім месцы туды не сунуўся. Не твая гэта справа.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_0">
+		<text>Як табе працуецца на навукоўцаў?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_bunker_guarding_1">
+		<text>Нармальна. Добра, што ты звярнуўся менавіта да нас. Лепшай аховы для навукоўцаў не знайсці.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_0">
+		<text>Я збіраю атрад, каб адправіцца ў Прыпяць. Пойдзеш са мной?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_1">
+		<text>Не, мне трэба прыглядаць за навукоўцамі... Можаш паспрабаваць пагаварыць з Сакаловым: здаецца, ён хацеў у Прыпяць.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_2">
+		<text>Не — мне трэба прыглядаць за навукоўцамі... Я ж усё-такі ахоўнік.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_come_with_me_3">
+		<text>Кхм... Не, мне трэба застацца тут.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_0">
+		<text>Не хочаш папрацаваць на навукоўцаў?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_1">
+		<text>Цікава... А якія абавязкі?</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_11">
+		<text>Ахоўваць іх бункер.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_111">
+		<text>Ды без праблем! Дзякуй за прапанову.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_12">
+		<text>Праводзіць замеры ў анамаліях.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_121">
+		<text>Не, гэтая праца не для нас. Шукай сталкераў.</text>
+	</string>
+	<string id="zat_b103_lost_merc_leader_employ_stalkers_2">
+		<text>Слухай, сталкеру... У мяне і так ужо жывот падводзіць з голаду, а тут яшчэ ты са сваёй лухтой!</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_supplies_0">
+		<text>Я мог бы прынесці ежы.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_supplies_1">
+		<text>Ды ну? Ладна, нясі. Кансерваў, каўбаскі, хлебца... ну, штук шэсць усяго. Нарэшце пажуем!</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_toolkit_0">
+		<text>Кажуць, тут могуць быць інструменты.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_toolkit_1">
+		<text>Хрэн яго ведае... Толькі лепей бы ты тут не круціўся. І без цябе спраў па горла — нават збегаць па ежу няма каму!</text>
+	</string>
+	<string id="zat_b103_merc_dialog_about_toolkit_2">
+		<text>Хрэн яго ведае... Калі хочаш, пакапайся ў тутэйшым хламе. Можа, знойдзеш што трэба.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_find_supplies_0">
+		<text>Трымай ежу.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_find_supplies_1">
+		<text>Не чакаў, дзякуй! Хоць хлопцы нармальна паабедаюць!.. А ты што хацеў — пакапацца ў хламе? Давай, капайся. Можа, знойдзеш што патрэбнае. Толькі зброяй не размахвай.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_find_supplies_2">
+		<text>Не чакаў... Дзякуй! О, хлопцы нармальна паабедаюць... Хацеў тут пабадзяцца? Ну, бадзяйся, дазваляю. Толькі зброяй не размахвай!</text>
+	</string>
+	<string id="zat_b103_merc_dialog_start_11">
+		<text>Ішоў бы ты адсюль! Тут наш лагер, няма чаго шныраць па тэрыторыі... Мае хлопцы і так на нервах ад голаду.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_start_12">
+		<text>Валі адсюль, а то ў хлопцаў ад голаду пальцы на спускавых кручках дрыжаць.</text>
+	</string>
+	<string id="zat_b103_merc_dialog_start_21">
+		<text>А, сталкеру... Што-небудзь важнае? Калі не — бывай, у мяне спраў па горла.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_0">
+		<text>Я гатовы ісці на паляванне.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_1">
+		<text>Добра. Рушаем.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_11">
+		<text>Пойдзем.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_2">
+		<text>Зараз не час. Падыходзь каля трэцяй ночы.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_21">
+		<text>Зразумеў.</text>
+	</string>
+	<string id="zat_b106_hunt_himera_3">
+		<text>Мы таксама... Але ж выкід, хімера дакладна не спіць. Сёння ўжо не атрымаецца.</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_11">
+		<text>Гонта загінуў. І як жа так сталася?.. Ты не збіраешся на «Янаў»? Там Зверабой — сябар Гонты. Можа, скажаш яму, што хімера мёртвая? А я, напэўна, пайду дадому...</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_111">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_12">
+		<text>Ідзі ты да чорта... З-за цябе загінуў Гонта. Што цяпер рабіць?!</text>
+	</string>
+	<string id="zat_b106_stalker_garmata_b106_after_hunt_121">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_himself_0">
+		<text>Раскажы пра сябе.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_himself_1">
+		<text>Я — Гонта, капітан паляўнічай групы. Па замове адстрэльваем мутантаў. Можам і жывымі лавіць: навукоўцам — для доследаў, ці, бывае, камусьці патрэбны чацвераногі сябар экзатычнай пароды. Як казаў Зверабой: кожнаму звяру — свая доля... ці куля?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_0">
+		<text>Раскажы пра паляванне на мутантаў.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1">
+		<text>Ды я не самы спрактыкаваны паляўнічы... Але, у прынцыпе, пра зграйных звяроў расказаць магу. Плоці і кабаны, сляпыя сабакі і псеўдасабакі, сноркі, тушканы. Магу і пра крывасмокаў.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1111">
+		<text>Раскажы пра кабаноў і плоць.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11111">
+		<text>Гэта самыя бяскрыўдныя з мутантаў. Стараюцца трымацца далей ад сталкераў, але, калі на іх напасці, будуць бараніцца. Горш, калі сярод плоці трапіцца кабан. Звяруга на трыста кілаграмаў — гэта табе не жартачкі! Падчас палявання старайся не апынуцца на шляху яго разгону. З іншага боку, інерцыя ў яго таксама ого-го: сам разумееш, такая туша адразу не разгорнецца. Выходзіць, ухіляешся — і шротам па ім!..</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1112">
+		<text>Раскажы пра сляпых сабак і псеўдасабак.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11121">
+		<text>Паасобку яны не такія небяспечныя, як у шчыльнай зграі. Нападаюць, толькі калі галодныя, а галодныя яны амаль заўсёды. Калі палюеш на зграю, старайся страляць з узвышша, інакш яны проста змятуць цябе напорам, асабліва калі ў зграі будзе некалькі мацёрых асобін. Псеўдасабакі не нашмат больш жывучыя за сляпых сабак, затое хітрэйшыя, а значыць, і небяспечнейшыя. Калі замест адной раптам з'явіцца цэлая зграя, памятай: тыя, што нападаюць на цябе, — фантомы. Сапраўдная псеўдасабака будзе трымацца воддаль, толькі зрэдку падбягаючы ўкусіць. Таму пастарайся хутчэй вылічыць яе. Як толькі сапраўдная загіне, усе фантомы адразу знікнуць.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1113">
+		<text>Раскажы пра сноркаў.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11131">
+		<text>Астанкі людзей... спакою ім няма. Адзін снорк для спрактыкаванага паляўнічага — невялікая небяспека. Чакаеш, пакуль ён скокне на цябе, і ў палёце ўсаджваеш у яго зарад шроту. Горш, калі іх некалькі: тады даводзіцца страляць па іх як мага хутчэй і адначасова ўхіляцца ад скачкоў. Сноркі гэта ведаюць, таму стараюцца не нападаць па адным.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1114">
+		<text>Раскажы пра тушканаў.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11141">
+		<text>Жах для паляўнічага! Адна з самых дурных памылак у жыцці — недаацаніць гэтых звяркоў праз іх малы памер. Тушканы шалёна хуткія і спрытныя, да таго ж заўсёды ходзяць вялікімі зграямі. Як пачнуць расцягваць цябе ў розныя бакі, адрываючы па кавалку, адразу зразумееш! Галоўнае — каб не аказалася занадта позна. Разумееш, што тут найгоршае? У тушкана вельмі цяжка трапіць. Таму я і раю ўсім сталкерам заўсёды мець пры сабе драбавіцу з запасам набояў...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1115">
+		<text>Раскажы пра крывасмокаў.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_11151">
+		<text>О, яны палююць на паляўнічых! Іх маскіроўцы можна толькі пазайздросціць! Калі замаскіруюцца, іх амаль не відаць. Калі ідзеш на крывасмока, паспрабуй яго спудзіць: заўважыць яго можна толькі ў руху. І яшчэ памятай: гэта пачвара любіць падкрадацца да ахвяры ззаду і абвіваць шыю шчупальцамі... блін, мярзота!.. Карацей, калі не пашанцавала і натрапіў на сямейку крывасмокаў, заўсёды правярай, ці чыста ў цябе за спінай.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_mutants_1116">
+		<text>Ладна, забудзь.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_0">
+		<text>Калі сустрэну Сароку, абавязкова табе паведамлю.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_actor_task_1">
+		<text>Я перад табой у даўгу не застануся... Я яму пёры павышчыпваю!</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_0">
+		<text>Чым табе Сарока насаліў?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_1">
+		<text>Ды неяк падышоў да мяне і кажа: маўляў, сваю здабычу не можа забраць з-за кантралёра. А ў маёй групе якраз аднаго чалавека бракавала: наш следапыт Даніла пайшоў высочваць логава крывасмокаў... Вось і вырашылі — дапаможам Сароцы са здабычай і возьмем яго з сабой на паляванне, чацвёртым. Ад яго ж толькі і патрабавалася — пільнаваць каля логава і даць знак, калі з'явіцца хімера.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_11">
+		<text>І што далей?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_about_soroka_dialog_111">
+		<text>А далей Сарока, сволач, уцёк. І здабычу прыхапіў — і сваю, і нашу... Хімера раптам з'явілася проста перад намі — яшчэ той сюрпрыз! Гармата проста не паспеў зрэагаваць... ды хто б паспеў?! Вось і давялося не звера біць, а групу абараняць. Я хімеру хоць і параніў, але яна ўсё адно паспела зачапіць Краба і ўцякла. Тыдзень жорсткай падрыхтоўкі — кату пад хвост.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_11">
+		<text>Слухай, дык у цябе паляванне ў крыві!.. Вось, трымай трафей ад мяне асабіста. Як казаў Зверабой, спрыт — першая стрэльба. Дарэчы, ты не збіраешся на «Янаў»? Добра было б паведаміць Зверабою, што хімера мёртвая. А я пакуль застануся на «Скадоўску» — дачакаюся, пакуль Краб паправіцца. Пойдзеш з намі?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_111">
+		<text>Так. Пойдзем.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_112">
+		<text>Не. Пабадзяюся крыху ў ваколіцах.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_12">
+		<text>Справіліся! Вось сціплы трафей ад мяне асабіста. Не ўсё прайшло гладка, але нічога. Як казаў Зверабой, будзе досвед — і пастка не спатрэбіцца... Дарэчы, ты не збіраешся на «Янаў»? Добра было б паведаміць Зверабою, што хімера мёртвая. А я пакуль застануся на «Скадоўску» — дачакаюся, пакуль Краб паправіцца. Пойдзеш з намі?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_after_fight_13">
+		<text>Гармата загінуў... Чорт, дорага нам абышлася хімера!.. Ты не збіраешся на «Янаў»? Трэба паведаміць Зверабою, што хімера мёртвая. А я пакуль застануся на «Скадоўску» — дачакаюся, пакуль Краб паправіцца. Пойдзеш?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_0">
+		<text>Я знайшоў Данілу. Ён мёртвы. Яго забіў нябожчык Дрыжык.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b22_about_stalker_vampire_1">
+		<text>Эх, халера!.. Чаму ж лепшыя людзі сыходзяць першымі?! А Дрыжык, сука... Эх, Даніла... Вось гэта быў чалавек!..</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_0">
+		<text>Як думаеш, ці можа Спрытны гандляваць крадзеным?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_b52_about_nimble_1">
+		<text>Крадзеным? Ды з чаго ты ўзяў?! Я даўно ведаю Спрытнага, зброю ў яго ўвесь час замаўляю — і тавар добры, і цана... А такое ўпершыню чую. Напэўна, у яго з'явіліся канкурэнты — вось і распускаюць чуткі.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_0">
+		<text>Я збіраю групу, каб выправіцца ў Прыпяць. Пойдзеш са мной?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_1">
+		<text>У мяне дамова з навукоўцамі — трэба выконваць умовы... Ды і ахвоты няма, шчыра кажучы. Пагавары з Сакаловым: ён усё нудзіў, што яму вельмі трэба ў Прыпяць, а сам туды ісці баіцца... Эх, ваяка.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_2">
+		<text>У мяне дамова з навукоўцамі — трэба выконваць умовы... Ды і ахвоты няма, шчыра кажучы. Ты прабач.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_come_with_me_3">
+		<text>Не, не хочацца. Палявання тут і так хапае. Сам ведаеш, колькі тут яшчэ мутантаў! Нават добраму паляўнічаму работы тут гадоў на трыста хопіць.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_0">
+		<text>Не хочаш папрацаваць на навукоўцаў?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_1">
+		<text>Што трэба будзе рабіць?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_11">
+		<text>Ахоўваць іх бункер.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_111">
+		<text>Не, дзякуй. Я ж паляўнічы, мая справа — мутанты. А бункеру небяспечныя не мутанты, а людзі.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_12">
+		<text>Рабіць замеры ў анамаліях.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_121">
+		<text>А што? Можна... Афіцыйна абвяшчаю сезон палявання закрытым! Хоць крыху адпачну, адцягнуся ад гэтага вечнага мандражу перад вылазкай...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_2">
+		<text>Не, не цяпер. Сам разумееш — паляванне. Вось разбяромся з хімерай... Нельга ж, каб па Зоне швэндаўся мутант, ахвочы да крыві сталкераў!</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_3">
+		<text>Адзінае, чаго цяпер хачу, — ухапіць Сароку за горла. Толькі пасля гэтага буду ціхі, спакойны і цалкам-цалкам гатовы пагаварыць пра працу.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_employ_stalkers_4">
+		<text>Потым... Цяпер і так праблем хапае. З аднаго боку, трэба ўпаляваць хімеру, з другога — знайсці Сароку... Не да працы.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_0">
+		<text>Я знайшоў Сароку. Ён на станцыі «Янаў», цяпер называецца Флінтам.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_1">
+		<text>Дык гэты сукін сын яшчэ жывы?! Ну, гэта ненадоўга. Вось, вазьмі за інфармацыю. Чакаю не дачакаюся сустрэчы з гэтым засранцам... Флінт, кажаш?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_11">
+		<text>Так. Дзякуй.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_start_11">
+		<text>Мужыку, ты Сароку бачыў? Знаеш такога?.. Дык вось, калі сустрэнеш гэтага засранца, можаш са спакойным сумленнем усадзіць яму кулю ў галаву. А калі даведаешся, дзе ён цяпер круціцца, і скажаш мне, я перад табой у даўгу не застануся.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_11">
+		<text>Ну, здароў!</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_12">
+		<text>Пачакай!.. Справа тэрміновая: мы высачылі хімеру! Краб яшчэ не ачуняў, Данілы ўсё няма, а ўдваіх на яе ісці — ну, дурная задума. Ты ж мужык што трэба, Сароку знайшоў. Хадзем з намі, папалюем на хімеру?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_13">
+		<text>Пачакай!.. Справа тэрміновая: мы высачылі хімеру! Краб яшчэ не ачуняў, ды і Даніла... эх!.. Удваіх на яе ісці — ну, дурная задума. Ты ж мужык што трэба, Сароку знайшоў. Хадзем з намі, папалюем на хімеру?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_131">
+		<text>З задавальненнем.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_1311">
+		<text>Як казаў Зверабой, на паляванні ахвота — толькі палова справы... Слухай: хімера палюе ўначы, а каля трэцяй гадзіны запаўзае ў логава і засынае, так бы мовіць, без задніх ног. Нападаць на яе трэба толькі тады! Калі будзеш гатовы, падыходзь каля трэцяй гадзіны ночы, рушым усёй групай. Мы будзем у бары.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_132">
+		<text>Я падумаю.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_1321">
+		<text>Калі што, заходзь у бар каля трэцяй гадзіны ночы. Хімера ў гэты час якраз у сваім логаве першы сон будзе бачыць...</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_14">
+		<text>Здароў! Як жыццё? Бадзёра выглядаеш!</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_15">
+		<text>А, здароў... Свет цесны, як бачу.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_16">
+		<text>Ну што? Для хімеры самы час.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_start_17">
+		<text>Ну як, перад паляваннем не трасе?</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_trapper_send_0">
+		<text>Зверабой прасіў дапамагчы табе ў паляванні на хімеру.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_trapper_send_1">
+		<text>Так, з нюхам у яго ўсё як мае быць... Справа ў тым, што мы нарэшце высачылі хімеру. Шкада, Краб яшчэ не ачуняў, ды і Данілы ўсё няма. Давядзецца ісці ўтрох! Ну, калі ўжо Зверабой выбраў цябе, значыць, паляўнічы ты годны. Слухай: хімера палюе ўначы, а каля трэцяй гадзіны запаўзае ў логава і засынае, так бы мовіць, без задніх ног. Нападаць на яе трэба толькі тады. Калі будзеш гатовы, падыходзь каля трэцяй гадзіны ночы, вырушым усёй групай. Чакаем цябе ў бары.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_0">
+		<text>Вырашыў выставіць мяне дурнем?</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1">
+		<text>А ты і ёсць дурань, а дурняў трэба вучыць.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_11">
+		<text>Нічога... Свет цесны, а Зона тым болей. Яшчэ сустрэнемся.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_111">
+		<text>Ідзі... Ідзі адсюль. На «Скадоўску» кулакамі не махаюць.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1111">
+		<text>Ну-ну.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_12">
+		<text>Вядома, я памыліўся. Але ты ўчыніў не па правілах.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_121">
+		<text>Чаго толькі ў Зоне не здараецца... Ладна, хопіць языком малоць.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_13">
+		<text>Відаць, і праўда дурань, раз выпусціў артэфакт з рук.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_131">
+		<text>Ладна, не скардзіся. Калі наматаў на вус, значыць, урок быў не марны. А каб яшчэ лепей запомніў, вось табе на піва: можа, палягчэе.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1311">
+		<text>Ад сваёй долі не адмоўлюся.</text>
+	</string>
+	<string id="zat_b14_stalker_at_bar_start_1312">
+		<text>На піва я ўжо як-небудзь сам зараблю.</text>
+	</string>
+	<string id="zat_b14_stalker_robbery_0">
+		<text>Ну што, давыхваляўся, га?! Усё, цяпер ужо не выкруцішся! Аддавай артэфакт, прыдурку!..</text>
+	</string>
+	<string id="zat_b14_stalker_robbery_1">
+		<text>Падонак. На, забірай... і валі адсюль.</text>
+	</string>
+	<string id="zat_b14_stalker_robbery_2">
+		<text>Ды пайшоў ты!..</text>
+	</string>
+	<string id="zat_b14_stalker_start_0">
+		<text>Браце! Слухай, тут ёсць адзін гаючы артэфакт, ён мне вельмі патрэбны! Сябар канае, лекі не дапамагаюць... Я з першага разу не здолеў яго здабыць, у «газіроўку» ўляцеў. Ты яго, часам, не бачыў?</text>
+	</string>
+	<string id="zat_b14_stalker_start_1">
+		<text>Калі гэта так важна — трымай.</text>
+	</string>
+	<string id="zat_b14_stalker_start_11">
+		<text>Дзякуй, браце! Век не забуду!</text>
+	</string>
+	<string id="zat_b14_stalker_start_111">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b14_stalker_start_2">
+		<text>Ёсць такі. Толькі ён мне самаму спатрэбіцца.</text>
+	</string>
+	<string id="zat_b14_stalker_start_21">
+		<text>Дык як жа? Гэта ж жывы чалавек... мой сябар... ён жа памрэ!</text>
+	</string>
+	<string id="zat_b14_stalker_start_211">
+		<text>У Зоне кожны сам за сябе. Бывай.</text>
+	</string>
+	<string id="zat_b14_stalker_start_3">
+		<text>Не, не бачыў. Бывай.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_0">
+		<text>Эх, не прынясе табе дабра гэты артэфакт... Сам пабачыш.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_1">
+		<text>Калі ён табе так патрэбны — трымай.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_11">
+		<text>Дзякуй, браце! Век не забуду!</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_111">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_2">
+		<text>Пабачым.</text>
+	</string>
+	<string id="zat_b14_stalker_start_last_chance_end_0">
+		<text>Мне з табой няма пра што гаварыць.</text>
+	</string>
+	<string id="zat_b18_noah_arc_0">
+		<text>Чаму ты жывеш на гэтым судне?</text>
+	</string>
+	<string id="zat_b18_noah_arc_1">
+		<text>Гэта Каўчэг, запомні! Калі хочаш жыць, запомні!.. Калі пойдзе Хваля, трымайся побач. Тут у цябе ёсць шанец выжыць. Сюды не праб’ецца ніводзін мутант.</text>
+	</string>
+	<string id="zat_b18_noah_catastrophe_0">
+		<text>Ты казаў пра якуюсь Хвалю?</text>
+	</string>
+	<string id="zat_b18_noah_catastrophe_1">
+		<text>Хваля мутантаў, што раздавіць і вынесе людзей з Зоны! А няшчасных, якія выжывуць, змяце вялізны, люты выкід! Ён знішчыць усё жывое ў Зоне, акрамя тых, хто будзе да яго гатовы!</text>
+	</string>
+	<string id="zat_b18_noah_dog_0">
+		<text>Адкуль у цябе гэты сабака?</text>
+	</string>
+	<string id="zat_b18_noah_dog_1">
+		<text>Гэта Лэсі. Слаўная сука! Калі б не яна, мяне б даўно зжэрлі ў сне... Клятыя мутанты! Ненавіджу! Толькі заплюшчыш вочы — а яны ўжо побач, цягнуць кіпцюры, іклы, шчупальцы...</text>
+	</string>
+	<string id="zat_b18_noah_first_artefact_0">
+		<text>Мне патрэбны артэфакт «Компас». Не ведаеш, дзе яго шукаць?</text>
+	</string>
+	<string id="zat_b18_noah_first_artefact_1">
+		<text>Ды гэта дрэнь! Калі мутанты палезуць з усіх шчылін, ён табе не дапаможа... На, забірай! І валі адсюль!</text>
+	</string>
+	<string id="zat_b18_noah_first_artefact_11">
+		<text>Дзякую.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_0">
+		<text>Табе што-небудзь вядома пра верталёты, што ўпалі?</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1">
+		<text>Пра адзін ведаю: вунь ён на плато, а вакол яго бегаюць сноркі. Я іх там раз на два дні адстрэльваю... Чаго глядзіш? Усіх у логаве за раз не пераб’еш!</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_11">
+		<text>Як трапіць на плато?</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_111">
+		<text>Ты таксама хочаш адстрэльваць сноркаў? Паважаю... Ладна, магу правесці.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1111">
+		<text>Пайшлі.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1112">
+		<text>Як-небудзь пазней.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1121">
+		<text>Сталкер.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_11211">
+		<text>Ясна... Чаго табе?</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_1122">
+		<text>Не твая справа.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_113">
+		<text>Я правяду цябе, але пакуль сядзі тут. Там выкід. Зразумеў? Выкід!..</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_12">
+		<text>Я быў ля логава.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_121">
+		<text>Так? Ды яны ж не супакояцца... Мутантаў будзе ўсё больш. І аднойчы яны пойдуць на нас! Хваля змяце з твару Зоны ўсіх, хто да гэтага не будзе гатовы!..</text>
+	</string>
+	<string id="zat_b18_noah_second_artefact_0">
+		<text>Скажы, у цябе выпадкова няма артэфакта «Компас»?</text>
+	</string>
+	<string id="zat_b18_noah_second_artefact_1">
+		<text>Думаеш, гэтае глупства зможа цябе абараніць ад выкіду?.. На, забірай! Забірай і сыходзь адсюль!</text>
+	</string>
+	<string id="zat_b18_noah_second_artefact_11">
+		<text>Дзякую.</text>
+	</string>
+	<string id="zat_b18_noah_start_11">
+		<text>Ты хто такі?</text>
+	</string>
+	<string id="zat_b18_noah_start_111">
+		<text>Сталкер. Мы сустракаліся.</text>
+	</string>
+	<string id="zat_b18_noah_start_1111">
+		<text>Не памятаю... Ладна, што табе трэба?</text>
+	</string>
+	<string id="zat_b18_noah_start_112">
+		<text>Сталкер. Проста сталкер.</text>
+	</string>
+	<string id="zat_b18_noah_start_1121">
+		<text>Ты ўсё-такі зразумеў і прыйшоў у Каўчэг!..</text>
+	</string>
+	<string id="zat_b18_noah_start_113">
+		<text>Не твая справа.</text>
+	</string>
+	<string id="zat_b18_noah_start_21">
+		<text>А, гэта ты... Чаго трэба?</text>
+	</string>
+	<string id="zat_b18_noah_third_artefact_0">
+		<text>Ці не знойдзецца ў цябе лішняга артэфакта «Компас»?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_0">
+		<text>Раскажы пра анамаліі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1">
+		<text>Варта памятаць: каля анамалій часта бывае альбо вельмі горача, альбо паветра поўнае атрутных газаў, альбо проста высокі радыяцыйны фон. Псі-прабой, мабыць, і згадваць не буду. Усё залежыць ад саміх анамалій: «Жарка», «Газіроўка», «Электра» ці, крый Божа, нешта з гравітацыйных... Бываюць яшчэ рухомыя анамаліі, але пра іх асобная гаворка.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1111">
+		<text>Раскажы пра «Жарку».</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11111">
+		<text>Калі бачыш перад сабой мігаценне, як над асфальтам у спякотны летні дзень, гэта «Жарка». Калі ў яе нешта трапляе, у тым месцы пачынае біць язык асабліва гарачага полымя. Спачатку лічылі, што гэта звязана са струменямі прыроднага газу, але апошнім часам, здаецца, ад гэтай тэорыі адмовіліся.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1112">
+		<text>Раскажы пра «Газіроўку».</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11121">
+		<text>У гэтай анамаліі няспынна адбываюцца нейкія актыўныя хімічныя працэсы. Пякельная кухня, карацей кажучы. У выніку ўтвараецца кіслата, якая раз'ядае скуру, і атрутныя газы, якія гэтаксама раз'ядаюць лёгкія. Добра яшчэ, што «газіроўку» лёгка заўважыць на адкрытым месцы... Горш, калі нечакана ўлятаеш у яе пасярод цёмнага тунэля.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1113">
+		<text>Раскажы пра «Электру».</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11131">
+		<text>Вельмі цікавая анамалія! Прынцып такі: яна назапашвае нямалы зарад статычнай электрычнасці, але металічны прадмет змушае «Электру» разрадзіцца. Многія так і карыстаюцца: кідаеш ніт і прабягаеш міма, пакуль яна не назапасіла новы зарад... Але я асабіста аддаю перавагу абыходзіць гэту анамалію: новы зарад, як на мяне, назапашваецца занадта хутка.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1114">
+		<text>Раскажы пра гравітацыйныя анамаліі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11141">
+		<text>Звычайна яны ў стане спакою. Іх можна заўважыць па бачных скажэннях прадметаў, што знаходзяцца за імі. Калі заўважыш такую, лепей абыходзь яе здалёк. Усе тры вядомыя разнавіднасці спрацоўваюць імгненна, як толькі іх нешта закране... «Трамплін» выкідвае ўсё з сябе, часам на значную адлегласць. «Варонка», наадварот, уцягвае і сціскае з жахлівай сілай, каб праз некалькі секунд зноў раскідаць. А «Карусель» падымае ахвяру над зямлёй, раскручвае і рве на шматкі... Вельмі непрыемны лёс.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1115">
+		<text>Раскажы пра рухомыя анамаліі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_11151">
+		<text>Я асабіста бачыў толькі «Камету» і «Тэслу». Першая — вогненны шар каля метра ў дыяметры. Але яе жар адчуеш і здалёк — гэта я табе абяцаю. Другая вельмі нагадвае шаравую маланку: гэта і праўда шар, і прырода ў яго відавочна электрычная... І тая, і другая актыўна рухаюцца, але, як правіла, па замкнёных траекторыях. Уважлівы сталкер зможа лёгка іх абысці. Галоўнае — не адцягвацца і не распыляць увагу.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_anomalies_1116">
+		<text>Ладна, забудзь.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_himself_0">
+		<text>Раскажы пра сябе.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_himself_1">
+		<text>Мяне недарма завуць Лоцманам. Маршруты, па якіх я ваджу, заўсёды самыя бяспечныя. Шукаць артэфакты ці ваяваць з бандытамі — такіх талентаў у мяне няма, чаго граху таіць. Думаю, кожны павінен карыстацца сваім уменнем і патроху дапамагаць іншым. Вядома, любое ўменне мае сваю цану...</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_surge_0">
+		<text>Раскажы пра выкід.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_maps_0">
+		<text>У мяне ёсць мапы мясцовасці паміж Затонам і «Юпітэрам». Хочаш зірнуць?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_maps_1">
+		<text>Ану, ану... вось глядзі, усё даволі падрабязна... У нашай справе нельга выпускаць з-пад увагі дробязі, калі хочаш застацца ў жывых... Ага, глянь! Мяркуючы па мапах, паміж «Скадоўскам» і «Янавам» ёсць бяспечны праход наўпрост. Мабыць, скапірую іх сабе на КПК, калі ты не супраць... так. Ну, добры чалавеча, цяпер прапаную табе добрую зніжку!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_11">
+		<text>Можа, табе патрэбны праваднік? Пакажу шлях паміж анамаліямі, не дам трапіць пад выкід... Лоцман да тваіх паслуг.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_21">
+		<text>Патрэбна дапамога правадніка?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_31">
+		<text>Рады бачыць! Што, патрэбна дапамога старога Лоцмана?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_41">
+		<text>Зноў у дарогу?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_51">
+		<text>Прымі маю пашану! Зноў не сядзіцца на адным месцы? Я да тваіх паслуг.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_61">
+		<text>Вітаю. Калі табе патрэбны праваднік, магу дапамагчы. Толькі пачакаем, пакуль скончыцца выкід. А пакуль можам пагаварыць пра анамаліі, развеяць нуду.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_start_71">
+		<text>Баюся, цяпер я як праваднік нічога не варты. Выкід!..</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_0">
+		<text>Колькі каштуе пераход да станцыі «Янаў»?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_1">
+		<text>Шлях туды не блізкі, таму 3000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_11">
+		<text>Згодны, пайшлі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_12">
+		<text>У мяне няма такой сумы.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_13">
+		<text>Я пакуль не пайду.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_2">
+		<text>Так, зніжка за мапы... карацей, 1000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_21">
+		<text>Згодны, пайшлі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_22">
+		<text>У мяне няма такой сумы.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_23">
+		<text>Я пакуль не збіраюся ісці.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_3">
+		<text>Шлях туды не блізкі, таму 3000. Буду да тваіх паслуг пасля скончання выкіду.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_jupiter_4">
+		<text>Зніжка за мапы — 1000. Толькі трэба перачакаць выкід...</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_0">
+		<text>Ты можаш правесці мяне ў Прыпяць?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_3">
+		<text>Не. Кожнаму сваё, а я туды не хаджу. Вунь там, глядзі, стаіць Гарык. Думаю, ён табе дапаможа.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_4">
+		<text>Сам я не правяду. Але за 6000 дастаўлю цябе на «Янаў» і дамоўлюся з Гарыкам. З ім ты пройдзеш астатні шлях да Прыпяці. Як табе такі варыянт?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_41">
+		<text>Згодны, пайшлі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_42">
+		<text>У мяне няма такой сумы.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_43">
+		<text>Я пакуль не пайду.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_5">
+		<text>Сам я не правяду. Але за 4000 дастаўлю цябе на «Янаў» і дамоўлюся з Гарыкам. З ім ты пройдзеш астатні шлях да Прыпяці. Як табе такі варыянт?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_51">
+		<text>Згодны, пайшлі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_52">
+		<text>У мяне няма такой сумы.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_53">
+		<text>Я пакуль не збіраюся ісці.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_6">
+		<text>Не. Кожнаму сваё, а я туды не хаджу. Вунь там стаіць Гарык. Думаю, пасля выкіду ён табе дапаможа.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_7">
+		<text>Сам я не правяду. Але за 6000 дастаўлю цябе на «Янаў» і дамоўлюся з Гарыкам. З ім ты пройдзеш астатні шлях да Прыпяці — вядома, пасля таго, як скончыцца выкід.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_8">
+		<text>Сам я не правяду. Але ўсяго за 4000 дастаўлю цябе на «Янаў» і дамоўлюся з Гарыкам. З ім ты пройдзеш астатні шлях да Прыпяці — вядома, пасля таго, як скончыцца выкід.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_0">
+		<text>Ты можаш правесці мяне ў Прыпяць?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_1">
+		<text>У Прыпяць? Не. Мой маршрут і так запатрабаваны, няма сэнсу шукаць новы... Затое ў мяне ёсць добры прыяцель — ён некалі працаваў на заводзе «Юпітэр». Дык вось, ён казаў, што пад заводам ёсць тунэлі, якія вядуць у Прыпяць. Сам ён дэталяў не ведаў, але збіраўся пачаць пошукі з адміністрацыі завода.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_pripyat_no_way_2">
+		<text>Не. Калі хочаш туды трапіць, паспрабуй знайсці тунэлі пад заводам «Юпітэр».</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_0">
+		<text>Колькі каштуе пераход да «Скадоўска»?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_1">
+		<text>Туды даводзіцца ісці ў абход, таму 3000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_11">
+		<text>Згодны. Пайшлі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_12">
+		<text>У мяне пакуль няма такой сумы.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_13">
+		<text>Я пакуль не пайду.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_2">
+		<text>Па новым маршруце — усяго 1000.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_21">
+		<text>Згодны. Пайшлі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_22">
+		<text>У мяне пакуль няма такой сумы.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_23">
+		<text>Я пакуль не збіраюся ісці.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_3">
+		<text>Туды даводзіцца ісці ў абход, таму 3000... Буду да тваіх паслуг пасля заканчэння выкіду.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_to_zaton_4">
+		<text>Па новым маршруце — усяго 1000. Трэба толькі перачакаць выкід.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_where_to_0">
+		<text>Куды ты можаш мяне правесці?</text>
+	</string>
+	<string id="zat_b215_stalker_guide_where_to_1">
+		<text>На станцыю «Янаў» — гэта недалёка ад завода «Юпітэр». А адтуль — назад на «Скадоўск»... Лепш добра ведаць адну дарогу, чым некалькі — абы-як.</text>
+	</string>
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_0">
+		<text>Я сарваў бандытам здзелку са зброяй.</text>
+	</string>
+	<string id="zat_b22_barmen_about_after_quest_b5_dealer_actor4_1">
+		<text>Дзякуй за дапамогу! Як успомню беззаконныя дзевяностыя і тых быкоў з РПГ, дык ажно ўздрыгну... Вось, вазьмі. Грошы ўсім спатрэбяцца.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor1_0">
+		<text>Шукаю Глушца. Мы мусілі тут сустрэцца.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor1_1">
+		<text>Глушэц пакінуў для цябе звесткі: сказаў, што пойдзе да партовых кранаў. Ён даведаўся нешта новае пра зніклых сталкераў.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor2_0">
+		<text>Глушэц мёртвы. Яго і іншых сталкераў забіў Дрыжык. Але Дрыжык таксама ўжо мёртвы.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor2_1">
+		<text>Дрыжык? Ды-а... прытулілі гадзюку!.. А на іх месцы мог апынуцца хто заўгодна. Нават Глушэц... Ладна, дзякуй табе, дружа. Ты ўвесь лагер выручыў. Трымай.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor3_1">
+		<text>Дрыжык?! Прабач, дружа, але я ніяк не магу ў гэта паверыць. Вось калі б знайшліся доказы, а так... Эх, Глушэц, Глушэц!..</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor4_0">
+		<text>Вось КПК Дрыжыка. У ім доказы.</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor4_1">
+		<text>Ды-а... прытулілі гадзюку!.. А на іх месцы мог апынуцца хто заўгодна. Нават Глушэц... Ладна, дзякуй табе, дружа. Ты ўвесь лагер выручыў. Трымай.</text>
+	</string>
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_0">
+		<text>Я дапамагу разабрацца з бандытамі.</text>
+	</string>
+	<string id="zat_b22_barmen_b5_daring_quest_stalkers_1">
+		<text>Выдатна. Ідзі да лясніцтва, там нашы хлопцы. Яны ўсё падрабязней раскажуць.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_b52_about_nimble_0">
+		<text>Што ведаеш пра Спрытнага? Ён можа прадаваць крадзеную зброю?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_b52_about_nimble_1">
+		<text>Я яго дрэнна ведаю. Наўрад ці ён такім займаецца... Хто хоча збыць крадзенае, зазвычай не прымае замовы загадзя.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_11">
+		<text>Я ведаў, што вельмі хутка да мяне дабяруцца. Калі не ты, дык нехта іншы...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_111">
+		<text>Дрыжык?! Можа, патлумачыш, што адбываецца?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1111">
+		<text>Я ўжо нічога не хачу хаваць. Маўчаць няма сэнсу: мае ўчынкі самі за сябе кажуць... Напэўна, ты ўжо зразумеў, што гэта я забіў Глушца. Гэтаксама, як Данілу і іншых зніклых...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_11112">
+		<text>Я ўсё зразумеў. Хопіць балбатні.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_111121">
+		<text>Мяне ніхто не зможа зразумець...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_112">
+		<text>Навошта табе гэта было патрэбна?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1121">
+		<text>Я нікому не пажадаю перажыць пакуты гемаглабіназалежнасці... Ад яе не пазбавішся. Бываюць дні, калі здаецца, што здолееш доўга пражыць без ніводнай кроплі крыві, вельмі доўга — можа, месяц... І такое сапраўды здаралася! Як я тады ганарыўся сабой! Але потым... потым зрываешся і пачынаеш наганяць прапушчанае...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_113">
+		<text>Як табе ўдавалася гэта хаваць?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1131">
+		<text>Калі я працаваў у хірургіі, схаваць гэта было лёгка: амаль заўсёды заставалася лішняя донарская кроў. А вось у Зоне... Я думаў, што ў такіх цяжкіх умовах мне будзе не да хваробы. Як жа я памыляўся!.. Я сарваўся і... і больш не мог думаць ні пра што іншае. Звычайна я выбіраў параненых, а забойствы лічыў за правільнае выдаваць за напады крывасмокаў.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_114">
+		<text>А як жа Даніла і Глушэц?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1141">
+		<text>Даніла прыбег да мяне па дапамогу пасля вылазкі на крывасмокаў. Ён быў паранены. Калі Глушэц дамовіўся з ім пайсці на крывасмокаў, я зразумеў, што доўга ўжо не пратрымаюся. Я яшчэ захоўваў сваю таямніцу, але ведаў, што гэта ненадоўга... Неўзабаве з'явіўся Глушэц. Ён пра ўсё здагадаўся і паспрабаваў мяне забіць... Вось так. Мне шкада гэтых людзей, бясконца шкада сябе... але гэтым ужо нічога не паправіш...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_11411">
+		<text>Я ўсё зразумеў. Хопіць балбатні.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_114111">
+		<text>Мяне ніхто не зможа зразумець...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_21">
+		<text>Слухаю цябе.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_22">
+		<text>Вітаю. Патрэбная дапамога?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_23">
+		<text>Вітаю.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_0">
+		<text>Мне патрэбная медыцынская дапамога.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_1">
+		<text>Давай пагляджу...</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_111">
+		<text>Так, вось і ўсё... Можаш ісці.</text>
+	</string>
+	<string id="zat_b29_rivals_start_dialog_11">
+		<text>Здароў! Што, таксама шукаеш артэфакты?</text>
+	</string>
+	<string id="zat_b29_rivals_start_dialog_12">
+		<text>Прывітанне!.. Ты таксама, так бы мовіць, па артэфакты? Тут на ўсіх павінна хапіць!</text>
+	</string>
+	<string id="zat_b29_rivals_start_dialog_13">
+		<text>О, здароў! Ты таксама артэфактамі займаешся?</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_0">
+		<text>Здароў. Нясеш артэфакт для Барады?</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1">
+		<text>Можа, і нясу, а можа, і не. Табе якая розніца?</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11">
+		<text>Ён мне патрэбны.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111">
+		<text>Мне таксама! Але магу абмяняць... скажам, на новую пушку. А танную, адразу кажу, не вазьму.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1111">
+		<text>У мяне ёсць добрая зброя. Мяняемся.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11111">
+		<text>Выдатна.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_1112">
+		<text>Так не пойдзе.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_11121">
+		<text>Тады адчапіся і не блытайся пад нагамі.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_111211">
+		<text>Добра.</text>
+	</string>
+	<string id="zat_b29_stalker_rival_exchange_actor_dialog_12">
+		<text>Увогуле ніякай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_about_nimble_0">
+		<text>Што ты ведаеш пра Спрытнага?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_about_nimble_1">
+		<text>Ды нічога асаблівага... Па бізнэсе мы не перасякаемся: пакуль ён шукае па ўсёй Зоне адзін мегаствол, я ўжо паспяваю прадаць сотню звычайных. Ды і надта пераборлівы ён — адмовіўся мець справы з тутэйшымі браткамі. Так што гандляр з яго ніякі, а мне гэта, увогуле, толькі на руку.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_0">
+		<text>Барада сказаў, што вы дамовіліся на іншых умовах.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_1">
+		<text>Якіх яшчэ «іншых»?! Ды ён зусім страх страціў, барадаты казёл! Пара яго прыструніць... Слухай, на Затоне ёсць адзін уплывовы чалавек, завуць яго Султан. Зайдзі да яго — ён скажа, што рабіць.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_11">
+		<text>Пайду пагавару з Султанам.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_12">
+		<text>Ніякіх Султанаў. Давай маю долю зараз жа!</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_b30_actor_after_barmen_121">
+		<text>Э-э... добра. Вось, трымай. Але запомні: мамай клянуся, Барада цябе за нос водзіць.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_0">
+		<text>Мне патрэбная інфармацыя.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1">
+		<text>Што хочаш даведацца?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_11">
+		<text>Мне патрэбны атрутны газ. Чуў, ты нешта пра яго ведаеш.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_111">
+		<text>Ведаю. Раскажу за 2000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1111">
+		<text>Трымай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_11111">
+		<text>Слухай. Калісьці вайсковая аўтакалона везла такі газ, але не давезла... Што з імі здарылася — невядома, але там павінны былі застацца балоны з газам. Усё зразумеў?.. Так, яшчэ там маглі застацца дакументы. Знойдзеш — нясі мне, заадно пакрыеш выдаткі на інфармацыю.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1112">
+		<text>Для мяне занадта дорага.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_11121">
+		<text>Як хочаш.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_12">
+		<text>Дзе я магу знайсці сталкера па мянушцы Сарока?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_121">
+		<text>Магу сёе-тое падказаць за 1000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1211">
+		<text>Трымай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_12111">
+		<text>Тут ты яго ўжо не знойдзеш, але мне шапнулі, што варта пашукаць каля «Юпітэра» — напрыклад, на станцыі «Янаў». Толькі май на ўвазе: калі нехта моцна нашкодзіў у адным месцы, у іншым пад старым імем не назавецца... А то і форму зменіць, вось так. Шукаць жа яго будуць сярод сталкераў.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_13">
+		<text>Шукаю Корча. Не ведаеш, дзе яго можна знайсці?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_131">
+		<text>Раскажу за 1000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1311">
+		<text>Трымай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_13111">
+		<text>Корч — сквапны дурань, звязаўся з небяспечнымі людзьмі... Дарогі назад яму няма, таму шукаць яго трэба каля «Юпітэра». Больш падзецца яму няма куды: тут не ты адзін яго шукаеш.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15">
+		<text>Што ведаеш пра верталёты, якія ўпалі?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_151">
+		<text>Ну, тут усе ведаюць, дзе яны грукнуліся... Адзін — на паўднёвым плато, другі ў балота ўляцеў, а трэці збіў слупы падстанцыі. Пра якое месца табе расказаць?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1511">
+		<text>Пра паўднёвае плато.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1512">
+		<text>Пра падстанцыю.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1513">
+		<text>Пра балота.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1516">
+		<text>Пра верталёты больш пакуль нічога.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_152">
+		<text>Давай грошы. З цябе 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1521">
+		<text>Трымай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15211">
+		<text>Дык вось. Верталёт прызямліўся якраз каля логава сноркаў. Паводле маіх звестак, вайскоўцы адтуль выбраліся — не ўсе, ясная рэч, але большасць. Пастралялі мутантаў і спусціліся ўніз... Дарэчы, калі туды пойдзеш, можаш купіць у мяне драбавіцу і набояў, пачаставаць тых пачвараў... Так, а як забрацца на плато — тое ведае толькі дзівакаваты Ной.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1522">
+		<text>Для мяне занадта дорага.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15221">
+		<text>Як хочаш.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_153">
+		<text>Раскажу за 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1531">
+		<text>Трымай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_154">
+		<text>Раскажу за 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_1541">
+		<text>Трымай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_99">
+		<text>Пакуль нічога.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_0">
+		<text>Ёсць для мяне работа?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111">
+		<text>Па-першае, ёсць невялікая справа з навукоўцамі. Па-другое, трэба здабыць звесткі ў лагеры наймітаў. І па-трэцяе, гандляру ўсё яшчэ патрэбная ахова. Справы хоць адбаўляй — толькі выбірай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1111">
+		<text>Раскажы пра справу з навукоўцамі.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_11111">
+		<text>Спачатку трэба дастаць тры дэтэктары «Вялес», а потым аднесці іх у бункер навукоўцаў каля «Юпітэра». Там пагаворыш з Новікавым, ён абяцаў з імі пакапацца... Калі дэтэктары пачнуць прыносіць прыбытак, будзем дзяліць яго напалам. Зразумела? Дзейнічай. Справа раз плюнуць.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111111">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111112">
+		<text>Можа, іншым разам.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112">
+		<text>Раскажы пра лагер наймітаў.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_11121">
+		<text>На станцыі перапрацоўкі адкідаў аб’явіліся найміты, і мне вельмі цікава, што яны там задумалі. Пракрадзіся ў іх лагер і знайдзі якія-небудзь звесткі пра іх планы. КПК, дакументы — карацей, усё, што знойдзеш, прынясеш мне. Зразумеў? Тады наперад. Калі ўмееш працаваць ціха, табе гэта будзе раз плюнуць.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111211">
+		<text>Згодны.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111212">
+		<text>Не цяпер.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1113">
+		<text>Раскажы пра ахову для гандляра.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_11131">
+		<text>Гандляру патрэбная ахова на адну здзелку. Ад цябе амаль нічога не патрабуецца: проста пастаіш, створыш бачнасць. Зразумеў?.. Гандляр будзе чакаць каля лясніцтва; там і абмяркуеце ўсе падрабязнасці.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111311">
+		<text>Добра.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111312">
+		<text>Пачакай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1114">
+		<text>Іншым разам.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_112">
+		<text>Па-першае, ёсць невялікая справа з навукоўцамі, а па-другое, трэба здабыць звесткі ў лагеры наймітаў. Выбірай, што больш падабаецца.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_113">
+		<text>Па-першае, ёсць невялікая справа з навукоўцамі, а па-другое, гандляру ўсё яшчэ патрэбная ахова. Давай, хутчэй вырашай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_114">
+		<text>Па-першае, трэба здабыць звесткі ў лагеры наймітаў, а па-другое, гандляру ўсё яшчэ патрэбная ахова. Давай, хутчэй вырашай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_115">
+		<text>Невялікая справа з навукоўцамі. Справа раз плюнуць: занесці ды прынесці.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_117">
+		<text>Гандляру ўсё яшчэ патрэбная ахова на адну здзелку. Справа няцяжкая.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_118">
+		<text>Больш работы няма.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_0">
+		<text>Думаю, гэта цябе зацікавіць...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1">
+		<text>Што ў цябе?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_11">
+		<text>КПК Ноя.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_111">
+		<text>Таго псіха з баржы?.. Ладна, дам за яго 1000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1111">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1112">
+		<text>Не, так не пойдзе. Пакуль пакіну ў сябе.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_11121">
+		<text>Глядзі толькі, не ператрымай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_12">
+		<text>КПК найміта па мянушцы Кручок. Знайшоў на станцыі перапрацоўкі адкідаў.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_121">
+		<text>Дам за яго 1000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1211">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_12112">
+		<text>Вельмі цікава... Выдатна папрацаваў, сталкеру!</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_13">
+		<text>КПК найміта па мянушцы Хрыбет. Знайшоў на станцыі перапрацоўкі адкідаў.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_131">
+		<text>Дам за яго 1000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1311">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_14">
+		<text>КПК са звесткамі пра схованкі «Маналіту».</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_141">
+		<text>Дам за яго 5000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1411">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_15">
+		<text>КПК чалавека, звязанага з замоўнікам наймітаў.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_151">
+		<text>Дам за яго 4000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1511">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_16">
+		<text>КПК аднаго з заснавальнікаў «Доўгу», генерала Тачэнкі.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_161">
+		<text>Ого! За яго я гатовы даць прыстойныя грошы... скажам, 2500?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1611">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_17">
+		<text>КПК аднаго найміта.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_171">
+		<text>Дам за яго 1000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1711">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_18">
+		<text>КПК Моргана.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_182">
+		<text>Звесткі пра гандляра «Доўгу», які прадае зброю ўсім запар, заўсёды спатрэбяцца. Заплачу за іх 4000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1821">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_19">
+		<text>Запіска са схованкі групы Стралка. Напісаная для Прывіда.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_191">
+		<text>Дам за яе 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_1911">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_20">
+		<text>Запіска са схованкі групы Стралка. Напісаная для Стралка.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_201">
+		<text>Дам за яе 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2011">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_21">
+		<text>Запіска са схованкі групы Стралка. Напісаная для Ікола.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_211">
+		<text>Дам за яе 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2111">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_22">
+		<text>Дакументы з завода «Юпітэр» — папка з загадам аб усеагальнай эвакуацыі.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_221">
+		<text>Дам за яе 750.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2211">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_23">
+		<text>Дакументы з завода «Юпітэр» — аркуш з сшытка з запісам.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_231">
+		<text>Дам за яго 750.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2311">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_24">
+		<text>Дакументы з завода «Юпітэр» — графік паставак.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_241">
+		<text>Дам за яго 750.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2411">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_25">
+		<text>Дакументы з завода «Юпітэр» — ліст пра рашэнне пастаўляць «выраб №62» толькі праз пуцеправод.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_251">
+		<text>Дам за яго 750.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2511">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_261">
+		<text>Не, дзякуй. Раз ужо Султан у гэта ўлез, я лепш пастаю ўбаку.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_271">
+		<text>Паглядзім... Так, цікава. Прадасі?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2711">
+		<text>Прадаю. Мне яны ні да чаго.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_30">
+		<text>Ноўтбук з лагера наймітаў на станцыі перапрацоўкі адкідаў.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_301">
+		<text>Прапаную за яго 2000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3011">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_311">
+		<text>Х-хе... Ну то цягні яго да Барады або да навукоўцаў! Мне сумнеўны тавар не патрэбны. А раптам ён мне за ноч вострую прамянёвую хваробу ўладкуе?..</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_321">
+		<text>Дык няхай у цябе і застаецца. У нашай справе рызыкаваць няма чаго, а раптам ён да вечара створыць вакол сябе анамальнае поле?.. Лепш аднясі яго навукоўцам на даследаванне.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_331">
+		<text>Ну так, а ў мяне ж у шафцы ядзерная боегалоўка... Ведаеш, з такімі жартачкамі ідзі да навукоўцаў. Можа, яны пасмяюцца.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_34">
+		<text>КПК Корча.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_341">
+		<text>Дай-ка пагляджу... А, нічога асаблівага. Схованку ты, пэўна, ужо абчысціў, таму дам... ну, 200.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3411">
+		<text>Згодны.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_35">
+		<text>КПК аднаго з людзей Султана.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_351">
+		<text>Цікава... вось гэта можа спатрэбіцца. Дам за яго 1000.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3511">
+		<text>Згодны.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_36">
+		<text>Модуль памяці беспілотнага выведвальнага апарата.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_361">
+		<text>Цікавая знаходка! Але шмат за яе не дам: я не першы, хто мог скапіяваць з яго інфармацыю. Прапаную 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_3611">
+		<text>Годзіцца.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_99">
+		<text>Пакуль нічога.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_0">
+		<text>Пра дэтэктары...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_1">
+		<text>Што такое?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_11">
+		<text>Дзе іх можна знайсці?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_111">
+		<text>Не ведаю. Дзе хочаш, там і шукай.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_12">
+		<text>У мяне ёсць патрэбныя дэтэктары.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_121">
+		<text>Дык чаго ты яшчэ тут? Аднясі іх Новікаву, у бункер навукоўцаў. Ён каля «Юпітэра».</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_13">
+		<text>Я аддаў дэтэктары Новікаву.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_stages_131">
+		<text>Выдатна. Пачакайма, пакуль ён з імі разбярэцца. Новікаў абяцаў перадаць іх надзейнаму чалавеку, як скончыць.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_12">
+		<text>Ёсць праблемы. Наш з табой бізнэс апынуўся пад пагрозай. Новікаў пакапаўся ў дэтэктарах, павялічыў радыус дзеяння, адчувальнасць ды ўсё такое... Цяпер з іх дапамогай можна каго заўгодна абставіць у пошуку артэфактаў. Я дамовіўся з Барадой, каб сталкеры, якіх ён наймае, карысталіся новымі дэтэктарамі.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_121">
+		<text>І што далей?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1211">
+		<text>Згодна з дамовай, мы павінны дзяліць хабар пароўну. Толькі сталкеры адмаўляюцца прыносіць нам нашу з табой палову! Табе трэба пайсці да Барады і пераканаць яго выканаць сваю частку дамовы. Ты ж хочаш атрымаць сваю долю?</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_0">
+		<text>Мне патрэбны твой новы дэтэктар.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_1">
+		<text>Ха! А мне патрэбны круты ствол! Калі ў цябе ёсць годная зброя, ды не з танных, можам абмяняцца.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_11">
+		<text>Па руках.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_1_about_detector_12">
+		<text>Не, так не пойдзе.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_0">
+		<text>Мне патрэбны твой новы дэтэктар.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_1">
+		<text>Гэта што, пагроза? Ён мне таксама патрэбны, між іншым.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_11">
+		<text>Ты што, сітуацыі не ўцяміў? Твой — апошні. З іншымі доўга важдацца не давялося...</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_111">
+		<text>Ты чаго... ты іх забіў?! На, трымай... каб ты ўдавіўся!</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_112">
+		<text>Слухай, а не пайшоў бы ты...</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_12">
+		<text>Пакуль я па-добраму прашу.</text>
+	</string>
+	<string id="zat_b30_stalker_rival_2_about_detector_123">
+		<text>Па-добраму?! Ды ідзі ты... сваёй дарогай!..</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11">
+		<text>Сталкеру, хочаш падзарабіць?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111">
+		<text>Што трэба рабіць?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1111">
+		<text>Разумееш, я схаваў хабар у «Запарожцы». Раптам здарыўся землятрус, і машына пайшла пад зямлю. Паглядзеў — быццам можна яе дастаць... толькі, разумееш, там гэтых мутантаў, сноркаў, процьма! Не паверыш, кантралёра не баюся, а сноркі мне агідныя — нічога з сабой не магу зрабіць. Калі дастанеш кантэйнер з кодавым замком, хабар падзелім па-чэснаму.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11111">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111111">
+		<text>Дзякуй, сталкеру.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11112">
+		<text>Гэта той самы кантэйнер?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111121">
+		<text>Ён, ён!.. Ну ты проста дэман!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_11113">
+		<text>Іншым разам.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_111131">
+		<text>Шкада...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_112">
+		<text>Не, у мяне цяпер шмат спраў.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_1121">
+		<text>Ну як хочаш.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_21">
+		<text>Ну як? Што новага?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_about_cache_dialog_31">
+		<text>Што трэба? Не бачыш, я заняты...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_0">
+		<text>Ды гэта ж мой ствол, днямі ўкралі!.. Дзе ты яго ўзяў, злодзею?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1">
+		<text>Ды ты што?! Я яго нядаўна купіў.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11">
+		<text>Не ведаю, дзе ты яго ўзяў, купіў ці не купіў, але ў мяне яго скралі. Дык не засмучай мяне. Вяртай пушку — і разыдземся па-добраму!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_111">
+		<text>Ладна, забірай. Мне лішнія праблемы не патрэбныя.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1111">
+		<text>Давай сюды.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_112">
+		<text>Ствол я табе не аддам.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_1121">
+		<text>Не аддасі, значыць?! Папярэджваю: мяне тут усе ведаюць! Як думаеш, лёгка табе будзе ў Зоне з дрэннай рэпутацыяй? Га, сталкеру? Што на гэта скажаш?! Ды табе ніхто аптэчкі не працягне, нават калі паўдня будзеш канаць...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_11211">
+		<text>Адчапіўся б ты ад мяне!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_2">
+		<text>Ты ўпэўнены, што гэта твая зброя?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_21">
+		<text>Вядома, упэўнены! Ты шмат такіх пушак сустракаў? Гэта дакладна мая.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3">
+		<text>Ты памыліўся. Адчапіся па-добраму.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_31">
+		<text>Што?! Гэта я памыліўся?! Глядзі, што кажаш, гнюку!.. Калі што, тут усе будуць за мяне! Вярні ствол — і разыдземся мірна. Я ўжо так і быць нікому не раскажу.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_311">
+		<text>Што?.. Я ж з гэтай пушкі магу прасвідраваць дзірку ў тваёй галаве.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_b52_my_gun_dialog_3111">
+		<text>Стой, мужыку, не гарачыся! Пакрычалі адзін на аднаго — і хопіць... Не нервуйся так. Можа, я і памыліўся. Напэўна... так...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_0">
+		<text>Наконт твайго кантэйнера...</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_1">
+		<text>Ты яго знайшоў?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_11">
+		<text>Я ўсё яшчэ ім займаюся.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_12">
+		<text>Я вырашыў больш яго не шукаць.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_121">
+		<text>Шкада.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_2">
+		<text>Ну, давай сюды.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_21">
+		<text>Зараз, секунду.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_22">
+		<text>Я вырашыў пакінуць кантэйнер сабе.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_refuse_task_221">
+		<text>Ах ты!.. Ну, я табе гэта яшчэ прыгадаю!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_0">
+		<text>Трымай кантэйнер.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1">
+		<text>Ну што, пачнём дзяліць хабар?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11">
+		<text>Давай.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_111">
+		<text>Так, што тут у нас?.. Мая старая «Фора»... але б'е — страх! Калісьці яе сваімі рукамі мадыфікаваў мой родны дзядзька. Ну, гэта памяць... пакіну яе сабе.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1111">
+		<text>А лепш — мне.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11111">
+		<text>Эх!.. Ну... ладна.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_111111">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11112">
+		<text>Не, у цябе і так ужо шмат!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_111121">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1112">
+		<text>Ладна, бяры сабе... Што там яшчэ?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_112">
+		<text>Так, паглядзім... Выдатны медыцынскі набор! З такім хоць на мядзведзя, хоць на кантралёра... Гэта, значыць, мне.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1121">
+		<text>Медыцынскі набор і мне б спатрэбіўся.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11211">
+		<text>Хм-м... ну ладна.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_112111">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11212">
+		<text>Не, у цябе і так ужо шмат!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_112121">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1122">
+		<text>Можаш пакінуць яго сабе. Што там яшчэ?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_113">
+		<text>Ну... о! Не ведаю нават, ці трымаў ты ў руках такую штуку... Удасканалены АКМ-74/2У! Памятаю, вымяняў яго ў аднаго байца «Доўгу» на аптэчкі. Тады «Воля» так разграміла іхні атрад, што байцам «Доўгу» сваіх запасаў не хапала... Потым гэты ствол тройчы выратаваў мне жыццё... Не, гэты дакладна застанецца ў мяне!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1131">
+		<text>А можа, усё-такі аддасі яго мне?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11311">
+		<text>Эх, шкада з ім расставацца!.. Ладна, дамова ёсць дамова. Трымай.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_113111">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11312">
+		<text>Не, у цябе і так ужо шмат!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_113121">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1132">
+		<text>Ладна, пакідай сабе. Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_114">
+		<text>А гэта рэч каштоўная і прыгожая... Гэты артэфакт цэлыя горы золата каштуе! Я, між іншым, сам здабыў яго ў анамаліі. Пакуль дабраўся, чаго толькі не перажыў... Як хочаш, але гэты трафей я заслужыў.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1141">
+		<text>Думаю, мне ён бы спатрэбіўся.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11411">
+		<text>Эх, мужыку!.. Ладна, трымай, ды ўспамінай маю дабрыню.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_114111">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11412">
+		<text>У цябе і так ужо шмат!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_114121">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1142">
+		<text>Пакідай сабе, давай далей!</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_115">
+		<text>Так, і апошняе... Выдатны шлем, ручная работа! Калісьці на Кардоне з'явіўся сталкер-майстар, пакуль быў жывы, зрабіў некалькі дзіўных рэчаў. Вось, напрыклад, гэты шлем — другога такога нідзе не знойдзеш!.. Ну што, пакіну яго сабе?</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1151">
+		<text>Ды я ж жыццём рызыкаваў, са сноркамі біўся... Дай-ка я яго забяру.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11511">
+		<text>Эх... Ну, так і быць. Забірай.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_115111">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11512">
+		<text>У цябе і так ужо шмат! Мы ж дамовіліся — напалам! Дык пакінь мне хоць што-небудзь!..</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_115121">
+		<text>Давай далей.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_1152">
+		<text>Ладна, пакідай сабе.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11611">
+		<text>Ну ўсё, мужыку... маё дабро скончылася.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_116111">
+		<text>Ну, тады бывай.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_11621">
+		<text>Вось і ўсё. Але ж нельга пакінуць цябе без узнагароды!.. Трымай мой пісталет.</text>
+	</string>
+	<string id="zat_b33_stalker_snag_share_package_dialog_116211">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b38_cop_about_himself_dialog_0">
+		<text>Чым займаешся?</text>
+	</string>
+	<string id="zat_b38_cop_about_himself_dialog_1">
+		<text>Сачу за парадкам. Раней я працаваў у міліцыі, следчым, а цяпер тут — лічы, нешта накшталт шэрыфа. Прыйшоў разам з Барадой: ён вырашыў тут стаянку ўладкаваць. А навошта ісці далей, калі дарогі ў Прыпяць усё адно ніхто не ведае, а артэфактаў навокал хапае? Вось мы тут і аселі.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_guards_0">
+		<text>Каго можна наняць для аховы навукоўцаў?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_guards_1">
+		<text>Кандыдаты тут ёсць — напрыклад, атрад Спартака. Выдатныя хлопцы, прафесіяналы ў гэтай справе. Многія служылі ў МУС. Калі яны цяпер нічым не занятыя, лепшай аховы не знойдзеш.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_guards_2">
+		<text>Раней падказаў бы, але цяпер не ведаю нікога падыходнага. З мясцовых сталкераў на гэта ніхто не пагодзіцца.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_helpers_0">
+		<text>Каго можна наняць, каб правесці для навукоўцаў замеры?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_helpers_1">
+		<text>Тут ёсць атрад паляўнічых, ім кіруе Гонта. Спытай у яго — думаю, пагодзіцца. Не ўсё ж ім адстрэльваць монстраў...</text>
+	</string>
+	<string id="zat_b38_stalker_cop_about_sci_helpers_2">
+		<text>Калі б тут быў Гонта са сваім атрадам, я б накіраваў цябе да яго, але... Іншых людзей, якія падышлі б, нават не ведаю.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_nimble_0">
+		<text>Купляў зброю ў Спрытнага? Можа, ведаеш, ці не прадае ён крадзенае?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_nimble_1">
+		<text>Думаеш, ён мог бы круціць такія справы за маёй спінай?.. Не, такога не можа быць. У мяне нюх. Спрытны дакладна не барыга.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_snag_0">
+		<text>Шукаю Корча. Не ведаеш, дзе яго можна знайсці?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_b52_about_snag_1">
+		<text>Корча? А як жа, ведаю. Той яшчэ прыдурак, што тут скажаш... Хлопцы нядаўна бачылі яго каля партовых кранаў. Можа, ён і дагэтуль недзе там швэндаецца. Схадзі, правер.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_start_dialog_11">
+		<text>Вітаю, сталкеру. Не хочаш зарабіць і заадно дапамагчы лагеру?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_start_dialog_12">
+		<text>Вітаю, сталкеру. Ты яшчэ тут? Ды з такімі тэмпамі крывасмокі ўсіх тут пакладуць!</text>
+	</string>
+	<string id="zat_b38_stalker_cop_start_dialog_14">
+		<text>Пагаворым пазней. Мне трэба сёе-тое праверыць...</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_0">
+		<text>Якую работу можаш прапанаваць?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_1">
+		<text>Ёсць адна справа... Некалькі сталкераў зніклі. Пра іх ніхто нічога не чуў, але днямі знайшлі аднаго. На целе ніякіх слядоў гвалту, толькі крыві ў ім ні кроплі. Цела аглядаў Дрыжык, ён мог бы расказаць дакладней. Карацей, відавочна — гэта крывасмокі! Я пагаварыў з Данілам-паляўнічым, і ён пайшоў шукаць логава. З таго часу ад яго ні слыху ні духу.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_11">
+		<text>Што мне трэба рабіць?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_111">
+		<text>Трэба знайсці логава і, калі атрымаецца, адшукаць сляды Данілы. Справа небяспечная, але заплачу добра. Ну што, згодны?</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_1111">
+		<text>Згодны.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_11111">
+		<text>Добра! Тады так: я ведаю два месцы, іх трэба праверыць. Каардынаты аднаго я скінуў табе на КПК. А мне трэба ўладзіць яшчэ пару спраў, потым пайду праверу іншы варыянт. Што даведаюся — звяжуся.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_111111">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_1112">
+		<text>Не згодны.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_11121">
+		<text>Перадумаеш — прыходзь.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_12">
+		<text>Не цікавіць.</text>
+	</string>
+	<string id="zat_b38_stalker_cop_task_dialog_2">
+		<text>Тут вось якая справа: пакуль недзе паблізу ёсць логава крывасмокаў, мы ўсе пад пагрозай. А ад Данілы-паляўнічага ніводнай весткі. Дапаможаш з гэтым разабрацца?</text>
+	</string>
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_0">
+		<text>Глушэц сказаў, што ты аглядаў цела аднаго са зніклых сталкераў. Як думаеш, сталкера забіў крывасмок?</text>
+	</string>
+	<string id="zat_b38_stalker_medic_bloodsucker_dialog_1">
+		<text>Аглядаў... як і ўсе астатнія целы. Ніводная істота, акрамя крывасмока, не здольная высмактаць з чалавека ўсё да апошняй кроплі. На целе відаць сляды нападу менавіта крывасмока... Якая яшчэ можа быць выснова?</text>
+	</string>
+	<string id="zat_b38_stalker_medic_info_actor_dialog_0">
+		<text>Раскажы пра сябе.</text>
+	</string>
+	<string id="zat_b38_stalker_medic_info_actor_dialog_1">
+		<text>Я медык. Па спецыяльнасці хірург. Хочаш пацверджання? Калі трэба, магу, напрыклад, выразаць гіпаталамус з галаўнога мозгу, толькі ніхто тут пакуль не звяртаўся з такімі просьбамі. Тут я хутчэй проста палявы лекар, якіх шмат. І сваю справу я ведаю.</text>
+	</string>
+	<string id="zat_b38_stalker_medic_start_dialog_11">
+		<text>Слухаю цябе.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_0">
+		<text>Ты можаш расшыфраваць «чорную скрыню»?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b207_about_dealer_pda_1">
+		<text>Ды не вельмі я разбіраюся ў гэтых схемах, алгарытмах... Не мой профіль! Калі б ты прынёс што-небудзь на простых законах фізікі — вось тады іншая справа, гэта лёгка. Паглядзеў, пакруціў — і ўсё на месцы працуе.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_0">
+		<text>Як думаеш, Спрытны можа гандляваць крадзеным?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_b52_about_nimble_1">
+		<text>Вось гэта ты ляпнуў... Спрытны — і раптам крадзенае! Ніколі ў такое не паверу. Калі я толькі майстэрню ладзіў, хто мне дапамог? Спрытны. І зусім па-сяброўску, задарма. Хто б што ні казаў, я ведаю: Спрытны — добры чалавек.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_0">
+		<text>Ці не знойдзецца для мяне якой работы?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_1">
+		<text>Гэта калі ласка. Мне патрэбныя інструменты, а часу шукаць няма. Тэхніка — штука такая, увесь час увагі патрабуе. Калі прынясеш прыстойныя жалязякі, пакажу табе, што такое сапраўдная мадэрнізацыя! Ну і, вядома, якую капейку заробіш.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_11">
+		<text>Дамовіліся. Пашукаю што-небудзь.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_12">
+		<text>Не. Давай як-небудзь пазней.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_electro_toolkit_dialog_2">
+		<text>Ды гэта проста. Памятаеш, мне патрэбныя інструменты? Мне дапамога, табе трохі грошай.</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_0">
+		<text>Ты можаш разблакаваць модуль памяці?</text>
+	</string>
+	<string id="zat_b3_stalker_mechanic_ufo_memory_repair_1">
+		<text>Не. Тут я табе не памочнік. Сучасная электроніка, камп’ютары — усё гэта не маё. Лепш пашукай каго маладзейшага: яны ж да гэтай штукі з пялёнак прывучаныя.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_0">
+		<text>Можаш узламаць сталёвы кантэйнер?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_1">
+		<text>Ды гэта лёгка. За 500 усё будзе як след.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_11">
+		<text>Трымай.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_111">
+		<text>Так-с... замацавалі... падчапілі... трохі націснуць... і — раз!.. Усё, гатова. Не было ў маёй практыцы такога, каб лом ды кіянка чаго не адчынілі!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_12">
+		<text>У мяне столькі няма.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_121">
+		<text>Будуць — прыходзь. Я заўсёды тут.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_b33_about_snags_container_13">
+		<text>Я яшчэ падумаю.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_0">
+		<text>Ёсць гарэлка. Будзеш?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_1_2">
+		<text>Я завязаў, больш не п'ю. Калі ўбачыў «Выраб №62», падумаў: усё, белая гарачка накрыла, ну... З-за бухла і так хапала праблем. Ды і здароўе... Зап'юся — хто тады будзе табе зарады для гаўс-гарматы клепаць? Вось жа.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_2_0">
+		<text>Вось яшчэ бутэлька.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_drink_3_0">
+		<text>Ёсць трэцяя бутэлька, калі яшчэ трэба.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_0">
+		<text>Я прынёс табе інструменты.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_1">
+		<text>Нядрэнна... Цікава, якія?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_11">
+		<text>Для грубай працы.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_111">
+		<text>Нармальна! Эх, адшукаць бы яшчэ інструменты для тонкай працы і каліброўкі...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_12">
+		<text>Для тонкай працы.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_121">
+		<text>Нармальна! Эх, адшукаць бы яшчэ інструменты для грубай працы і каліброўкі...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_13">
+		<text>Для каліброўкі.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_131">
+		<text>Нармальна! Эх, адшукаць бы яшчэ інструменты для грубай і тонкай працы...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_14">
+		<text>Пакуль ніякіх.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_141">
+		<text>Выдатна! Засталося яшчэ знайсці інструменты для каліброўкі — і праблем не будзе.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_151">
+		<text>Выдатна! Засталося яшчэ знайсці інструменты для тонкай працы — і праблем не будзе.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_161">
+		<text>Выдатна! Засталося яшчэ знайсці інструменты для грубай працы — і праблем не будзе.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_instruments_171">
+		<text>Вось гэта клас!.. Ну даеш! І як ты толькі ўсё знаходзіш? Цяпер у мяне поўны камплект, ха! З запальніц я і кулямёт магу сабраць!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_end_0">
+		<text>Я прынёс схемы і дакументацыю на «Выраб №62».</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_end_1">
+		<text>Дык знайшоў-такі! О, добра! Я ведаў, што гэтыя нягоднікі не паспеюць усё знішчыць. Дай-ка гляну... М-м... Значыць, вось як яны вырашылі, сволачы... Выдатна! Мне трэба пару гадзін, каб ва ўсім да канца разабрацца. А калі пакінеш гаўс-гармату, паспрабую яе падрамантаваць... Пачакаў бы? Хутка, хутка яна, наша красуня, заспявае!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_0">
+		<text>Мне патрэбныя батарэі да гаўс-гарматы.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_1">
+		<text>Табе — па сабекошце. За 2000.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_11">
+		<text>Трымай грошы.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_12">
+		<text>Я яшчэ падумаю.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_make_battery_13">
+		<text>Зараз грошай няма.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_0">
+		<text>Ужо адрамантаваў гаўс-гармату?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_1">
+		<text>Ды гэта было лёгка: у схеме сілкавання і дзіця разбярэцца... Калі са зброяй будуць праблемы — заходзь.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_repair_gauss_2">
+		<text>Яшчэ працую... Эх, прыемна павазіцца з плёнам уласнай працы!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_show_0">
+		<text>У мяне ёсць узор невядомай зброі.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_show_1">
+		<text>Як гэта — невядомай? Ну-ка пакажы, што там у цябе...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_show_2">
+		<text>Глядзі. Бачыў калі-небудзь нешта падобнае?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_0">
+		<text>А-а... ты?.. Ох, добра ж мы пасядзелі!.. Уяві сабе: прыснілася, нібыта ты прынёс сёе-тое з мінулага... І чаго толькі не прымроіцца п'яным!..</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_1">
+		<text>Табе выпадкова не гэтая зброя прыснілася?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_11">
+		<text>Вось жа!.. Значыць, не прымроілася. Гэта гаўс-гармата. Ці, як яе афіцыйна называлі, «Выраб №62». Уф-ф... Калісьці я працаваў па замове завода «Юпітэр». Распрацоўваў зброю — і цяпер памятаю: «...заснаваную на прынцыпе паскарэння снарада электрамагнітным полем». Вось, глядзі, гэтыя шпулькі — гэта ж я зрабіў! Шкада, у 2004-м праект закрылі. Не змаглі атрымаць дастаткова кампактную крыніцу энергіі.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_111">
+		<text>З гэтай гарматы стралялі. Што магло змяніцца?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_1111">
+		<text>Чорт яго ведае! Калі шчыра, у такі акумулятар я б з адвёрткай не палез. Да таго ж у сістэме сілкавання механічнае пашкоджанне... Не зашкодзіла б на схемку зірнуць. Я працаваў у выпрабавальным цэху, праз яго праходзіла ўся рабочая дакументацыя. Цалкам магчыма, што схемы і суправаджальныя дакументы да гаўс-гарматы яшчэ там валяюцца. Дарэчы, ключ-карту ад цэха я захаваў...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_11111">
+		<text>Можаш даць яе мне?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_produce_62_start_111111">
+		<text>А, чаму б і не... на, трымай. Толькі глядзі, не згубі яе, добра? Калі прынясеш дакументы, можа, я і разбяруся з паломкай.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_return_access_card_0">
+		<text>Твая карта доступу. Вяртаю цэлай і непашкоджанай.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_return_access_card_1">
+		<text>Дзякуй. Яна мне як памяць дарагая.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1111">
+		<text>Ну, што? Не саромейся — выкладвай свае дзіравыя бронекамізэлькі, зламаныя аўтаматы... На цвярозую галаву шмат не абяцаю, але чаму б не паглядзець?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1112">
+		<text>І дзе ж цябе толькі носіць? Я ўжо стаміўся чакаць. Тут паглядзеў, там — а цябе няма... Куды, думаю, падзеўся той сталкер? Ну-у... Ну што, па маленькай?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1113">
+		<text>Здароў. Добра, што зайшоў, уладкоўвайся... Што, прынёс нешта паправіць ці проста на агеньчык — выпіць за тых, каго з намі ўжо няма?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1211">
+		<text>Ух-х... нармалёк! Рукі быццам не дрыжаць, а галава яшчэ просіць. Ну, як кажуць: паміж першай і другой?..</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1212">
+		<text>Чаго марудзіш? Даставай яшчэ адну! За агульную справу ды не выпіць? Трэба. Як беленькая пойдзе па арганізме, такія цуды тэхнікі пачну тварыць — ты што!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1312">
+		<text>Эх, каб Жартаўнік быў тут... Выпілі б за Баржу. Ну што ж, спачывай з мірам... Добры быў мужык, непахісны. Глыба-чалавек!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1313">
+		<text>Эх, каб Баржа быў тут... Выпілі б за Жартаўніка. Ну што ж, спачывай з мірам... Добры быў мужык, умеў падтрымаць і словам, а галоўнае — справай.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1314">
+		<text>Эх... Баржа, Жартаўнік... Як жа ўсё так выйшла? Слова за слова — і на табе...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1315">
+		<text>М-мда?.. Што тут у нас?.. Браніраваныя аўтаматы будуць заўтра... Бывае такое, не хвалюйся... Ёсць яшчэ чэкуха — разрыўная, сталавая...</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_14">
+		<text>Эх, «шасцідзясятдвушка»... Вось бы зірнуць на прынцыповую схему!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_15">
+		<text>Правільна, што зайшоў! Падрамантаваць пушку — добрая справа. А калі прыхапіў з сабой бутэльку-другую, зраблю табе якую заўгодна мадэрнізацыю. Хоць парашут да драбавіцы прышыю!</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_16">
+		<text>Уяўляеш, якія хітруны, га?! У батарэю запхнулі электрастатычныя артэфакты!.. А я ж ведаў, адчуваў, што тут нешта анамальнае!.. Прынцып, увогуле, просты. Цяпер я сам магу клепаць такія элементы.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_17">
+		<text>Што трэба падкруціць, паправіць?</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_18">
+		<text>Ну і накалупалі! Ох, я ўжо адвык ад такога стылю дакументацыі.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_1">
+		<text>Я ж прыйшоў на Затон з двума таварышамі — Баржай і Жартаўніком. Хлопцы маладыя, вочы — ух! — гараць! Не церпіцца назбіраць горы артэфактаў, ды яшчэ хутчэй за ўсіх... А як бачу такія гарачыя вочы, разумею: спешка да дабра не давядзе. Што там з хабаром — яшчэ невядома, а вось першым без роздуму палезці ў логава мутантаў... кхм, так, нічога добрага.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_11">
+		<text>І што далей?</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_111">
+		<text>Дык вось... Неяк увечары селі, выпілі ды пачалі спрачацца, што рабіць далей: ісці ці пачакаць, а калі ісці, то куды. Кожны гне сваё — саступаць ніхто ніяк не хацеў!.. Так моцна пасварыліся, што ўмомант разышліся кожны ў свой бок... Я таксама... сказаў, дурань такі, што яны яшчэ мала чаго ў жыцці пабачылі... а ім такія словы — нож у сэрца! Эхе-хе... Цяпер, каб сустрэцца з імі, я папрасіў бы прабачэння за ўсё, што нагаварыў. Можа, пасядзелі б разам, як раней, выпілі, пасмяяліся...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_barge_0">
+		<text>Калі сустрэну Баржу, магу перадаць яму твае прабачэнні.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_barge_1">
+		<text>Было б выдатна.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_both_0">
+		<text>Калі сустрэну тваіх таварышаў, магу перадаць ім твае прабачэнні.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_both_1">
+		<text>Было б выдатна.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_joker_0">
+		<text>Калі сустрэну Жартаўніка, магу перадаць яму твае прабачэнні.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_apologies_joker_1">
+		<text>Было б выдатна.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_0">
+		<text>Я знайшоў КПК, зірні.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_1">
+		<text>Што за КПК? Навошта ён мне?</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_111">
+		<text>Баржа мёртвы?! Не можа быць! Як жа так?.. Ён жа быў моцны, як скала!.. Эх, Баржа... спі спакойна, дарагі сябра!.. Добра б з Жартаўніком усё было ў парадку...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_112">
+		<text>Баржа мёртвы?! Не можа быць! Як жа так?.. Ён жа быў моцны, як скала!.. Эх, Баржа, Жартаўнік... спіце спакойна, дарагія сябры!.. Як жа так выйшла...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_131">
+		<text>Абодва мёртвыя?! Не можа быць! Як жа так?.. Баржа ж быў моцны, як скала!.. А Жартаўнік... эх, Жартаўніку! Больш нам з табой не пасмяяцца... Спіце спакойна, дарагія сябры!.. Як жа так выйшла...</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_0">
+		<text>Адкажаш на пару пытанняў?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1">
+		<text>Вядома.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1111">
+		<text>Як доўга чакаць на заказ?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_11111">
+		<text>Усё залежыць ад складанасці заказа. Звычайна спраўляюся за суткі, бывае і хутчэй.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1114">
+		<text>Раскажы пра сябе.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_11141">
+		<text>Ды нічога цікавага. Усялякае здаралася, як і з усімі тут: і ў анамалію трапляў, і ў палон да бандытаў... Я ж прыйшоў у Зону яшчэ хлапчуком. Спачатку бегаў з усякай драбязой — антырады, бранябойныя набоі... Потым працаваў з Сідаравічам — аддаваў доўг: ён аднойчы выратаваў мне шкуру. Пакуль я для яго цягнуў каштаны з агню, завёў пару карысных знаёмстваў, а пры першай магчымасці ўзяўся за эксклюзіўныя заказы. Я ж выкручваўся з любой сітуацыі — і чую, аднойчы фартуна дасць збой. А дурное жаданне загінуць праз дробязь у мяне ўжо даўно выветрылася.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_1116">
+		<text>Дзякуй, я ўсё зразумеў.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_about_11161">
+		<text>Рады быў дапамагчы.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_0">
+		<text>Кажуць, ты прадаў мне крадзеную зброю.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1">
+		<text>Ды ты пра што?! Звар'яцеў?.. Я крадзенага не прадаю, толькі заключаю прамыя здзелкі. Не верыш — пагавары з людзьмі на базе. Яны скажуць, хто я: злодзей ці сумленны гандляр, які ніколі нікога не падстаўляў.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11">
+		<text>Сустрэў сталкера, які сказаў, што гэта яго ствол.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_111">
+		<text>А як завуць сталкера?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1111">
+		<text>Корч.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_1112">
+		<text>А гэта мае значэнне?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11121">
+		<text>Мае. Хтосьці цябе падманвае, сталкеру.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_12">
+		<text>Яшчэ пабачым.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_121">
+		<text>Хтосьці цябе падманвае, сталкеру.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_0">
+		<text>Хачу забраць заказ.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_111">
+		<text>Вось ён. «Стэпавы арол»! Давялося з ім павазіцца... Адзін калекцыянер зацікавіўся, дык я літаральна выхапіў яго ў таго з-пад носа. Сам паглядзі: ручная работа, дэталі падагнаныя з ювелірнай дакладнасцю. Чуў жарт пра снайперскі пісталет? Дык вось, гэта не жарт — ён самы. Так, з цябе яшчэ 2800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1111">
+		<text>Добра, трымай.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11111">
+		<text>І ты трымай... Дзякуй за заказ!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1112">
+		<text>У мяне няма столькі грошай.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11121">
+		<text>Што ж, магу пакуль прытрымаць тавар. Спадзяюся, ты хутка знойдзеш патрэбную суму.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1113">
+		<text>Я не хачу гэта купляць.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11131">
+		<text>Калі адмаўляешся забраць уласны заказ, наступным разам я не змагу спадзявацца на тваё слова. Давядзецца закласці ў цану рызыку і павялічыць суму задатку.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_111311">
+		<text>Тым не менш, гэты заказ я забіраць не буду.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1113111">
+		<text>Ну што ж, твая справа.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_1114">
+		<text>Я яшчэ падумаю.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_11141">
+		<text>Як хочаш, вядома... Твой тавар я пакуль прытрымаю.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_112">
+		<text>Вось, «Стэпавы арол»! Звышдакладная машына, між іншым... З цябе яшчэ 2800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_121">
+		<text>Глядзі, гэта «Альпіец». Можна ўпэўнена сказаць: такі пісталет ва ўсёй Зоне адзін. Унікальная мадэль, выпушчаная малой серыяй для аднаго спецпадраздзялення. Дастаць яго было няпроста, але я падключыў некалькіх сваіх знаёмых за мяжой... Павялічаны магазін, ствол з асабліва трывалай сталі, ствольная скрынка з звыштрывалага палімера. Аддай рэшту — 2800 — і ён твой.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_122">
+		<text>Вось «Альпіец» — пісталет з павялічанай ёмістасцю магазіна. Аддай рэшту — 2800 — і ён твой.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_131">
+		<text>Глядзі — гэта «Марш». Ён належаў найміту па мянушцы Ваўкадаў. Кампактная буйнакаліберная пушка з кароткім ходам затвора і палегчанай затворнай часткай. Відаць, ранейшы гаспадар, хоць і быў рэдкай сволаччу, але ў зброі разбіраўся... Кажуць, любімым жартам Ваўкадава было прастрэліць чалавеку ўсе чатыры канечнасці, а потым, пакуль той падаў, яшчэ і галаву... М-да. Карацей, з цябе 2800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_132">
+		<text>Вось хуткастрэльны пісталет «Марш». З цябе яшчэ 2800.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_211">
+		<text>Глядзі: пісталет-кулямёт «Фрэзер». Адразу кажу — не зважай на выгляд, гэта зусім новая зброя. Нават не серыйны ўзор, а прататып, проста са зброевай майстэрні, цалкам ручная работа! Інжынеры добра спраектавалі зброю для блізкага бою: вялікі калібр, выдатныя хуткастрэльнасць і дакладнасць. З цябе яшчэ 8000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_212">
+		<text>Ага, хуткастрэльны пісталет-кулямёт «Фрэзер». З цябе яшчэ 8000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_221">
+		<text>Выдатны ўзор — «Карабінер»! Цудоўная вайсковая драбавіца. Можа страляць аўтаматычна, а шалёная аддача гаспадара не збівае — унутры збалансаваная безударная сістэма. З цябе рэшта — 8000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_222">
+		<text>Вось: аўтаматычная драбавіца «Карабінер». З цябе рэшта — 8000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_231">
+		<text>Думаю, гэта якраз тое, што табе трэба. «Адбойнік», адна з апошніх распрацовак! Уся партыя мусіла адправіцца ў Цэнтральную Афрыку, але праз знаёмых мне пераслалі адзін узор. Аўтаматычная драбавіца з ёмістым магазінам і выдатнай хуткастрэльнасцю. 8000 — і забірай.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_232">
+		<text>Вядома. Аўтаматычная драбавіца «Адбойнік» з магазінам павялічанай ёмістасці. За 8000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_311">
+		<text>Вядома. Вось аўтаматна-гранатамётны комплекс «Шторм». Доследны ўзор — мадыфікацыя звычайнай зброі, якую распрацоўвалі спецыяльна для спецпадраздзяленняў, што дзейнічаюць у Зоне. Цуд тэхнічнай думкі братоў-славян... 16000 — і забірай.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_312">
+		<text>Вядома. Вось аўтаматна-гранатамётны комплекс «Шторм» з магазінам павялічанай ёмістасці. За астатнія 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_321">
+		<text>Вось яна, ГП37 — штурмавая вінтоўка новага пакалення! Дакладная, надзейная, зручная, з убудаванай оптыкай... Належала аднаму з групы назіральнікаў ААН — іх закінулі сюды вывучаць сітуацыю... а яна раптам стала крытычнай. За 16000 яна твая.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_322">
+		<text>Вось яна, ГП37 — штурмавая вінтоўка новага пакалення. З цябе 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_331">
+		<text>Секунду! Вось модульная вінтоўка ФТ-200М, стварэнне бельгійскіх збройнікаў. Дакладная, універсальная, цалкам прыстасаваная і для правай, і для левай рукі — так што не важна, правша ты ці ляўшун... Ну і аптычны прыцэл з гранатамётам у камплекце, вядома. Дасталася мне ад назіральнікаў ААН. З цябе яшчэ 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_332">
+		<text>Вось модульная вінтоўка ФТ-200М. З цябе яшчэ 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_411">
+		<text>Вось — «Прыбой». Яго распрацоўвалі для вайсковых падраздзяленняў спецыяльна для бою з зомбаванымі, на базе бясшумнай снайперскай вінтоўкі. Тэмп стральбы ў яго паніжаны, затое спыняльная сіла кулі павялічаная, таму зомбаваных можна знішчаць аднаго за адным і не выдаваць сваёй пазіцыі. Але ў серыю вінтоўка не пайшла — высветлілася, што зомбаваных і так можна спыніць на Бар'еры. Будзе тваёй за астатнія 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_412">
+		<text>Вось «Прыбой» — бясшумная снайперская вінтоўка з павялічанай спыняльнай сілай. Забірай за астатнія 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_421">
+		<text>Вось «СВУ2-А», скарочаная снайперская вінтоўка з павышаным тэмпам стральбы. Купіў яе ў Макса — легендарнага захавальніка групоўкі «Воля». Макс кляўся, што такая ва ўсёй Зоне адна... Нават калі ён і зманіў, у гэтых краях яна дакладна ў адзіным экземпляры. З цябе яшчэ 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_422">
+		<text>Ага. «СВУ2-А» — скарочаная снайперская вінтоўка з павышаным тэмпам стральбы. З цябе яшчэ 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_431">
+		<text>Вядома. Вось, глядзі — «Рысь». Яе ўручную сабраў адзін тутэйшы майстар... цяпер ужо нябожчык, так што другой такой не будзе. З выгляду нібы нічым не адрозніваецца ад звычайнага ўзору, але ў справе адразу адчуеш розніцу: ідэальныя суадносіны дакладнасці і спыняльнай сілы! Аддай астатнія 16000 — і яна твая.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_432">
+		<text>Так, «Рысь» — снайперская вінтоўка з павышанымі дакладнасцю і магутнасцю. З цябе астатнія 16000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_511">
+		<text>Глядзі. Удалося дастаць тое, што планаваў: камплект з бронекамізэлькі ЧН-3а і шлема. Сам шлем нічога асаблівага не ўяўляе, але гэта добрая аснова для ўсталявання мабільнага тактычнага комплексу з прыстойным прыборам начнога бачання і інфрачырвоным сканерам. А вось ЧН-3а — асобная размова. Рэдка сустрэнеш касцюм, які так добра абараняе ад куль і анамалій, застаючыся лёгкім і зручным. За ўсё разам — 32000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_512">
+		<text>Ага. Камплект з бронекамізэлькі ЧН-3а і тактычнага шлема. Усё разам — 32000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_611">
+		<text>Адмыслова для цябе — камбінезон «СЕВА». Як і заказваў: замкнутая сістэма дыхання, тэрмаўстойлівасць, контур электрааховы і вонкавае пакрыццё з антыкаразійных матэрыялаў. Дадаткова — убудаваныя кантэйнеры для артэфактаў. Незаменная рэч для сталкера!.. З цябе, як і дамовіліся, 24000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_612">
+		<text>Трымай. Камбінезон «СЕВА». Як і дамовіліся — 24000.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_711">
+		<text>Вось ён, прыгажун! Баявы экзашкілет, адзін экземпляр! Лепшай абароны ад куль, кіпцюроў і аскепкаў у Зоне не знайсці — хіба што бранятэхніку, вядома... Але, як і бранятэхніка, ён бярэ на сябе вагу твайго рыштунку — у разумных межах, зразумела. Забірай за 48000, з усім камплектам — акумулятарам і серваматорамі.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_get_order_712">
+		<text>Вось ён — баявы экзашкілет, адзін экземпляр! 48000 — і забірай.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_0">
+		<text>Хачу зрабіць заказ.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1">
+		<text>Без праблем. Што трэба?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11">
+		<text>Пісталет.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_111">
+		<text>Лёгка. Пісталет будзе каштаваць 3500. З іх 700 патрэбныя мне як задатак.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1111">
+		<text>Добра, трымай.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11111">
+		<text>Я звяжуся з табой, калі заказ будзе гатовы.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1112">
+		<text>У мяне цяпер няма грошай.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11121">
+		<text>Што ж... Як будуць грошы — звяртайся.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_1113">
+		<text>Ведаеш, я перадумаў.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_11131">
+		<text>Ладна. Калі ўсё ж вырашыш нешта замовіць — звяртайся.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_112">
+		<text>Ведаеш, ты не надта надзейны пакупнік, таму пісталет будзе каштаваць 4200. З іх 1400 патрэбныя мне як задатак.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_113">
+		<text>Баюся, лепшыя пісталеты ўжо разабралі. А простую масавую зброю можаш купіць у Сыча.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_12">
+		<text>Зброя для блізкага бою.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_121">
+		<text>Без праблем. Гэта абыдзецца табе ў 10000, прычым 2000 патрэбныя мне адразу.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_122">
+		<text>Ад папярэдняга заказу ты адмовіўся... Значыць, гэты абыдзецца табе ў 12000, прычым 4000 спатрэбяцца адразу.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_123">
+		<text>М-м-м... Ведаеш, баюся, тут я не змагу дапамагчы. Занадта вялікі попыт.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_13">
+		<text>Штурмавая зброя.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_131">
+		<text>Буйнакаліберная і хуткастрэльная... Звычайны кошт — 20000, з іх 4000 — задатак. Ну як?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_132">
+		<text>З табой цяжка працаваць. Для цябе кошт будзе... так, 24000. З іх 8000 — задатак. Згодны?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_133">
+		<text>Якраз з гэтым цяпер праблемы: вайскоўцы на Кардоне бушуюць... Нядаўна нехта атакаваў іхні блокпост, цяпер дамовіцца з імі надзвычай цяжка.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_14">
+		<text>Снайперская зброя.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_141">
+		<text>Магу дастаць за 20000, але 4000 з іх трэба будзе ўнесці загадзя.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_142">
+		<text>Праца з табой звязаная з пэўнай рызыкай... Магу паспрабаваць уладкаваць заказ за 24000, але 8000 трэба будзе заплаціць загадзя.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_143">
+		<text>Прабач, тут складана. У пастаўшчыка па снайперскай зброі пэўныя... кхм... праблемы са здароўем.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_15">
+		<text>Бронеахова.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_151">
+		<text>Ёсць у мяне сёе-тое на прыкмеце... Абыдзецца ў 40000, але 8000 трэба будзе заплаціць загадзя.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_152">
+		<text>Ёсць у мяне сёе-тое на прыкмеце... Але ты не забраў папярэдні заказ, таму гэты абыдзецца ў 48000. І 16000 трэба будзе заплаціць загадзя.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_153">
+		<text>Нічога лепшага за папярэдні камплект не дастану... Ды і той быў адзін-адзіны.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_16">
+		<text>Касцюм з замкнутай сістэмай дыхання.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_161">
+		<text>Рэдкі заказ... нават не ведаю. Магу паспрабаваць дастаць адзін за 30000, але 6000 вазьму як задатак.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_162">
+		<text>Ты падвёў мяне з папярэднім заказам, таму нават не ведаю... Магу паспрабаваць дастаць адзін за 36000, але 12000 вазьму як задатак.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_163">
+		<text>Папярэдні я дастаў з вялікай цяжкасцю. Баюся, цяпер другога такога не знайсці.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_17">
+		<text>Экзашкілет.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_171">
+		<text>Сур'ёзны выбар!.. Думаю, мог бы дастаць баявую мадыфікацыю за 60000. Нятанна, але рыштунак такіх грошай варты. Май на ўвазе: 12000 спатрэбяцца мне адразу.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_172">
+		<text>Ты не надта добра абышоўся з папярэднім заказам, таму гэты абыдзецца табе ў 72000. Май на ўвазе: 24000 трэба заплаціць адразу.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_173">
+		<text>Без шанцаў. Пасля закрыцця завода-вытворцы экзашкілеты пераважна здымаюць з трупаў, але гэта не мой метад.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_18">
+		<text>Пакуль нічога.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_place_order_2">
+		<text>Прабач, цяпер я не працую. Часовыя цяжкасці з дастаўкай заказаў...</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_11">
+		<text>Вітаю. Я — Спрытны. Звычайна да мяне звяртаюцца па ўнікальную зброю: рэдкія мадэлі, прататыпы, іменныя стрэльбы... А яшчэ па элітны рыштунак і апошнія распрацоўкі ахоўных ды баявых касцюмаў. Кожную рэч я правяраю асабіста, таму за якасць ручаюся!</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_12">
+		<text>Вітаю. Хочаш што-небудзь замовіць?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_13">
+		<text>Вітаю.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_14">
+		<text>Заказ выканаю ў бліжэйшы час.</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_start_15">
+		<text>Твой заказ гатовы. Можаш забіраць.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_0">
+		<text>Эй! Ты сябрук Корча?</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1">
+		<text>Так, я яго ведаю.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_11">
+		<text>Ён казаў, што ты прынясеш нам хабар.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_111">
+		<text>Мы пра такое не дамаўляліся.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_111111">
+		<text>Вось так. А то сядзім тут і чакаем гэтага Корча, як апошнія лохі...</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111111">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_11112">
+		<text>Не выйдзе!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_111121">
+		<text>Добра падумай. Калі ты не зусім дурань, сам разумееш: калі нас тут куча, лепш згаджацца...</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111211">
+		<text>Я ж сказаў — не выйдзе!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_2">
+		<text>Не. Я яго не ведаю.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11">
+		<text>А-а, халера!.. Як мяне зачапіла... Дапамажы, дружа! Трэба аптэчка... Я так доўга не працягну.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_111">
+		<text>Трымай аптэчку.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1111">
+		<text>Уф-ф... дзякуй, дружа! Ну і ну, ледзь у «Кацёл» не ўляцеў... Вось быў бы пачастунак мутантным сабакам! Вазьмі ў падзяку мой дэтэктар, спатрэбіцца. А я, мабыць, нейкі час пасяджу на базе.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_11111">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_1112">
+		<text>Уф-ф... дзякуй, дружа! Ну і ну, ледзь у «Кацёл» не ўляцеў... Вось быў бы пачастунак мутантным сабакам! Вазьмі ў падзяку артэфакт, спатрэбіцца. А я, мабыць, нейкі час пасяджу на базе.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_112">
+		<text>Не магу, мне самаму патрэбная.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_113">
+		<text>У мяне няма аптэчкі.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_1_gathering_artefacts_12">
+		<text>Яшчэ раз дзякуй! Без тваёй хуткай дапамогі мяне б ужо не было...</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_11">
+		<text>Сталкеру, хутчэй дапамажы Пятруху! Бачыш яго там, на краі расколіны?! Яго анамаліяй шарахнула! І гэта ў такім браніку! А ў мяне, бачыш, наогул ніякага няма! Мы з Пятрухам купілі бранік у складчыну! Зраблю крок — мне і крышка! Дапамажы!</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_111">
+		<text>Добра, не мітусіся. Паспрабую.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_112">
+		<text>Разбірайцеся самі.</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_12">
+		<text>Дзякуй, што выратаваў Пятруху! Эх, каб у нас быў лепшы бранік!..</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_13">
+		<text>Валі адсюль! З-за цябе Пятруха загінуў! Вось жа мужык быў!..</text>
+	</string>
+	<string id="zat_b53_artefact_hunter_2_gathering_artefacts_131">
+		<text>Да сустрэчы.</text>
+	</string>
+	<string id="zat_b57_barman_reward_dialog_0">
+		<text>Я знішчыў логава крывасмокаў.</text>
+	</string>
+	<string id="zat_b57_barman_reward_dialog_1">
+		<text>Добра. Ты адпомсціў за зніклых, хай душы іх спачываюць з мірам... Узнагароду ты сапраўды заслужыў.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_0">
+		<text>Пад ВНЗ «Круг» выявілася цэлае логава крывасмокаў.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_1">
+		<text>Так... Логава трэба знішчыць. Дай падумаць... Чорт ведае, колькі там у тунэлях крывасмокаў! Надзейней за ўсё атруціць газам... Памятаю, Сыч нешта расказваў пра газавыя балоны. Схадзі да яго. Прабач, што абцяжарваю, але з ім у мяне стасункі не вельмі. Карацей, калі здолееш здабыць газ, падключы балон да сістэмы вентыляцыі ВНЗ «Круг» — і за лічаныя хвіліны ўсё скончыцца.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_11">
+		<text>Так і зраблю.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_12">
+		<text>Я падумаю.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_13">
+		<text>У мяне ўжо ёсць балон з газам.</text>
+	</string>
+	<string id="zat_b57_barmen_about_bloodsucker_lair_dialog_131">
+		<text>Ого! Спрыту табе сапраўды не займаць.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_11">
+		<text>А вось і сталкер... Блін, заждаліся цябе!</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_111">
+		<text>Што робім?</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_1111">
+		<text>Зараз пойдзем на стрэлку. Табе асабіста, па ходу, нічога рабіць не трэба. Кароч, проста стой побач і не муці ваду.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_11111">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_21">
+		<text>Ха, разнеслі іх у момант!.. А нядрэнна ты на курок ціснеш, сталкеру! На, трымай.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_211">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_31">
+		<text>Ты танны фраер! Справа была простая, а праз цябе мы ўсё прахляпалі... Валі нахер!</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_311">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_41">
+		<text>Шо табе нада?</text>
+	</string>
+	<string id="zat_b5_bandit_hide_dialog_411">
+		<text>Нічога.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_11">
+		<text>Ты ад Сыча?</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_111">
+		<text>Так. Ён сказаў, што табе патрэбная дапамога.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_1111">
+		<text>Дапамога мне і праўда патрэбная. Думаю, ты якраз спатрэбішся.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_11111">
+		<text>Добра. Што трэба зрабіць?</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_111111">
+		<text>Папільнаваць мяне падчас адной здзелкі. Больш нічога.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_1111111">
+		<text>Гэта нескладана.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_21">
+		<text>Стой побач і прыкрывай.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_211">
+		<text>Зразумеў.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_31">
+		<text>Буду размаўляць толькі з галоўным.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_311">
+		<text>Як хочаш.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_41">
+		<text>Дзякуй, сталкеру. І сапраўды дапамог... Так і ведаў, што гэтыя вырадкі нешта ўчыняць! Дадумаліся — прывялі за сабой хвост!.. Вось, зарабіў.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_411">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_42">
+		<text>Ахоўнік з цябе — так сабе! Адразу відаць, што не прывык напружвацца... Ладна, я абяцаў, таму заплачу.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_421">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_43">
+		<text>Ахоўнік з цябе — так сабе! Адразу відаць, што не прывык напружвацца... Ладна, я абяцаў, таму заплачу.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_431">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_44">
+		<text>Чаго хочаш? Няма за што табе дзякаваць. Ну і пашанцавала ж — цудам жывым застаўся... Правальвай да чорта!</text>
+	</string>
+	<string id="zat_b5_illicit_dealer_dialog_441">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_11">
+		<text>Малайчына, што прыйшоў. Хочам ціха падкрасціся да бандытаў і даведацца, пра што яны гавораць. А там будзе відаць.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_111">
+		<text>Я зразумеў.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_21">
+		<text>Дзякуй, сталкеру. Вось табе за дапамогу... але асноўная ўзнагарода будзе ў бармэна.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_211">
+		<text>Я зразумеў.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>Раскажы пра ваша жыццё.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>Жыццё цяжкое... Ты канкрэтней пытай.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>Што вы тут робіце?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>Мы тут за сталкерамі прыглядаем. Сам глянь: палова вас — ну чыста дзеці! У Зону палезлі хто з мроямі, хто з геройствам, хто з крыўды на жыццё. А што такіх чакае? Ды старая з касой. Вось і адлоўліваем іх. Бывала, зловім на Звалцы, здымем снарагу ды завернем назад, на Кардон... Падумае такое птушаня крыху — глядзіш, і вернецца на Вялікую зямлю. Будзе жыць доўга і шчасліва. А калі ўсё ж вырашыць вярнуцца сюды, зробім яму крышу за працэнт... Я табе як ёсць скажу: туды, дзе мы трымаем тэрыторыю, не сунуцца ні ваякі, ні найміты, ні нават мутанты.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>Што прывяло вас у цэнтр Зоны?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>Ногі. За сталкерамі пайшлі, а як іначай? Парадак мусіць быць паўсюль, а то як у першабытных людзей: хто што ўрваў — тое ягонае. А хто будзе плаціць падаткі — за спакой, за бяспеку?.. Бывае, ваш брат корпаецца ў анамаліі, а мы побач — адганяем ад яго мутантаў. Ён скончыць — возьмем з яго працэнт за парадак.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>Як ты стаў паханам?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>З чаго б пачаць... Ды ўсё, як ні круці, пачалося са школы! Быў у мяне там карэфан — як кажуць, самы-самы... Разам паўсюль шляліся, разам пачалі піць ды курыць... Толькі яму заўсёды не ставала вострых адчуванняў. Патроху ўзяўся за наркоту: спачатку — траўка, потым — гераін, а калі грошы з’явіліся — кокс. Я яму казаў: «Таляне, завязвай!», ды ён мяне не слухаў... Падсунулі яму атруту — і ўсё, не стала хлопца, ды якога!.. Потым я знайшоў тых барыгаў і трохі іх парэзаў. Мяне схапілі — і панеслася: на зоне свае парадкі... Раз нават атрымаў самаробным нажом у бок, але выжыў... Выйшаў на волю, наладзіў нейкі бізнес — зноў схапілі. Выйшаў, плюнуў на ўсё — і падаўся сюды, у Зону. Пакруціўся паўгода, стаў аўтарытэтам. Цяпер я тут галоўны над пацанамі — сачу, каб паўсюль усё было па паняццях.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>Што ты думаеш пра сталкераў?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>А пра ўсіх адным словам не скажаш! Адны — залётныя алені, другія — так сабе, гімназісткі, а трэція — сур’ёзныя мужыкі, загартаваныя жыццём па абодва бакі Кардона. Адных даім, другім даём дах, а з трэцімі разыходзімся за тры кварталы, каб выпадкова не сутыкнуцца. Адно шкада: здалёк не заўсёды зразумееш, хто ёсць хто.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>А, ладна. Забудзь.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>Ну, глядзі.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_0">
+		<text>Цяпер Барада будзе працаваць на нас.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_barmen_under_actor_dialog_1">
+		<text>Як кажуць, карова наша — нам яе і даіць... Час ад часу заглядай да яго, каб не забываўся адшпільваць табе долю.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_0">
+		<text>У Барады з'явілася важная замова на артэфакт «Компас».</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_actor_dialog_1">
+		<text>Гэты артэфакт трэба перахапіць. Барада дзеля дробязяў і пальцам не варухне! Чую, гэты «Компас» яму для бізнесу край як патрэбны — кроў з носа! Знойдзеш «Компас» — цягні мне.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_0">
+		<text>Я знайшоў «Компас». Трымай.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_0">
+		<text>Я не буду шукаць для цябе «Компас».</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_1">
+		<text>Чуеш, ты, баклане! Запомні: я не люблю тых, хто бярэцца за дзела, а потым сам жа на яго забівае. Тым, каго я не люблю, плоха жывецца. Уцяміў?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_revert_actor_dialog_11">
+		<text>Улічу.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_0">
+		<text>Я адбяру ў сталкераў дэтэктары.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_detectors_actor_dialog_1">
+		<text>Слаўна. А я пакуль разбяруся з астатнімі каналамі нашага кліента.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_0">
+		<text>Мне тут шапнулі, што ты аддаў «Компас» Барадзе. Так што, баклане, слухай сюды, бля. Я не люблю тых, хто бярэцца за дзела, а потым сам жа на яго забівае. Тым, каго я не люблю, плоха жывецца. Уцяміў?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_refuse_af_dialog_1">
+		<text>Улічу.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_0">
+		<text>У Барады больш няма палепшаных дэтэктараў.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_ruin_actor_dialog_1">
+		<text>Проста песня! А я, пакуль ты працаваў, перакрыў яму астатнія каналы. Усё, кліент наш з патрохамі!.. Схадзі да Барады, перадай яму прывітанне ад Султана.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_0">
+		<text>Барада завінаваціўся мне грошай. Сыч сказаў, што ты можаш дапамагчы.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_1">
+		<text>Можа, і магу... Ёсць у мяне адна думка. Кароч, расклад такі: падламаем Барадзе бізнес, я забяру яго пад сябе, а ты атрымаеш долю і свае бабкі. Па руках?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_11">
+		<text>Ідзе.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_111">
+		<text>Тады твая справа — даведацца, чым канкрэтна Барада займаецца цяпер. Пахерым яму каналы паставак — і ўсё будзе ў ажуры.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_12">
+		<text>Падумаю.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_121">
+		<text>Толькі ўлічы: шмат думаць шкодна для здароўя.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_0">
+		<text>Як думаеш, Спрытны можа гандляваць крадзеным?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_nimble_1">
+		<text>Спрытны? Не, у яго на такое кішка тонкая. Крадзеным тут Сыч займаецца... Скупляе ўсё, лішніх пытанняў не задае.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_0">
+		<text>Шукаю Корча. Не ведаеш, дзе яго можна знайсці?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b52_about_snag_1">
+		<text>Знаю. Пацаны яго нядаўна бачылі каля партовых кранаў. Трэба б вытрасці з гэтага казла ягоны доўг, ды ўсё рукі не даходзяць.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11">
+		<text>Ёсць для цябе работа. Маім пацанам трэба сустрэцца з адным барыгам. У Зоне цяпер неспакойна — думаю, лішні ствол не зашкодзіць... Глядзі, каб ніхто не шастаў.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_111">
+		<text>Годзіцца.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_1111">
+		<text>Добра. Мае людзі цябе сустрэнуць каля лясніцтва. Каардынаты я скінуў.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_11111">
+		<text>Зразумеў.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_112">
+		<text>Не цікавіць.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_31">
+		<text>Шо тут маячыш? Дуй да лясніцтва.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_311">
+		<text>Угу.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_41">
+		<text>Ну што, падумаў? Ты з намі ці як?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_411">
+		<text>З вамі.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b5_give_task_dialog_412">
+		<text>Сам па сабе.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>Запамінай. Я Султан. Усё, што тут адбываецца, я альбо кантралюю, альбо хутка буду кантраляваць. Хочаш добра жыць — працуй на мяне. Не хочаш — будзеш жыць дрэнна. Вось так.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_11">
+		<text>Шо табе нада?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_21">
+		<text>З чым падкаціў?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_start_dialog_31">
+		<text>Ну?</text>
+	</string>
+	<string id="zat_b7_killed_self_actor_dialog_0">
+		<text>Я сам забіў усіх сталкераў.</text>
+	</string>
+	<string id="zat_b7_killed_self_actor_dialog_1">
+		<text>Ну ты і жорсткі хлопец, халера! Сам прыйшоў, усіх паклаў... На халеру я з табой звязаўся? Бабло не выбілі, а праблем сабе нажылі! Працаваць трэба асцярожней, халера!..</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_0">
+		<text>Як працуецца на навукоўцаў?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_1">
+		<text>Нядрэнна... Праблем пакуль не ўзнікала — усё ціха. Навукоўцы падкінулі нам рыштунку, так што ўсё як мае быць.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_bunker_guarding_2">
+		<text>Выдатна! Праца нескладаная, плацяць добра. Пакуль мы тут, ніхто не меў прэтэнзій да навукоўцаў, пачвары таксама асабліва не турбавалі...</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_come_with_me_0">
+		<text>Я збіраю атрад, каб адправіцца ў Прыпяць. Пойдзеш са мной?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_come_with_me_1">
+		<text>Э, не-е! Мяне якраз у Прыпяць не цягне. Ды і навукоўцаў трэба ахоўваць, мы ж з імі дамовіліся. Ты б лепш забраў з сабой таго вайскоўца — можа, ён і сваіх знайшоў бы, і нам было б спакайней. Ды хлопец нармальны, толькі няма яму тут чаго рабіць.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_come_with_me_2">
+		<text>Э, не-е! Мяне якраз у Прыпяць не цягне. Ды і навукоўцаў трэба ахоўваць, мы ж з імі дамовіліся.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_0">
+		<text>Не хочаш папрацаваць на навукоўцаў?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_1">
+		<text>Што трэба будзе рабіць?</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_11">
+		<text>Ахоўваць іх бункер.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_111">
+		<text>Што ж, ахоўваць нам не ўпершыню! Згодны. Як збярэмся — рушым да бункера.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_12">
+		<text>Праводзіць замеры ў анамаліях.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_121">
+		<text>З мяне малодшы навуковы супрацоўнік — як з тушкана марская свінка. Як ні круці, толку будзе мала.</text>
+	</string>
+	<string id="zat_b7_stalker_squad_leader_employ_stalkers_2">
+		<text>Давай потым пагаворым пра гэта? Тут мясцовай шпаны развялося процьма. Вось уціхамірым іх крыху — тады можна будзе і пра працу думаць.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_1">
+		<text>Ну што, тады рушым? Зараз мы іх хутка...</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_11">
+		<text>Добра.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_2">
+		<text>Лепш дзе-небудзь у сховішчы перачакаць. Выкід, чорт яго бяры!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_15">
+		<text>Ну што, рушым? Зараз мы іх хутка... Ты галоўнае, не сцы.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_16">
+		<text>Класна мы іх вальтанулі!.. На, трымай бабло. Калі яшчэ якая справа з’явіцца — мы гэта, маякнём.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_18">
+		<text>Ну ты і жорсткі пацан, ё-маё! Сам прыйшоў, сам усіх паклаў... І нахрэн я з табой звязаўся? Грошай не выбілі, а праблем на сваю галаву набралі! Трэба ж працаваць асцярожней, ё-маё!..</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_19">
+		<text>Не зразумеў... а дзе сталкеры?.. Гэта ты, сука, нас здаў?! Зуб даю, усе братаны былі побач са мной!.. Дык цябе цяпер замест сталкераў абшманаем! Чаго, ёпта, глядзіш? Выварочвай кішэні, нах!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_20">
+		<text>Пайшлі, тыпу... да баржы.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_31">
+		<text>А, дзядзька, здароў. Карацей, мне зараз не да балбатні.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_0">
+		<text>Я вам дапамагу.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_1">
+		<text>Выдатна. Тады, як дамовіліся, мы падрыхтуем ім сустрэчу, а ты пойдзеш да гэтых засранцаў. Як толькі яны падыдуць, наляцім на іх з усіх бакоў!.. Галоўнае — трымайся ад іх у баку, каб нашы цябе не зачапілі.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_11">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_choose_dialog_12">
+		<text>Не. На такія ўмовы я не згодны.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_11">
+		<text>Здароў, сталкеру. Я пакуль заняты, выбачай. Давай потым пагаворым, ладна?</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_12">
+		<text>Дзякуй, што папярэдзіў! Можа, пагодзішся з нашым планам і пастраляеш падонкам у спіну?</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_13">
+		<text>Мы сустрэнем іх у засадзе. А ты давай валі гэтых гадоў з тылу!</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_14">
+		<text>Канец падонкам! Дзякуй, што папярэдзіў.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_15">
+		<text>Дзякуй, што дапамог.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_dialog_31">
+		<text>Здароў... Слухай, калі нічога важнага няма, давай потым пагаворым, ага?</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_leader_start_dialog_11">
+		<text>Вітаю.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_0">
+		<text>Я знайшоў Сароку — на станцыі «Янаў» ён называўся Флінтам. З ім ужо разабраліся.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_1">
+		<text>Разабраліся? Эх, шкада! Нават за горла не паспеў ухапіць... Ну нічога, усё адно навіна добрая. Вось, трымай. Як і абяцаў.</text>
+	</string>
+	<string id="zat_b106_stalker_gonta_info_about_soroka_gone_11">
+		<text>Дзякую.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_0">
+		<text>Я хачу сысці з Зоны.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_1">
+		<text>Упэўнены? Гэта дарога ў адзін канец.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_11">
+		<text>Упэўнены. Пайшлі.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_leave_zone_12">
+		<text>Зрэшты, ладна... пакуль застануся.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_191">
+		<text>Добра, бяры грошы. Не будзем сварыцца.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_1911">
+		<text>Што?! Усё аддавай, нах! І валі адсюль, хутка!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_19111">
+		<text>Я пайшоў.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_192">
+		<text>Не выйдзе!</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_2">
+		<text>Зараз паглядзім... з такім здароўем? Дык мне, відаць, тады трэба тэрміновая пуцёўка ў морг.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_13">
+		<text>Слухай, ёсць тэрміновая справа. Адзін знаёмы гандляр хоча правярнуць здзелку. Толькі кліенты там неспакойныя — на ўсялякі выпадак патрэбна ахова. Цікава?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_131">
+		<text>Так.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1311">
+		<text>Добра. Гандляр будзе чакаць каля лясніцтва — там і абмяркуеце ўсе падрабязнасці.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_132">
+		<text>Не тое каб.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_1321">
+		<text>Глядзі сам. Час яшчэ ёсць, калі перадумаеш — звяртайся.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_0">
+		<text>Якую працу ты можаш прапанаваць?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_1">
+		<text>Выгадную. На якое дзела цябе паклікалі? Ты тут чалавек новы, яшчэ сувязямі не аброс, хоць мог бы хутка падняцца, мог бы... Ці цікавіць цябе, што я магу сказаць?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_11">
+		<text>Цікавіць.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_111">
+		<text>Тады глядзі сюды. Ёсць маза ўрваць грошай з двух сталкераў Барады. Галоўнае, справа ціхая, здаецца, шухеру не будзе... Карацей, прыйдзеш з пацанамі ўначы да «Шаўчэнкі» і, пакуль кліенты будуць тупіць, знімеш з іх, што трэба. Нам — навар, табе асабіста — аўтарытэт... Уцяміў? Добра. Вунь стаіць Кастэт, ператры з ім за дэталі.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_12">
+		<text>Не надта.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_121">
+		<text>Дарма. Ты ўсё ж падумай... Як уцяміш, што табе рэальна добра, тады пагаворым.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b7_give_task_dialog_2">
+		<text>Табе карысную, калі хочаш падняцца! Ці цікавіць цябе, што я табе скажу?</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_11">
+		<text>КПК Баржы. Я знайшоў яго труп у пячорах пад згарэлым хутаром.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_12">
+		<text>Я знайшоў яго каля шкілета, недалёка ад Саснадуба. Гэта КПК Жартаўніка.</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_121">
+		<text>Жартаўніка?! Не можа быць!.. Значыць, Жартаўніка больш няма... Эх, Жартаўніку, Жартаўніку... больш не пасмяемся!.. Спі спакойна... Добра б з Баржай усё было ў парадку...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_122">
+		<text>Жартаўніка?! Не можа быць!.. Значыць, Жартаўніка больш няма... Эх, Жартаўніку, Жартаўніку... больш не пасмяемся!.. А Баржа?! Як жа так выйшла?.. Эх, хлопцы... спіце спакойна...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_pda_13">
+		<text>КПК Баржы і Жартаўніка. Адзін я знайшоў каля шкілета недалёка ад Саснадуба, другі — на мёртвым целе ў пячорах пад згарэлым хутаром.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_about_surge_1">
+		<text>Шчыра кажучы, аповед будзе кароткі. Выкід надзвычай небяспечны і амаль заўсёды смяротны. Ён накатвае паступова, а яго набліжэнне найлягчэй заўважыць па змене надвор'я. Пры першых прыкметах набліжэння абавязкова знайдзі сховішча — пячору ці нешта з бетону, цэглы, сталі... Я, як і некаторыя іншыя, адчуваю яго набліжэнне: у мяне пачынае па-асабліваму ныць спіна. Добра, што пік выкіду праходзіць даволі хутка! А пра яго прыроду нічога не магу сказаць — проста не ведаю.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_start_dialog_11">
+		<text>Трэба тавары? Інфармацыя?.. Ці, можа, гэта ты хочаш прадаць мне інфармацыю?</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_0">
+		<text>Султан кажа, вы хочаце абабраць сталкераў. Я з вамі.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_choose_dialog_2">
+		<text>Выдатна! Падскоквай да «Шаўчэнкі» пасля поўначы — будзем чакаць. Толькі не цягні да раніцы.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_13">
+		<text>А, братка! Дык пра што вы з Султанам дамовіліся?</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_14">
+		<text>Ну што... Падскоквай да баржы пасля поўначы, пакуль не развіднела. Будзем цябе чакаць.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_0">
+		<text>Лепш я пакуль з табой пабуду. Як дачакаемся поўначы, пакажаш мне дарогу да «Шаўчэнкі».</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_1">
+		<text>Не пытанне, заставайся. А да баржы я цябе правяду без праблем.</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_actor_teleport_dialog_12">
+		<text>Хаця не. Пакуль займуся сваімі справамі.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_info_1">
+		<text>У мяне ёсць буйныя замоўцы па-за Зонай. Час ад часу яны замаўляюць пэўныя артэфакты на пэўны тэрмін. Прыносіш — плачу добрыя грошы. Май на ўвазе: гэтыя замовы вельмі важныя для мяне, таму я адначасова шукаю некалькіх выканаўцаў. Толькі першы атрымлівае ўсю суму.</text>
+	</string>
+	<string id="zat_b18_noah_plateau_way_112">
+		<text>Праз згарэлы хутар. Хм... А ты наогул хто?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15311">
+		<text>Гэтае месца яшчэ называюць Жалезным лесам. Верталёт упаў проста на слупы лініі электраперадачы. З вайскоўцаў ніхто не выжыў... Ды нават калі б выжыў — не выбраўся б: палтэргейсты, сто адсоткаў, загналі б у «электры». Сам ведаеш, гэтыя пачвары рэагуюць на любы рух.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_buy_info_15411">
+		<text>Ладна, слухай: пасля падзення верталёта там бачылі вайскоўцаў — чалавек пяць усяго. Здаецца, выбраліся з балота. Ды не, дабрацца туды нескладана; галоўнае — у ваду не лезці, а скакаць па купінах. І патрэбная абарона ад хіміі. Калі хочаш туды лезці, купі ў медыка антыдотаў.</text>
+	</string>
+	<string id="zat_b3_stalker_tech_start_1311">
+		<text>Эх, шкада, ты не застаў маіх таварышаў — Жартаўніка і Баржу... Добра б мы пасядзелі! Мы ж былі як браты, адзін за аднаго гарой... І як жа так у нас атрымалася?.. Я тут сяджу, а дзе яны — невядома...</text>
+	</string>
+	<string id="zat_b3_tech_buddies_about_0">
+		<text>Раскажы пра Жартаўніка і Баржу.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_111213">
+		<text>Я ўжо сёе-тое адтуль прынёс.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_1112131">
+		<text>А чаго ж тады маўчыш?.. Ну, знайшоў для мяне што-небудзь?</text>
+	</string>
+	<string id="zat_b51_stalker_nimble_b52_about_gun_questions_11111">
+		<text>Ну, тады зразумела. Я яго ведаю: яшчэ той прайдзісвет, ды апошнім часам, бачу, зусім знахабіўся. Думае разводзіць сталкераў... Трэба б паставіць яго на месца.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_choose_task_116">
+		<text>Трэба здабыць звесткі ў лагеры наймітаў. Гэта не так складана, як здаецца.</text>
+	</string>
+	<string id="zat_a2_linker_b29_actor_get_adv_task_111">
+		<text>Буду чакаць з нецярпеннем. Май на ўвазе: замова тэрміновая, выканаць яе трэба за двое сутак.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_28">
+		<text>КПК пасланца Султана.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_281">
+		<text>Не надта цікава. Дам за яго 500.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_2811">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_26">
+		<text>Прататыпы дэтэктараў. Не хочаш іх назад выкупіць?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_27">
+		<text>Знайшоў сакрэтныя дакументы на мосце каля аўтакалоны. Хочаш зірнуць?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_31">
+		<text>Дзіўны артэфакт. Знайшоў на земснарадзе.</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_32">
+		<text>Дзіўны артэфакт. Знайшоў недалёка ад станцыі «Янаў».</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_sell_items_33">
+		<text>Артэфакт «Сэрца Аазіса».</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_151">
+		<text>Паехалі!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_152">
+		<text>Пачакай.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_0">
+		<text>Вас збіраецца абрабаваць група сталкераў. Раю вам быць напагатове.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_1">
+		<text>Падонкі! Ну нічога — мы ім падрыхтуем гарачы прыём... Слухай, калі будзе магчымасць, увайдзі да іх у давер. Даведаешся, што да чаго, ды дапаможаш нам адбіцца... Мы ў даўгу не застанемся!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111">
+		<text>Ды мне пахеру, хто пра што там дамовіўся. Гані ўсё сюды!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_1111212">
+		<text>Добра, трымай.</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_21">
+		<text>Не ў курсе?.. Нам ужо пафігу. Гані ўсё сюды, фраеру!</text>
+	</string>
+	<string id="zat_b52_robbery_port_bandits_1_11111">
+		<text>Эй, спакойна... Вось, трымай.</text>
+	</string>
+	<string id="zat_b7_stalkers_victims_actor_start_dialog_2">
+		<text>Падонкі! Ну нічога — мы ім падрыхтуем гарачы прыём... Слухай, калі будзе такая магчымасць, дапамажы нам адбіцца. Мы ў даўгу не застанемся!</text>
+	</string>
+	<string id="zat_b7_stalkers_raiders_dialog_21">
+		<text>А крута мы іх вальтанулі! Толькі ты, фраер, стаяў убаку, таму хрэн табе, а не доля!.. Ладна, не сцы. Калі яшчэ якая справа падвярнецца — мы гэта, маякнём.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_31">
+		<text>Так, дапамогі ад цябе — як з казла малака... Ладна... Сам разумееш, узнагарода табе не свеціць: няма за што яе даваць.</text>
+	</string>
+	<string id="zat_b5_stalker_commander_dialog_311">
+		<text>Бывай.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_compass_give_actor_dialog_1">
+		<text>Маладзец! Цяпер засталося яшчэ трохі прыціснуць цярпілу. Мне шапнулі, што Барада раздаў сваім сталкерам крутыя дэтэктары, каб часцей здабываць рэдкія артэфакты. Трэба б уцерціся да гэтых сталкераў і зрабіць так, каб дэтэктары апынуліся ў цябе ў кішэні. Уцяміў?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_b30_start_actor_dialog_2">
+		<text>Фіг там! Ніяк на яго не паўплываць. Хацеў перакрыць яму каналы паставак, але гэты барадаты гад усё адно недзе дастаў «Компас». Лічы, у яго ўсё ў ажуры... пакуль што.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1111211">
+		<text>[далей...]</text>
+	</string>
+	<string id="zat_b22_stalker_medic_dialog_start_1141111">
+		<text>[далей...]</text>
+	</string>
+	<string id="zat_b22_stalker_medic_need_health_care_11">
+		<text>[далей...]</text>
+	</string>
+	<string id="zat_b22_barmen_about_vampire_actor3_0">
+		<text>Глушэц мёртвы. Падобна, яго забіў Дрыжык... але і ён ужо мёртвы.</text>
+	</string>
+</string_table>

@@ -1,0 +1,171 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<string_table>
+	<string id="st_zat_b55_name">
+		<text>Анамалія «Кіпцюр»</text>
+	</string>
+	<string id="st_zat_b100_name">
+		<text>Анамалія «Жалезны лес»</text>
+	</string>
+	<string id="st_zat_b104_name">
+		<text>Лесапільня</text>
+	</string>
+	<string id="st_zat_b38_name">
+		<text>ВНЗ «Круг»</text>
+	</string>
+	<string id="st_zat_b40_name">
+		<text>Станцыя перапрацоўкі адходаў</text>
+	</string>
+	<string id="st_zat_b56_name">
+		<text>Анамалія «Цырк»</text>
+	</string>
+	<string id="st_zat_b5_name">
+		<text>Лясніцтва</text>
+	</string>
+	<string id="st_zat_a2_name">
+		<text>«Скадоўск»</text>
+	</string>
+	<string id="st_zat_b20_name">
+		<text>Згарэлы хутар</text>
+	</string>
+	<string id="st_zat_b53_name">
+		<text>Анамалія «Кацёл»</text>
+	</string>
+	<string id="st_zat_b101_name">
+		<text>Багна</text>
+	</string>
+	<string id="st_zat_b106_name">
+		<text>«Смарагдавае»</text>
+	</string>
+	<string id="st_zat_b7_name">
+		<text>«Шаўчэнка»</text>
+	</string>
+	<string id="st_zat_b14_name">
+		<text>Земснарад</text>
+	</string>
+	<string id="st_zat_b52_name">
+		<text>Партовыя краны</text>
+	</string>
+	<string id="st_zat_b39_name">
+		<text>Анамалія «Саснадуб»</text>
+	</string>
+	<string id="st_zat_b33_name">
+		<text>Запраўка</text>
+	</string>
+	<string id="st_zat_b18_name">
+		<text>Старая баржа</text>
+	</string>
+	<string id="st_zat_b54_name">
+		<text>Анамалія «Рубец»</text>
+	</string>
+	<string id="st_zat_b12_name">
+		<text>Мост імя Праабражэнскага</text>
+	</string>
+	<string id="st_zat_b28_name">
+		<text>Паўднёвае плато</text>
+	</string>
+	<string id="st_zat_b103_name">
+		<text>Цэхі падстанцыі</text>
+	</string>
+	<string id="st_jup_b1_name">
+		<text>Анамалія «Папялішча»</text>
+	</string>
+	<string id="st_jup_b46_name">
+		<text>Градзірня</text>
+	</string>
+	<string id="st_jup_b202_name">
+		<text>Паўстанак</text>
+	</string>
+	<string id="st_jup_b211_name">
+		<text>Анамалія «Плаўні»</text>
+	</string>
+	<string id="st_jup_b200_name">
+		<text>Цэментны завод</text>
+	</string>
+	<string id="st_jup_b19_name">
+		<text>Капачы</text>
+	</string>
+	<string id="st_jup_a6_name">
+		<text>«Янаў»</text>
+	</string>
+	<string id="st_jup_b25_name">
+		<text>Кар’ер</text>
+	</string>
+	<string id="st_jup_b6_name">
+		<text>Бункер навукоўцаў</text>
+	</string>
+	<string id="st_jup_b205_name">
+		<text>ЗРК «Волхаў»</text>
+	</string>
+	<string id="st_jup_b206_name">
+		<text>Анамальны гай</text>
+	</string>
+	<string id="st_jup_b32_name">
+		<text>Стаянка</text>
+	</string>
+	<string id="st_jup_a10_name">
+		<text>КПП</text>
+	</string>
+	<string id="st_jup_b209_name">
+		<text>Анамалія «Бітум»</text>
+	</string>
+	<string id="st_jup_b208_name">
+		<text>Усходні тунэль</text>
+	</string>
+	<string id="st_jup_a12_name">
+		<text>Склад кантэйнераў</text>
+	</string>
+	<string id="st_jup_b212_name">
+		<text>Вентыляцыйны комплекс</text>
+	</string>
+	<string id="st_jup_b9_name">
+		<text>Верталётныя пляцоўкі</text>
+	</string>
+	<string id="st_jup_b201_name">
+		<text>Анамалія «Бетонная ванна»</text>
+	</string>
+	<string id="st_jup_a9_name">
+		<text>Завод «Юпітэр»</text>
+	</string>
+	<string id="st_pri_a28_name">
+		<text>Кінатэатр «Праметэй»</text>
+	</string>
+	<string id="st_pri_b36_name">
+		<text>Рачны порт</text>
+	</string>
+	<string id="st_pri_b303_name">
+		<text>Стары КБА</text>
+	</string>
+	<string id="st_pri_b301_name">
+		<text>Школа</text>
+	</string>
+	<string id="st_pri_a17_name">
+		<text>Шпіталь</text>
+	</string>
+	<string id="st_pri_b306_name">
+		<text>КБА «Юбілейны»</text>
+	</string>
+	<string id="st_pri_a16_name">
+		<text>Пральня</text>
+	</string>
+	<string id="st_pri_a25_name">
+		<text>Дзіцячы сад</text>
+	</string>
+	<string id="st_pri_b35_name">
+		<text>Інтэрнат</text>
+	</string>
+	<string id="st_pri_a21_name">
+		<text>Гастраном</text>
+	</string>
+	<string id="st_pri_b304_name">
+		<text>Універмаг</text>
+	</string>
+	<string id="st_pri_a18_name">
+		<text>Крама «Кнігі»</text>
+	</string>
+	<string id="st_pri_b307_name">
+		<text>Анамалія «Вулкан»</text>
+	</string>
+	<string id="st_pri_b302_name">
+		<text>Анамалія «Лаза»</text>
+	</string>
+</string_table>

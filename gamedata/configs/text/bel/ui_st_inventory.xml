@@ -1,0 +1,303 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<string_table>
+	<string id="not_enough_money_actor">
+		<text>Вам бракуе грошай</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>Персанажу бракуе грошай</text>
+	</string>
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	<string id="st_activate_artefact">
+		<text>актываваць артэфакт</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>прымацаваць гранатамёт да</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>прымацаваць прыцэл да</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>прымацаваць глушыцель да</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Цана</text>
+	</string>
+	<string id="st_community">
+		<text>Групоўка:</text>
+	</string>
+	<string id="st_condition">
+		<text>Стан</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>адлучыць гранатамёт</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>адлучыць прыцэл</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>адлучыць глушыцель</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>надзець касцюм</text>
+	</string>
+	<string id="st_drop">
+		<text>выкінуць</text>
+	</string>
+	<string id="st_drop_all">
+		<text>выкінуць усё</text>
+	</string>
+	<string id="st_eat">
+		<text>з’есці</text>
+	</string>
+	<string id="st_kg">
+		<text>кг</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>павесіць на пояс</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>пакласці ў заплечнік</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>перамясціць у ячэйку</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>Гандляр не цікавіцца такімі рэчамі.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>Рэч занадта зношаная для продажу.</text>
+	</string>
+	<string id="st_play">
+		<text>прайграць</text>
+	</string>
+	<string id="st_sell_item">
+		<text>прадаць рэч</text>
+	</string>
+	<string id="st_ui_armor_static">
+		<text>Стан брані</text>
+	</string>
+	<string id="st_ui_main_sensor">
+		<text>Радыяцыйнае заражэнне</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>зняць касцюм</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>разрадзіць</text>
+	</string>
+	<string id="st_use">
+		<text>выкарыстаць</text>
+	</string>
+	<string id="st_weight">
+		<text>Вага</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>Ёміст. магазіна</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Дакладнасць</text>
+	</string>
+	<string id="ui_inv_ammo_pistol">
+		<text>Купіць асноўныя набоі для пісталета (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Купіць набоі для вінтоўкі (W)</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Гаенне ран</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Скасаваць</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>Немагчыма купіць зброю</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Абмежаванне колькасці</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Шкода</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Пачатковы (F5)</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Выхад</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Купіць падствольны гранатамёт для вінтоўкі (D)</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Купіць гранаты для падствольнага гранатамёта (E)</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Зручнасць</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Цяпер</text>
+	</string>
+	<string id="ui_inv_health">
+		<text>Аднаўл. здароўя</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Цяжкая зброя</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Купіць апошні набыты набор</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Папярэдні (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Грошы</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>Патрэбна</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Бракуе грошай</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>Добра</text>
+	</string>
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Дапушчальная вага</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Абарона ад жару</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Хімабарона</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Браня</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Радыеабарона</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Электраабарона</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Псі-абарона</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Змякчэнне ўдару</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Аднаўл. сіл</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Набор 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Набор 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Набор 3 (F3)</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Радыяцыя</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Абмежаванне паводле рангу</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Хуткастрэльнасць</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Ачысціць (C)</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Аўтаматы</text>
+	</string>
+	<string id="ui_inv_satiety">
+		<text>Сытасць</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Купіць аптычны прыцэл для вінтоўкі (S)</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>Прадаць усе рэчы з заплечніка (X)</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Стрэльбы</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>Купіць глушыцель для пісталета (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Купіць глушыцель для вінтоўкі (F)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Снайперская зброя</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Час</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Ужо ёсць</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Сеткавыя службы S.T.A.L.K.E.R. недаступныя.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>Немагчыма злучыцца з галоўным серверам</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>Абарона:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Пачатковы</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Набыты набор захаваны як</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>Агульная вага:</text>
+	</string>
+	<string id="st_drink">
+		<text>выпіць</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>Аднаўленне сіл</text>
+	</string>
+	<string id="st_ui_bleeding_sensor">
+		<text>Крывацёк</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Найб. вага</text>
+	</string>
+	<string id="st_ui_health_sensor">
+		<text>Стан здароўя</text>
+	</string>
+	<string id="ui_ammo_types">
+		<text>Боепрыпасы</text>
+	</string>
+	<string id="ui_inv_effect_time">
+		<text>Час дзеяння</text>
+	</string>
+	<string id="ui_inv_seconds_short">
+		<text>с</text>
+	</string>
+	<string id="ui_inv_survive_surge">
+		<text>Дазваляе перажыць выкід</text>
+	</string>
+	<string id="st_undress_helmet">
+		<text>зняць шлем</text>
+	</string>
+	<string id="st_dress_helmet">
+		<text>надзець шлем</text>
+	</string>
+</string_table>

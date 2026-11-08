@@ -1,0 +1,348 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<string_table>
+	<string id="actor_inventory_box_use">
+		<text>Адкрыць асабістую скрыню ($$ACTION_USE$$)</text>
+	</string>
+	<string id="cant_walk">
+		<text>Вы занадта знясілены, каб рухацца</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>Вы занадта перагружаны, каб рухацца</text>
+	</string>
+	<string id="car_character_use">
+		<text>Адчыніць дзверы ($$ACTION_USE$$)</text>
+	</string>
+	<string id="character_use">
+		<text>Размаўляць ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use">
+		<text>Абшукаць труп ($$ACTION_USE$$)</text>
+	</string>
+	<string id="dead_character_use_or_drag">
+		<text>Абшукаць труп ($$ACTION_USE$$)\nЦягнуць труп (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="general_complete_task">
+		<text>Заданне выканана:</text>
+	</string>
+	<string id="general_fail_task">
+		<text>Заданне правалена:</text>
+	</string>
+	<string id="general_in_item">
+		<text>Атрымана рэч:</text>
+	</string>
+	<string id="general_in_money">
+		<text>Атрыманы грошы:</text>
+	</string>
+	<string id="general_new_task">
+		<text>Новае заданне:</text>
+	</string>
+	<string id="general_out_item">
+		<text>Страчана рэч:</text>
+	</string>
+	<string id="general_out_money">
+		<text>Страчаны грошы:</text>
+	</string>
+	<string id="general_reverse_task">
+		<text>Заданне скасавана:</text>
+	</string>
+	<string id="general_update_task">
+		<text>Заданне абноўлена:</text>
+	</string>
+	<string id="gun_jammed">
+		<text>Зброю заклінавала. Трэба перазарадзіць.</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>Абшукаць скрыню ($$ACTION_USE$$)</text>
+	</string>
+	<string id="inventory_item_use">
+		<text>Падняць рэч ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b10_ufo_searching_tips">
+		<text>Абшукаць лятальны апарат ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b1_bar_door">
+		<text>Дзверы заклінавала</text>
+	</string>
+	<string id="jup_b1_door_is_closed">
+		<text>Дзверы зачынены знутры</text>
+	</string>
+	<string id="jup_b202_treasures_closed">
+		<text>Сейф замкнёны</text>
+	</string>
+	<string id="jup_b205_tip_door_closed">
+		<text>Патрэбны код</text>
+	</string>
+	<string id="jup_b205_tip_door_decode">
+		<text>Увесці код ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b206_use_plant">
+		<text>Сарваць расліну ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_place_tips">
+		<text>Усталяваць сканер ($$ACTION_USE$$)</text>
+	</string>
+	<string id="jup_b209_scanner_remove_tips">
+		<text>Забраць сканер ($$ACTION_USE$$)</text>
+	</string>
+	<string id="lx8_raduga">
+		<text>Падаўляльнік агрэсіі «Вясёлка»\nмакет вонкавага выпраменьвальнага комплексу\nмаштаб 1:20</text>
+	</string>
+	<string id="pas_b400_tip_switcher">
+		<text>Уключыць рубільнік ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a18_use_idol">
+		<text>Агледзець канструкцыю ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a25_blow_up_enter_door">
+		<text>Усталяваць выбухоўку ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_a28_talk_with_stupid_medic">
+		<text>Прывесці да прытомнасці ($$ACTION_USE$$)</text>
+	</string>
+	<string id="pri_b306_elevator_door_locked_used">
+		<text>Ліфт абясточаны</text>
+	</string>
+	<string id="pri_b306_generator_use">
+		<text>Запусціць генератар ($$ACTION_USE$$)</text>
+	</string>
+	<string id="sleep_ok_button">
+		<text>Спаць</text>
+	</string>
+	<string id="sleep_warning_all_pleasures">
+		<text>Вы не можаце спаць! У вас небяспечны крывацёк і высокі ўзровень апраменьвання. Скарыстайце лекі або звярніцеся да медыка.</text>
+	</string>
+	<string id="sleep_warning_bleeding">
+		<text>Вы не можаце спаць! У вас небяспечны крывацёк. Скарыстайце лекі або звярніцеся да медыка.</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>Вы не можаце спаць! У вас высокі ўзровень апраменьвання. Скарыстайце лекі або звярніцеся да медыка.</text>
+	</string>
+	<string id="sleep_zone_tip">
+		<text>Спаць ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_ach_balance_advocate">
+		<text>Атрымана дасягненне «Прыхільнік раўнавагі».</text>
+	</string>
+	<string id="st_ach_battle_systems_master">
+		<text>Атрымана дасягненне «Майстар баявых сістэм».</text>
+	</string>
+	<string id="st_ach_detective">
+		<text>Атрымана дасягненне «Вышукнік».</text>
+	</string>
+	<string id="st_ach_diplomat">
+		<text>Атрымана дасягненне «Дыпламат».</text>
+	</string>
+	<string id="st_ach_friend_of_duty">
+		<text>Атрымана дасягненне «Сябар “Доўгу”».</text>
+	</string>
+	<string id="st_ach_friend_of_freedom">
+		<text>Атрымана дасягненне «Сябар “Волі”».</text>
+	</string>
+	<string id="st_ach_friend_of_stalkers">
+		<text>Атрымана дасягненне «Сябар сталкераў».</text>
+	</string>
+	<string id="st_ach_herald_of_justice">
+		<text>Атрымана дасягненне «Ганец правасуддзя».</text>
+	</string>
+	<string id="st_ach_high_tech_master">
+		<text>Атрымана дасягненне «Майстар высокіх тэхналогій».</text>
+	</string>
+	<string id="st_ach_information_dealer">
+		<text>Атрымана дасягненне «Гандляр звесткамі».</text>
+	</string>
+	<string id="st_ach_keeper_of_secrets">
+		<text>Атрымана дасягненне «Захавальнік таямніц».</text>
+	</string>
+	<string id="st_ach_kingpin">
+		<text>Атрымана дасягненне «Аўтарытэт».</text>
+	</string>
+	<string id="st_ach_leader">
+		<text>Атрымана дасягненне «Лідар».</text>
+	</string>
+	<string id="st_ach_mutant_hunter">
+		<text>Атрымана дасягненне «Паляўнічы на мутантаў».</text>
+	</string>
+	<string id="st_ach_one_of_the_lads">
+		<text>Атрымана дасягненне «Свой хлопец».</text>
+	</string>
+	<string id="st_ach_pioneer">
+		<text>Атрымана дасягненне «Першаадкрывальнік».</text>
+	</string>
+	<string id="st_ach_research_man">
+		<text>Атрымана дасягненне «Навуковы супрацоўнік».</text>
+	</string>
+	<string id="st_ach_seeker">
+		<text>Атрымана дасягненне «Шукальнік».</text>
+	</string>
+	<string id="st_ach_skilled_stalker">
+		<text>Атрымана дасягненне «Дасведчаны сталкер».</text>
+	</string>
+	<string id="st_ach_wealthy">
+		<text>Атрымана дасягненне «Заможны кліент».</text>
+	</string>
+	<string id="st_autosave">
+		<text>Аўтазахаванне...</text>
+	</string>
+	<string id="st_can_use_weapon_now">
+		<text>Цяпер можна дастаць зброю.</text>
+	</string>
+	<string id="st_codelock">
+		<text>Кодавы замок ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_detective_news">
+		<text>За раскрыццё справы аб знікненні сталкераў у асабістую скрыню на «Скадоўску» пакладзены лекі.</text>
+	</string>
+	<string id="st_duty_first_reward_news">
+		<text>За дапамогу «Доўгу» ў асабістую скрыню на «Янаве» пакладзены касцюм ПС5-М «Універсальная абарона».</text>
+	</string>
+	<string id="st_duty_second_reward_news">
+		<text>За дапамогу «Доўгу» ў асабістую скрыню на «Янаве» пакладзены касцюм ПСЗ-9д «Браня “Доўгу”».</text>
+	</string>
+	<string id="st_freedom_first_reward_news">
+		<text>За дапамогу «Волі» ў асабістую скрыню на «Янаве» пакладзены касцюм «Вецер волі».</text>
+	</string>
+	<string id="st_freedom_second_reward_news">
+		<text>За дапамогу «Волі» ў асабістую скрыню на «Янаве» пакладзены касцюм «Вартавы волі».</text>
+	</string>
+	<string id="st_freeplay_text_ok">
+		<text>Вы не паспелі дабрацца да верталётаў. Эвакуацыйная група пакінула Зону без вас.</text>
+	</string>
+	<string id="st_freeplay_text_yes_no">
+		<text>Вы гатовы пакінуць Зону? Дарогі назад не будзе.</text>
+	</string>
+	<string id="st_game_over">
+		<text>Гульня скончана.</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Націсніце ($$ACTION_JUMP$$), каб выйсці ў галоўнае меню</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Паўза</text>
+	</string>
+	<string id="st_game_saved">
+		<text>Гульня захавана</text>
+	</string>
+	<string id="st_herald_of_justice_news">
+		<text>За дапамогу ў выкрыцці Сарокі ў асабістую скрыню на «Скадоўску» пакладзены артэфакт.</text>
+	</string>
+	<string id="st_jup_b41_door_locked">
+		<text>Трэба дачакацца герметызацыі шлюза</text>
+	</string>
+	<string id="st_lx8_button_press_true">
+		<text>Доступ дазволены</text>
+	</string>
+	<string id="st_lx8_lift_button">
+		<text>Падняцца на ліфце ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_pri_b306_go_down">
+		<text>Спусціцца на ліфце ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_psy_danger">
+		<text>Крытычны ўзровень псі-выпраменьвання. Неадкладна пакіньце небяспечную зону.</text>
+	</string>
+	<string id="st_radiation_danger">
+		<text>Небяспечны ўзровень радыяцыі. Каб прайсці, патрэбна абарона.</text>
+	</string>
+	<string id="st_search_helicopter">
+		<text>Агледзець верталёт ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_search_treasure">
+		<text>Абшукаць схованку ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>г</text>
+	</string>
+	<string id="st_tip">
+		<text>Паведамленне</text>
+	</string>
+	<string id="tip_door_blocked">
+		<text>Дзверы заблакаваны</text>
+	</string>
+	<string id="tip_door_close">
+		<text>Зачыніць дзверы ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_closed_base_alarm">
+		<text>Дзверы замкнёны: у лагеры трывога</text>
+	</string>
+	<string id="tip_door_closed_hide_weapon">
+		<text>Дзверы замкнёны: трэба схаваць зброю</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>Дзверы замкнёны</text>
+	</string>
+	<string id="tip_door_no_electricity">
+		<text>Дзверы абясточаны</text>
+	</string>
+	<string id="tip_door_open">
+		<text>Адчыніць дзверы ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>Брама заблакавана</text>
+	</string>
+	<string id="tip_need_access_card">
+		<text>Скарыстаць картку доступу ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_no_access_card">
+		<text>Патрэбна картка доступу</text>
+	</string>
+	<string id="tip_open_another_site">
+		<text>З гэтага боку дзверы не адчыняюцца</text>
+	</string>
+	<string id="ui_st_mp_experience_grow">
+		<text>-</text>
+	</string>
+	<string id="zat_b12_conteiner_full_locked">
+		<text>Кантэйнер замкнёны: патрэбны два ключы</text>
+	</string>
+	<string id="zat_b12_conteiner_has_one_key">
+		<text>Скарыстаць ключ ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_has_two_key">
+		<text>Скарыстаць ключы ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b12_conteiner_locked">
+		<text>Кантэйнер замкнёны: патрэбны другі ключ</text>
+	</string>
+	<string id="zat_b12_conteiner_open">
+		<text>Адкрыць кантэйнер ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b14_door_locked_hint">
+		<text>Механізм дзвярэй заблакаваны знутры</text>
+	</string>
+	<string id="zat_b57_balon_use_hint">
+		<text>Падлучыць газавы балон ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b57_gas_warning">
+		<text>Асцярожна! Хімічная небяспека!</text>
+	</string>
+	<string id="zat_b57_vintil_press">
+		<text>Павярнуць вентыль ($$ACTION_USE$$)</text>
+	</string>
+	<string id="zat_b33_car_searching_tip">
+		<text>Абшукаць «Запарожац» ($$ACTION_USE$$)</text>
+	</string>
+	<string id="st_resupply_ready">
+		<text>Перад аперацыяй можна папоўніць запас лекаў і боепрыпасаў у лейтэнантаў Рагаўца і Кірылава.</text>
+	</string>
+	<string id="st_surge_while_asleep">
+		<text>У Зоне нядаўна адбыўся выкід.</text>
+	</string>
+	<string id="st_ach_marked_by_zone">
+		<text>Атрымана дасягненне «Пазначаны Зонай»</text>
+	</string>
+	<string id="st_mutant_hunter_news">
+		<text>За знішчэнне небяспечных мутантаў у асабістую скрыню на «Янаве» пакладзены боепрыпасы.</text>
+	</string>
+	<string id="st_found_old_treasure">
+		<text>Атрыманы каардынаты раней знойдзенай схованкі</text>
+	</string>
+	<string id="st_got_treasure">
+		<text>Знойдзена схованка</text>
+	</string>
+	<string id="st_found_new_treasure">
+		<text>Атрыманы каардынаты схованкі</text>
+	</string>
+	<string id="st_press_any_key">
+		<text>Націсніце любую клавішу, каб пачаць гульню</text>
+	</string>
+</string_table>

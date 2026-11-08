@@ -1,0 +1,906 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<string_table>
+	<string id="jup_b15_zulus_b301_after_fight_0">
+		<text>Ха-ха! Так ім і трэба!.. Дзякуй, што выручыў! Калі б ты не паспеў своечасова, пачвары ўжо б мной закусвалі. Ведаеш, ты ўсё ж класны сталкер... Даруй, я тады дарэмна раззлаваўся... А ты таксама добры: мог бы адразу сказаць пра СБУ!</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_1">
+		<text>Няма за што. Хадзем лепей са мной у лагер вайскоўцаў. Там бяспечней.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_11">
+		<text>Добра. У любым разе лепей, чым аднаму бадзяцца па Прыпяці!</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_111">
+		<text>Тады хадзем.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_112">
+		<text>У мяне тут яшчэ справы, а ты ідзі. Лагер — у будынку хімчысткі.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_after_fight_2">
+		<text>Мне ўжо час.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_0">
+		<text>Пачакай... Вось, трымай. Самы надзейны кулямёт у Зоне!</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_1">
+		<text>А табе ён хіба не патрэбны?</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_11">
+		<text>Чым адбіцца ад двух-трох пачвар, у мяне знойдзецца. Табе ён больш спатрэбіцца: я ж вырашыў вярнуцца назад, Гарык правядзе мяне да «Юпітэра»... Так што бяры, не сумнявайся. Спатрэбіцца.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_111">
+		<text>Удачы табе.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_2">
+		<text>Дзякуй. Выдатная зброя.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_21">
+		<text>Не проста выдатная — найлепшая ў Зоне! Яго адмыслова мадыфікавалі... Трохі цяжкаваты, але з ім і бегаць не трэба: наадварот, ад цябе будуць уцякаць.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_211">
+		<text>Бывай.</text>
+	</string>
+	<string id="jup_b15_zulus_b301_reward_dialog_3">
+		<text>Ух... бывай.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b301_about_zulus_0">
+		<text>Не ведаеш, куды падзеўся Зулус?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b301_about_zulus_1">
+		<text>Пайшоў. Папрасіў правесці яго да «Юпітэра», недалёка ад завода мы і разышліся. Ён не сказаў, куды збіраецца ісці.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_0">
+		<text>Пачакай. Са мной тут такая непрыемнасць здарылася... Найміты папрасілі мяне правесці іх у Прыпяць. Спачатку я пагадзіўся — плацілі яны добра, а потым зразумеў, што ўляпаўся... Мяне яны не адпускалі ні на крок, увесь час трымалі на мушцы. На падыходзе да Прыпяці мне ўсё ж удалося ўцячы, але яны ўсё роўна ўжо дзесьці ў горадзе. Будзь асцярожны.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_1">
+		<text>Ты не чуў, пра што гаварылі найміты?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_11">
+		<text>Крыху чуў. Як я разумею, яны відавочна не збіраліся пакідаць мяне жывым, таму асабліва не паніжалі голас. У асноўным гаварылі пра сустрэчу з людзьмі заказчыка, якія павінны паказаць ім нейкі аб’ект — мэту іх задання.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_111">
+		<text>Дзе павінна адбыцца сустрэча?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_1111">
+		<text>Тут побач, у дворыку інтэрната.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_2">
+		<text>Дзякуй за звесткі.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_0">
+		<text>Ты казаў пра наймітаў. Не чуў, пра што яны гаварылі?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_1">
+		<text>Крыху чуў. Як я разумею, яны відавочна не збіраліся пакідаць мяне жывым, таму асабліва не паніжалі голас. У асноўным гаварылі пра сустрэчу з людзьмі заказчыка, якія павінны паказаць ім нейкі аб’ект — мэту іх задання.</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_11">
+		<text>Дзе павінна адбыцца сустрэча?</text>
+	</string>
+	<string id="jup_b43_stalker_assistant_b35_about_merc_actor_111">
+		<text>Тут побач, у дворыку інтэрната.</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_0">
+		<text>Я дамовіўся з навукоўцамі наконт касцюма. Табе трэба забраць яго ў Германа.</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_1">
+		<text>Добра. А дзе сустрэнемся?</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_11">
+		<text>Каля станцыі «Янаў», у байца па мянушцы Зулус.</text>
+	</string>
+	<string id="pri_a15_sokolov_arranged_outfit_111">
+		<text>Але ж там сталкеры! Лепш ты правядзі мяне да Зулуса. Калі я з’яўлюся там адзін, у мяне могуць узнікнуць праблемы. А цябе там ведаюць — страляць не стануць.</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_point_0">
+		<text>Да якога пункта эвакуацыі ты хадзіў?</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_point_1">
+		<text>Прабач, не магу пра гэта расказваць. Інфармацыя сакрэтная, разумееш?</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_0">
+		<text>Пойдзем да Зулуса.</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_1">
+		<text>Добра. Толькі дарогай трэба зайсці да Германа па ахоўны касцюм.</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_11">
+		<text>Пойдзем.</text>
+	</string>
+	<string id="pri_a15_sokolov_goto_zulus_2">
+		<text>Я б і пайшоў... Ды, здаецца, выкід. Можа, пазней?</text>
+	</string>
+	<string id="pri_a15_sokolov_jupiter_0">
+		<text>Як ты сюды трапіў?</text>
+	</string>
+	<string id="pri_a15_sokolov_jupiter_1">
+		<text>Мой верталёт упаў на дах цэха завода «Юпітэр» і прабіў яго. Выжыў толькі я. Ледзь выбраўся адтуль, прыйшоў да найбліжэйшага пункта эвакуацыі, але там нікога не знайшоў. Неўзабаве сустрэўся там з Гарыкам — ён і прывёў мяне ў бункер.</text>
+	</string>
+	<string id="pri_a15_sokolov_need_outfit_0">
+		<text>Каб ісці ў Прыпяць, спатрэбіцца ахоўны касцюм з замкнёнай сістэмай дыхання.</text>
+	</string>
+	<string id="pri_a15_sokolov_occupation_0">
+		<text>Чым ты тут займаешся?</text>
+	</string>
+	<string id="pri_a15_sokolov_occupation_1">
+		<text>Згодна з атрыманымі загадамі я мусіў бы рухацца да пункта эвакуацыі. Але Зона — яшчэ тое месца... А я ж пілот, а не спецназавец! Вось і сяджу тут, спадзеючыся, што пасля завяршэння аперацыі мяне забяруць.</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_group_0">
+		<text>Я збіраю атрад, каб ісці ў Прыпяць. Пойдзеш са мной?</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_group_1">
+		<text>У Прыпяць?.. Ведаеш, а я, мабыць, пагаджуся! А раптам нехта з нашых таксама выжыў і цяпер там? У Прыпяці ёсць адзін з пунктаў эвакуацыі. Адзін я туды дакладна не дабяруся, а з тваім атрадам можна паспрабаваць.</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_ready_0">
+		<text>Ты гатовы ісці?</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_ready_1">
+		<text>Ну, у цэлым гатовы.</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_11">
+		<text>Вітаю, сталкеру.</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_12">
+		<text>Вітаю.</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_13">
+		<text>Здароўя жадаю.</text>
+	</string>
+	<string id="pri_a15_sokolov_start_dialog_14">
+		<text>Вітаю, маёру.</text>
+	</string>
+	<string id="pri_a15_sokolov_where_from_0">
+		<text>Адкуль у цябе вайсковая форма?</text>
+	</string>
+	<string id="pri_a15_sokolov_where_from_1">
+		<text>Ды ўсе і так ужо ведаюць, што тут упалі вайсковыя верталёты. Я лейтэнант Сакалоў, другі пілот аднаго з іх.</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_0">
+		<text>Наконт вартавога...</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_1">
+		<text>Ягоны сігнал ідзе ад старога Гастранома, але вартавы не адказвае на выклікі. Можа, ён згубіў перадатчык, хоць наўрад ці... Што тут можна сказаць напэўна? Трэба праверыць.</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_dialog_11">
+		<text>Дзякую, палкоўніку. Думаю, я справюся.</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_0">
+		<text>Наконт вартавога...</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_1">
+		<text>Так. Усё праз гэтага кантралёра... Мабыць, тое самае здарылася і з выведвальнай групай — ён мог прымусіць іх перастраляць адно аднаго. Дзеянні гэтых пачвар бываюць вельмі паскудныя, але найгоршае тое, што мы амаль не ўмеем з імі змагацца. Кантралёр заспеў нас знянацку — і вось, зноў маем страты!</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_11">
+		<text>Прынамсі, з гэтай асобінай цяпер пакончана.</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_111">
+		<text>Шчыра спадзяюся, што цяпер тут стане крыху бяспечней. Я ўдзячны за дапамогу, маёру. Ты, мабыць, нямала набояў патраціў? Знайдзі лейтэнанта Кірылава і скажы яму, што я распарадзіўся выдаць табе ўсё неабходнае.</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_1111">
+		<text>Дзякую, палкоўніку.</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_pass_task_dialog_12">
+		<text>Не хвалюйся, палкоўніку. Я займуся гэтай пачварай.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_0">
+		<text>Можна падрабязней пра заданне?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_11">
+		<text>Хто ён?</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_1_0">
+		<text>Калі мы як мага хутчэй не знойдзем крыніцу перашкод, нам застанецца толькі чакаць смерці. Першая ж масавая атака «Маналіту» нас даб’е, і тады ўся аперацыя канчаткова праваліцца.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_1_1">
+		<text>Паспрабую знайсці крыніцу перашкод.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_2_0">
+		<text>Ну што, маёру? Знайшоў крыніцу?..</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a25_base_reminding_2_1">
+		<text>Яшчэ не.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_about_merc_start_0">
+		<text>Гарык расказаў мне пра здарэнне з наймітамі.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_about_merc_start_1">
+		<text>Так, я таксама ў курсе... Як толькі Гарык уцёк ад іх, адразу прыйшоў сюды — баяўся, што яны будуць яго пераследаваць. На шчасце і для яго, і для нас, найміты не прасачылі за ім. Месца сустрэчы наймітаў і людзей заказчыка ў мяне пад наглядам. Пакуль там ціха. Вось бы ведаць, што наймітам тут спатрэбілася...</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_0">
+		<text>У мяне ёсць звесткі, што найміты шукаюць у Прыпяці сакрэтную лабараторыю.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1">
+		<text>Сакрэтную лабараторыю? У Прыпяці? Адкуль такая інфармацыя?</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11">
+		<text>З ноўтбука наймітаў на Затоне. Гэта пацвярджаецца і расказам сталкера па мянушцы Дзядзька Яр.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111">
+		<text>Хм... Што-небудзь яшчэ вядома?</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111">
+		<text>Яны шукаюць цэнтральную лабараторыю. Мне ўдалося высветліць яе каардынаты.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111">
+		<text>Калі гэта сапраўды так, у нас з’явіўся яшчэ адзін праціўнік — у дадатак да зомбаваных і фанатыкаў... Трэба прыкінуць, што лепей зрабіць у такой сітуацыі.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111111">
+		<text>Я лічу, трэба прасачыць за сустрэчай і, калі атрымаецца, ліквідаваць чалавека заказчыка. Тады нейкі час ніхто туды не сунецца.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111111">
+		<text>Разумнае рашэнне! Мы не даведаемся, хто яшчэ ведае пра лабараторыю, — ну і чорт з ім! Галоўнае, найміты туды не трапяць. З іншага боку, калі яны ўсё пралічаць і пойдуць на нас, гэта будзе сур’ёзная пагроза... Вось што: паспрабуй па магчымасці ліквідаваць абедзве мэты. Я загадаю лейтэнанту Кірылаву суправаджаць цябе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111111">
+		<text>Добра.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_11111112">
+		<text>Пачакай! Магчыма, лепей выбраць іншую мэту.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111111121">
+		<text>Вызнач, якую мэту трэба знішчыць першай.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111112">
+		<text>Трэба ліквідаваць лідара наймітаў. Гэта дэзарганізуе іх і пазбавіць ініцыятывы.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_1111121">
+		<text>Варыянт нядрэнны, але пасланец, хутчэй за ўсё, паспее ўцячы. Інфармацыю пра лабараторыю яны будуць перадаваць ужо ў іншым месцы — паспрабуй здагадацца, у якім. У выніку найміты ўсё адно трапяць туды, хай і пазней. Вось што: паспрабуй па магчымасці ліквідаваць абедзве мэты. Я загадаю лейтэнанту Кірылаву суправаджаць цябе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_111113">
+		<text>У мяне няма часу гэтым займацца.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_12">
+		<text>З ноўтбука лідара наймітаў на Затоне.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_actor_know_about_merc_13">
+		<text>З расказу дзядзькі Яра, сталкера са станцыі «Янаў».</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_0">
+		<text>Наконт наймітаў...</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_1">
+		<text>Выдатная праца! Абедзве мэты знішчаныя. Цяпер найміты нам не перашкодзяць, ды і людзей, зацікаўленых лабараторыяй, будзе менш. Вінтоўку пакінь сабе — і вось, трымай яшчэ набояў да яе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_2">
+		<text>Добра! Без лідара наймітаў яны больш не будуць сур’ёзнай перашкодай. Але людзі заказчыка сышлі і цяпер могуць наведацца ў лабараторыю, так што будзь напагатове. Вінтоўку пакінь сабе — і вось, трымай яшчэ набояў да яе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_3">
+		<text>Добра! Без чалавека, які ведаў, дзе знаходзіцца лабараторыя, найміты туды не сунуцца. Але з Прыпяці яны наўрад ці сыдуць і будуць нам увесь час муляць вочы, так што будзь напагатове... Вінтоўку пакінь сабе — і вось, трымай яшчэ набояў да яе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_4">
+		<text>Бачу, у апошні момант ты вырашыў змяніць мэту? Ну што ж, таксама нядрэннае рашэнне. Без лідара наймітаў яны больш не будуць сур’ёзнай перашкодай. Але людзі заказчыка сышлі і цяпер могуць наведацца ў лабараторыю, так што будзь напагатове. Вінтоўку пакінь сабе — і вось, трымай яшчэ набояў да яе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_5">
+		<text>Бачу, у апошні момант ты вырашыў змяніць мэту? Ну што ж, таксама нядрэннае рашэнне. Без чалавека, які ведаў, дзе знаходзіцца лабараторыя, найміты туды не сунуцца. Але з Прыпяці яны наўрад ці сыдуць і будуць нам увесь час муляць вочы. Так што будзь напагатове... Вінтоўку пакінь сабе, трымай яшчэ набояў да яе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_b35_reward_6">
+		<text>Так, кепска выходзіць! І лідар наймітаў, і чалавек заказчыка сышлі. Цяпер найміты ведаюць пра нас і не дадуць нам спакою — не горш за маналітаўцаў. А яшчэ яны цяпер даведаюцца, дзе лабараторыя. Цяпер толькі пытанне часу, калі яны туды завітаюць, так што будзь напагатове... Вінтоўку пакінь сабе — і вось, трымай яшчэ набояў да яе.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_0">
+		<text>Падымай сваіх байцоў, палкоўніку. Я гатовы.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_1">
+		<text>Добра. Прыкрывай Стралка, маёру. Пра сябе мы самі паклапоцімся.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_11">
+		<text>Значыць, справа такая... Што да Зоны, то тут самыя вопытныя — ты і Стралок. Толькі пра досвед Стралка я ведаю са слоў, а твой бачыў у справе. Таму я разлічваю на цябе, маёру. Прыгледзь за Стралком: нас засталося зусім мала.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_12">
+		<text>Атрад гатовы вырушыць. Чакаем цябе, маёру.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_after_scene_dialog_0">
+		<text>Здаецца, усіх гэтых прыдуркаў паклалі. Хапай ствол і драпаем адсюль, пакуль не пачалося!..</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_after_scene_dialog_1">
+		<text>Разумна.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_0">
+		<text>Я гатовы, рушайма.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_1">
+		<text>Добра. Атрад у зборы.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_11">
+		<text>Пагналі!</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_actor_ready_2">
+		<text>Давядзецца пачакаць. Не хочацца губляць хлопцаў падчас выкіду.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_0">
+		<text>Я капітан Тарасаў. Хоць ты і маёр, аперацыяй камандую я, і мае загады трэба выконваць дакладна. Ад гэтага залежыць жыццё кожнага байца ў атрадзе. Парадак такі: займаем заходні корпус шпіталя і чакаем з’яўлення «маналітаўцаў». Дзейнічаць трэба вельмі хутка, каб не прыцягнуць лішняй увагі.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_1">
+		<text>Зразумела, рушайма.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_11">
+		<text>Добра. Атрад у зборы.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_111">
+		<text>Пагналі!</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_12">
+		<text>Давядзецца пачакаць. Не хочацца губляць хлопцаў падчас выкіду.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_2">
+		<text>Пачакай, капітане. Я яшчэ не гатовы.</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_0">
+		<text>Што-небудзь чуваць пра перашкоды?</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_1">
+		<text>Выявіў мноства крыніц. Адна з іх недзе паблізу. Калі яе знішчыць, цалкам магчыма, з’явіцца сувязь з цэнтрам.</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_2">
+		<text>Я вызначыў каардынаты крыніцы перашкод. Здаецца, гэта нейкі асаблівы перадатчык: высокачастотны, а можа, мікрахвалевы.</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_rfi_source_3">
+		<text>Прылада, якую ты знішчыў, і была той самай крыніцай перашкод. Хутчэй за ўсё, такіх штуковін знойдзецца яшчэ не адна, але галоўнае — сувязь з камандаваннем ужо ёсць!</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_0">
+		<text>Раскажы, што там за сігнал?</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_1">
+		<text>То ёсць, то няма, але кожны раз аказваецца ўсё бліжэй да базы.</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_11">
+		<text>І гэта ўсё?</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_111">
+		<text>Не зусім. Сігнал ідзе на частотах, якія амаль не выкарыстоўваюць для радыёперамоў.</text>
+	</string>
+	<string id="pri_a22_army_signaller_about_signal_12">
+		<text>Зразумела.</text>
+	</string>
+	<string id="pri_a22_army_signaller_b35_about_merc_0">
+		<text>Трымай — ствол і набоі... Можаш пакуль адпачыць: я паназіраю за гэтым месцам з іншага боку. Як толькі яны з’явяцца, звяжуся.</text>
+	</string>
+	<string id="pri_a22_army_signaller_b35_about_merc_1">
+		<text>Зразумеў.</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_11">
+		<text>Здароўя жадаю! Лейтэнант Кірылаў. Сачу, каб зброя была спраўная, і адказваю за захоўванне боепрыпасаў.</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_111">
+		<text>І як у вас з набоямі?</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_1111">
+		<text>Пакуль нядрэнна: нядаўна разграмілі склад «Маналіту». Запасу боепрыпасаў там было няшмат, затое, здаецца, набоі былі ці не да кожнага віду агнястрэльнай зброі ў Зоне! Адкуль яны толькі ўсё гэта дасталі? Думаю, нехта з аховы перыметра падзарабляе на баку.</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_112">
+		<text>Значыць, зможаш паправіць маю зброю?</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_1121">
+		<text>Лёгка. Нас спецыяльна вучылі рамонту.</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_113">
+		<text>Зразумела.</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_12">
+		<text>Здароўя жадаю.</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_13">
+		<text>Чаму ж гэта галава так расколваецца?..</text>
+	</string>
+	<string id="pri_a22_army_signaller_start_dialog_14">
+		<text>Вось ён — момант ісціны! Цікава, выберамся ці не?..</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_0">
+		<text>Мне патрэбныя набоі.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_1">
+		<text>Ды гэта няцяжка... якія?</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_11">
+		<text>Набоі да пісталета. 9х18.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_111">
+		<text>Вось. Яшчэ што-небудзь?</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_112">
+		<text>Трымай.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_12">
+		<text>Набоі да пісталета. 9х19.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_13">
+		<text>Набоі да пісталета. 11,43х23.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_14">
+		<text>Набоі да драбавіцы.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_15">
+		<text>Набоі да аўтамата. 5,45х39.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_16">
+		<text>Набоі да аўтамата. 5,56х45.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_17">
+		<text>Набоі да аўтамата. 9х39.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_18">
+		<text>Набоі да снайперскай вінтоўкі.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_19">
+		<text>Набоі да кулямёта.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_2">
+		<text>Больш не магу выдаць, таварышу маёру. Палкоўнік загадаў — усё ў разумных межах...</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_ammo_20">
+		<text>Ладна, забудзь.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_0">
+		<text>Мне патрэбныя гранаты.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_1">
+		<text>Няма праблем! Якія?</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_11">
+		<text>Ручныя.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_111">
+		<text>Вось.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_12">
+		<text>Гранаты для падствольнага гранатамёта. ВОГ-25.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_13">
+		<text>Гранаты для падствольнага гранатамёта. M209.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_14">
+		<text>А зрэшты, не трэба. Забудзь.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_grenade_2">
+		<text>Больш не магу выдаць, таварышу маёру. Палкоўнік загадаў — усё ў разумных межах...</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_0">
+		<text>Мне патрэбная медыцынская дапамога.</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_1">
+		<text>Заўсёды рады дапамагчы. Давай паглядзім...</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_111">
+		<text>Вось і ўсё! Здаровы.</text>
+	</string>
+	<string id="pri_a25_army_medic_rescued_0">
+		<text>Як ты пачуваешся пасля ўсяго?..</text>
+	</string>
+	<string id="pri_a25_army_medic_rescued_1">
+		<text>Цяпер ужо ўсё нармальна. Пасля Дзіцячага садка быў лёгкі шок, але толькі пачаўся выкід — усё як рукой зняло...</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_12">
+		<text>Здароўя жадаю.</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_13">
+		<text>Галоўнае — дабрацца да верталётаў.</text>
+	</string>
+	<string id="pri_a25_army_medic_supply_medicine_0">
+		<text>Мне патрэбныя лекі.</text>
+	</string>
+	<string id="pri_a25_army_medic_supply_medicine_1">
+		<text>Зараз паглядзім, што ў мяне ёсць... Вось, бяры.</text>
+	</string>
+	<string id="pri_a25_army_medic_supply_medicine_2">
+		<text>Прабач, у нас іх няшмат. Больш выдаць не магу.</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_0">
+		<text>Мы адсочвалі твой радыёсігнал.</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_1">
+		<text>Так. Я звязваўся з адным сталкерам на мянушку Праваднік. Ён расказаў, як дабрацца да гэтага месца падземнымі тунэлямі.</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_11">
+		<text>Хто такі гэты Праваднік?</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_111">
+		<text>Легенда сярод сталкераў. Кажуць, ён можа правесці ў любое месца Зоны. Вашым вайскоўцам пашанцавала, што яны сустрэлі яго па дарозе ў Прыпяць, інакш доўга б не пратрымаліся.</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_12">
+		<text>Адкуль ты ведаў, што тут вайскоўцы?</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_121">
+		<text>Ад Правадніка. Гэта ён прывёў сюды Кавальскага з яго атрадам.</text>
+	</string>
+	<string id="pri_b305_strelok_about_base_13">
+		<text>Зразумела.</text>
+	</string>
+	<string id="pri_b305_strelok_about_information_0">
+		<text>Якую інфармацыю ты хочаш перадаць ураду?</text>
+	</string>
+	<string id="pri_b305_strelok_about_information_1">
+		<text>Шмат чаго. Я ўпэўнены: гэтую інфармацыю можна выкарыстаць, каб знішчыць Зону. Думаў, што сам змагу гэта зрабіць, але ўсё значна складаней. Тыя, хто заварыў гэтую чортаву кашу, ужо ні чорта не кантралявалі... Раскажу падрабязней, калі выберамся адсюль.</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_0">
+		<text>Што ты бачыў у Саркафагу?</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_1">
+		<text>Там усё — несапраўднае... «Маналіт» — Выканаўца Жаданняў — падман. Штучная ўстаноўка, якая затуманьвае розум. А тыя, хто за гэтым стаіць, хаваюцца ў іншым месцы.</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_11">
+		<text>Ты ведаеш, хто за гэтым стаіць?</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_111">
+		<text>З аднаго боку — так, з другога — не ўпэўнены... Я і сам ужо не ведаю, у што верыць! Але ўсё ж даведаўся больш, чым яны разлічвалі.</text>
+	</string>
+	<string id="pri_b305_strelok_about_station_12">
+		<text>Ладна, годзе пра гэта.</text>
+	</string>
+	<string id="pri_b305_strelok_dialog_11">
+		<text>Я раскажу ўсё, што ведаю. Галоўнае, каб інфармацыя трапіла ў патрэбныя рукі.</text>
+	</string>
+	<string id="pri_b305_strelok_note_0">
+		<text>Дарогай сюды я знайшоў схованкі твайго атрада.</text>
+	</string>
+	<string id="pri_b305_strelok_note_1">
+		<text>Цікава, як табе ўдалося іх знайсці?.. Дарэчы, там мусілі застацца запіскі... Ты знайшоў якія-небудзь?</text>
+	</string>
+	<string id="pri_b305_strelok_note_11">
+		<text>Так, вось. Тры.</text>
+	</string>
+	<string id="pri_b305_strelok_note_111">
+		<text>Дзякуй. Прывід і Ікол — мае сябры... былі. Мы разам здолелі прайсці праз Выпальвальнік і дабрацца да ЧАЭС. Пасля вяртання разышліся — я тады быў паранены і застаўся ў Доктара на балотах. З таго часу я іх не бачыў. Пазней даведаўся, што Ікла забілі найміты, а Прывід загінуў, бо даверыўся навукоўцам... Але гэта ўжо мінулае. Цяпер я ведаю, што рабіць. Іх смерці не будуць дарэмнымі.</text>
+	</string>
+	<string id="pri_b305_strelok_note_12">
+		<text>Так, вось тваё пасланне Прывіду.</text>
+	</string>
+	<string id="pri_b305_strelok_note_121">
+		<text>Дзякуй. Прывід і Ікол — мае сябры... былі. Мы разам здолелі прайсці праз Выпальвальнік і дабрацца да ЧАЭС. Пасля вяртання разышліся — я тады быў паранены і застаўся ў Доктара на балотах. З таго часу я іх не бачыў. Пазней даведаўся, што Ікла забілі найміты, а Прывід загінуў, бо даверыўся навукоўцам.</text>
+	</string>
+	<string id="pri_b305_strelok_note_13">
+		<text>Так, вось запіска ад Ікла — табе.</text>
+	</string>
+	<string id="pri_b305_strelok_note_131">
+		<text>Дзякуй. Ікол — мой сябар... быў. Разам з ім і Прывідам мы здолелі прайсці праз Выпальвальнік і дабрацца да ЧАЭС. Пасля вяртання разышліся — я тады быў паранены і застаўся ў Доктара на балотах. З таго часу я іх не бачыў. Пазней даведаўся, што Ікла забілі найміты, а Прывід загінуў, бо даверыўся навукоўцам.</text>
+	</string>
+	<string id="pri_b305_strelok_note_14">
+		<text>Так, вось тваё пасланне Іклу.</text>
+	</string>
+	<string id="pri_b305_strelok_note_141">
+		<text>Дзякуй. Ікол — мой сябар... быў. Разам з ім і Прывідам мы здолелі прайсці праз Выпальвальнік і дабрацца да ЧАЭС. Пасля вяртання разышліся — я тады быў паранены і застаўся ў Доктара на балотах. З таго часу я іх не бачыў. Пазней даведаўся, што Ікла забілі найміты, а Прывід загінуў, бо даверыўся навукоўцам.</text>
+	</string>
+	<string id="pri_b305_strelok_note_15">
+		<text>Так, вось запіскі: гэтая — твая Прывіду, а гэтая — ад Ікла табе.</text>
+	</string>
+	<string id="pri_b305_strelok_note_151">
+		<text>Дзякуй. Прывід і Ікол — мае сябры... былі. Мы разам здолелі прайсці праз Выпальвальнік і дабрацца да ЧАЭС. Пасля вяртання разышліся — я тады быў паранены і застаўся ў Доктара на балотах. З таго часу я іх не бачыў. Пазней даведаўся, што Ікла забілі найміты, а Прывід загінуў, бо даверыўся навукоўцам.</text>
+	</string>
+	<string id="pri_b305_strelok_note_16">
+		<text>Так, вось твае запіскі для Прывіда і Ікла.</text>
+	</string>
+	<string id="pri_b305_strelok_note_161">
+		<text>Дзякуй. Прывід і Ікол — мае сябры... былі. Мы разам здолелі прайсці праз Выпальвальнік і дабрацца да ЧАЭС. Пасля вяртання разышліся — я тады быў паранены і застаўся ў Доктара на балотах. З таго часу я іх не бачыў. Пазней даведаўся, што Ікла забілі найміты, а Прывід загінуў, бо даверыўся навукоўцам.</text>
+	</string>
+	<string id="pri_b305_strelok_note_17">
+		<text>Так, вось тваё пасланне Іклу і яго пасланне табе.</text>
+	</string>
+	<string id="pri_b305_strelok_note_171">
+		<text>Дзякуй. Ікол — мой сябар... быў. Разам з ім і Прывідам мы здолелі прайсці праз Выпальвальнік і дабрацца да ЧАЭС. Пасля вяртання разышліся — я тады быў паранены і застаўся ў Доктара на балотах. З таго часу я іх не бачыў. Пазней даведаўся, што Ікла забілі найміты, а Прывід загінуў, бо даверыўся навукоўцам.</text>
+	</string>
+	<string id="pri_b305_strelok_note_18">
+		<text>Так. Але цяпер іх у мяне няма.</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_2">
+		<text>Зараз паглядзім... Так, таварышу маёру, справа кепская! З такім здароўем табе хіба што ў касманаўты.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_21">
+		<text>Давай, маёру, не марудзь. «Маналітаўцы» чакаць не будуць!</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_start_0">
+		<text>Маёру, у нас вартавы адышоў ад паста, а потым знік. Сігнал маячка ідзе ад будынка Гастранома — не так далёка, але ён не адказвае на выклікі. Чорт яго ведае, што здарылася. Можа, псіхіка не вытрымала: пасля падзення верталёта хлопец моцна выбіўся з каляіны. Праверыш месца, адкуль ідзе сігнал?</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_start_1">
+		<text>Праверу.</text>
+	</string>
+	<string id="pri_a16_colonel_a21_about_sentry_start_2">
+		<text>Нічога не магу абяцаць.</text>
+	</string>
+	<string id="pri_a16_military_colonel_a20_find_recon_squd_dialog_0">
+		<text>Маёру, трэба знайсці выведвальную групу.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_1">
+		<text>Табе разам з групай захопу трэба накіравацца да аб’екта А17 — капітан Тарасаў пакажа, дзе ён. Там шпіталь, два корпусы, злучаныя пераходам. «Маналітаўцы» цяпер у заходнім корпусе, а вы ладзьце засаду ў супрацьлеглым. Зброя павінна быць пры іх — дакладней, у самага ненармальнага з іх.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_111">
+		<text>Мабыць, лідар атрада. Хлопцы бачылі, як ён чытае пропаведзі сваім байцам. Шчыра, у прамым сэнсе слова!.. Будзь асцярожны: чорт яго ведае, чаго ад такога чакаць.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_dialog_1_12">
+		<text>Зразумеў, палкоўніку.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_0">
+		<text>Здароўя жадаю. Я — палкоўнік Кавальскі. Камандую гэтым падраздзяленнем.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_1">
+		<text>Маёр Дзегцяроў, СБУ. Маю паўнамоцтвы расследаваць правал аперацыі «Фарватар».</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_11">
+		<text>Ясна. Тады слухай, што скажу, маёру. Без фармальнасцяў... «Фарватар» праваліўся з трэскам — ды яшчэ як! Разам з верталётамі загінула больш за палову маіх хлопцаў. Сувязі з Цэнтрам дагэтуль няма. Вось так... Верыш, я і сам вельмі хацеў бы ведаць, чаму ўсё правалілася!</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_111">
+		<text>Ёсць здагадкі?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_1111">
+		<text>Адзіная версія — нас, чорт вазьмі, збілі. Прычым нейкай невядомай зброяй з шалёнай прабіўной здольнасцю. «Маналітаўцы» ўжывалі такую супраць нас падчас першага штурму ЧАЭС... Карацей, я вырашыў захапіць узор гэтай штуковіны і вывучыць яе як след. Дарэчы, калі захочаш далучыцца: мае хлопцы высачылі атрад «Маналіту» з гэтай штуковінай пры сабе. Група захопу якраз чакае сігналу да пачатку аперацыі. Ну што, зацікавіў я цябе?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_11111">
+		<text>Так. Але з адной умовай: мне патрэбная ўся здабытая інфармацыя, а дзейнічаць я працягну самастойна.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_0">
+		<text>Я здабыў звесткі пра невядомую зброю. Гэта была гаўс-гармата.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_1">
+		<text>Ого... вось гэта ты даеш!.. Якая ў яе магутнасць? Няўжо яна і праўда дазваляе збіць верталёт?</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_11">
+		<text>У прынцыпе, так. Але звышразагнаныя кулі тэарэтычна мусілі пакінуць скразныя адтуліны. А на верталётах іх не было.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_111">
+		<text>Тваю ж маць... тупік! У мяне больш няма ніякіх здагадак, маёру. Застаецца сядзець на задніцы пасярод Зоны і чакаць — а раптам пра нас успомняць і прыляцяць?.. Усё, хопіць лірыкі. Будзем займацца бягучымі справамі. Цяпер хоць ведаем, што за ўкрыццямі лепей не адседжвацца: праб’е навылёт і не заўважыць. Так што дзякуй табе, маёру. Калі з’явіцца нешта новае, я абавязкова з табой звяжуся.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_a23_about_gauss_labx8_12">
+		<text>У прынцыпе, так. Але ў «Ската-4» і «Ската-5» цалкам адмовіла электроніка. Куля, хай нават звышразагнаная, на такое не здольная.</text>
+	</string>
+	<string id="pri_a17_got_gauss_0">
+		<text>Як там прасоўваецца аперацыя?</text>
+	</string>
+	<string id="pri_a17_got_gauss_1">
+		<text>Сяржант Марозаў загінуў. «Маналітаўцы» ахвяравалі сваімі байцамі і заманілі нас у пастку.</text>
+	</string>
+	<string id="pri_a17_got_gauss_11">
+		<text>Сволачы, каб іх!.. Але ж яны не маглі ведаць пра план захопу?.. Ладна, снайпера мы страцілі. Што з мэтай аперацыі?</text>
+	</string>
+	<string id="pri_a17_got_gauss_2">
+		<text>Ёсць страты. «Маналітаўцы» ахвяравалі сваімі байцамі і заманілі нас у пастку.</text>
+	</string>
+	<string id="pri_a17_got_gauss_21">
+		<text>С-сукі, ну яны ж не маглі ведаць пра план захопу?! Байцоў губляем... Што з мэтай аперацыі?</text>
+	</string>
+	<string id="pri_a17_got_gauss_3">
+		<text>Атрад загінуў. «Маналітаўцы» ахвяравалі сваімі байцамі і заманілі нас у пасткі.</text>
+	</string>
+	<string id="pri_a17_got_gauss_31">
+		<text>С-сукі, ну яны ж не маглі ведаць пра план захопу?! Усё, Тарасава з яго байцамі больш няма... Што з мэтай аперацыі?</text>
+	</string>
+	<string id="pri_a17_got_gauss_4">
+		<text>Я здабыў зброю. Адно кепска: падчас захопу яе пашкодзілі.</text>
+	</string>
+	<string id="pri_a17_got_gauss_41">
+		<text>Іншымі словамі, цяпер хрэн зразумееш, ці гэтай зброяй збілі верталёты, ці не? Ясна... Слухай, маёру, у цябе, здаецца, ёсць сувязі са сталкерамі. Можа, яны мелі справу з такімі штукамі? У іх жа ёсць тэхнікі — паспрабуй з імі пагаварыць.</text>
+	</string>
+	<string id="pri_a17_got_gauss_411">
+		<text>Ладна.</text>
+	</string>
+	<string id="pri_a17_got_gauss_4111">
+		<text>Добра... Так, дарэчы: прыйшоў яшчэ адзін сталкер з боку «Юпітэра». Калі хочаш, пагавары з ім.</text>
+	</string>
+	<string id="pri_a17_got_gauss_5">
+		<text>Пакуль займаюся гэтым.</text>
+	</string>
+	<string id="pri_a17_got_gauss_51">
+		<text>Ясна. Маёру, гэтую зброю трэба захапіць. Не для сябе прашу: ты ж сам разумееш, наколькі ўсё сур’ёзна.</text>
+	</string>
+	<string id="pri_a17_got_gauss_511">
+		<text>Так.</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_note_0">
+		<text>Я знайшоў тваю запіску на ЗРК «Волхаў». Трымай.</text>
+	</string>
+	<string id="pri_a15_sokolov_evacuation_note_1">
+		<text>Слухай... А, ладна. Думаю, усё адно ўжо ніхто з нашых на пункце не з’явіцца. Знаеш, калі раптам заўважыш дзе паблізу вайскоўцаў, скажы мне, добра? Загадзя дзякуй.</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_0">
+		<text>Маёру, слава Богу! Выратаваны...</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_1">
+		<text>Як ты тут апынуўся?</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_11">
+		<text>Ох... Мала што памятаю, праўда. Страшна было — ажно ўсяго калаціла... а чаму — хрэн яго ведае, не памятаю! Адчуваў: трэба хавацца, бо інакш канец, вось і пабег... Нейкія вуліцы, павароты... Ачуняў толькі тут. Дзверы замкнёныя, знутры не адчыніць... думаў — тут і здохну. Як ты мяне знайшоў? А, няважна! Давай драпаць адсюль куды-небудзь... лепш бліжэй да базы. А то мяне дагэтуль усяго калоціць.</text>
+	</string>
+	<string id="pri_a25_army_medic_freezer_111">
+		<text>Пойдзем.</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_11">
+		<text>Здароўя жадаю. Медыцынская дапамога патрэбная? Я не лекар, але кулю выцягнуць ці рану зашыць — без праблем, вопыту ў мяне багата.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_0">
+		<text>Мне патрэбна інфармацыя.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1">
+		<text>Пытай.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11">
+		<text>Пра аперацыю «Фарватар».</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111">
+		<text>Так?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1111">
+		<text>Ці здарылася нешта незвычайнае падчас палёту?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11111">
+		<text>Пакуль верталёты не пачалі падаць — не. Усё ішло строга паводле плана: падняліся ў паветра за паўтары хвіліны да выкіду, пасля ўзлёту ўключылі абарону. Аўтапілот працаваў нармальна, ляцелі найкарацейшым з бяспечных маршрутаў, пазначаных на мапе. Дрэнная бачнасць не магла перашкодзіць: калідор быў прасторны, і па вышыні запасу хапала. Паводле плана, да станцыі павінны былі дабрацца за дванаццаць з паловай хвілін... А на дзевятай хвіліне знікла сувязь са «Скатам-4», а потым пасыпаліся і астатнія.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111111">
+		<text>Яшчэ некалькі пытанняў...</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112">
+		<text>Што вядома пра лёс верталётаў?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121">
+		<text>Трохі. Пра «Скат-2» і «Скат-4» увогуле няма звестак: ні пра месцы падзення, ні пра экіпаж. Пра астатнія верталёты ведаю ад тых, хто выжыў, а іх мала, таму на поўную карціну не разлічвай. Не да таго было.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111211">
+		<text>Раскажы пра «Скат-1».</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121111">
+		<text>Як вы сюды дабраліся?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111211111">
+		<text>Непадалёк ад міннага поля натрапілі на сталкера. Думаю, пачуў выбух міны і прыйшоў на яго гук. Дзіўны тып. Назваўся Правадніком і адразу прапанаваў правесці нас у Прыпяць. Гэта адпавядала планам, таму я пагадзіўся. На ўсялякі выпадак трымалі яго на мушцы, але ён не выкідваў ніякіх фокусаў і ўвогуле маўчаў да самага горада. На ўскрайку горада ён проста разгарнуўся і пайшоў. Загада пераследаваць яго я не даваў.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111212">
+		<text>Раскажы пра «Скат-3».</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112121">
+		<text>Капітан Тарасаў кажа, што адмовілі абодва рухавікі. Верталёт давялося пасадзіць на ўзвышшы ў раёне пункта Б2. Ім пашанцавала — прызямліліся мякка. Але тэхнік, лейтэнант Кірылаў, не паспеў вызначыць прычыну паломкі. На атрад напалі сноркі, трое байцоў загінулі. Астатнія вырашылі не затрымлівацца: звязаліся з экіпажам «Ската-5» і рушылі далей. Па дарозе ўляпаліся ў сутычку з добра ўзброеным атрадам, але абышлося без страт.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121211">
+		<text>Як яны дабраліся да Прыпяці?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111212111">
+		<text>Хлопцы са «Ската-3» і «Ската-5» аб’ядналіся непадалёк ад месцаў падзення, каля нейкай баржы. Са слоў хлопцаў, там жыве нейкі вар’ят. Байцы спрабавалі яго затрымаць, а ён адказаў, што сам іх арыштуе. Адзін супраць адзінаццаці, ага. Потым з гэтым вар’ятам усё ж удалося дамовіцца, і ён прывёў атрад у горад. Па дарозе пацярпеў толькі адзін лейтэнант, Сцяцэнка: сам, па дурасці, зачапіў гравітацыйную анамалію, дык два пальцы на назе — таго...</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111213">
+		<text>Раскажы пра «Скат-5».</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112131">
+		<text>Уся электроніка адмовіла, таму ён і ўпаў у балота. Выжыла пяцёра. Пакуль выцягвалі з верталёта рыштунак, на сувязь выйшаў экіпаж «Ската-3». Па дарозе да пункта каля станцыі зандавання сустрэлі крывасмока... Загінуў камандзір атрада — маёр Неборскі, зямля яму пухам, добры афіцэр быў. Астатнія дабраліся. Ужо тут, у Прыпяці, страцілі старшага сяржанта ў сутычцы з «Маналітам». Прозвішча — Бацяй, снайпер.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11121311">
+		<text>Як яны дабраліся да Прыпяці?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_111213111">
+		<text>Хлопцы са «Ската-3» і «Ската-5» аб’ядналіся непадалёк ад месцаў падзення, каля нейкай баржы. Са слоў хлопцаў, там жыве нейкі вар’ят. Байцы спрабавалі яго затрымаць, а ён адказаў, што сам іх арыштуе. Адзін супраць адзінаццаці, ага. Потым з гэтым вар’ятам усё ж удалося дамовіцца, і ён прывёў атрад у горад. Па дарозе пацярпеў толькі адзін лейтэнант, Сцяцэнка: сам, па дурасці, зачапіў гравітацыйную анамалію, дык два пальцы на назе — таго...</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11122">
+		<text>Трохі. Пра «Скат-2» увогуле нічога: ні месца падзення, ні звестак пра экіпаж. Пра «Скат-4» ты мусіш ведаць лепш за мяне: з табой прыйшоў Сакалоў, а акрамя гэтага лейтэнанта з экіпажа і дэсанту ніхто не выжыў. Пра астатнія верталёты ведаю ад тых, хто выжыў, а іх мала. Не спадзявайся на поўную карціну. Не да таго было, выбачай.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_11123">
+		<text>Трохі. Пра «Скат-2» увогуле нічога: ні месца падзення, ні звестак пра экіпаж. Пра «Скат-4» ты мусіш ведаць лепш за мяне: з табой прыйшоў Сакалоў, а акрамя гэтага лейтэнанта з экіпажа і дэсанту ніхто не выжыў. Пра астатнія верталёты ведаю ад тых, хто выжыў, а іх мала. Не спадзявайся на поўную карціну. Не да таго было, выбачай.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1113">
+		<text>Мне патрэбна іншая інфармацыя.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1114">
+		<text>Больш пытанняў няма.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12">
+		<text>Якая сітуацыя ў Прыпяці?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_121">
+		<text>Хрэнавая — гэта яшчэ мякка сказана! Прыпяць кішыць «маналітаўцамі», уперамешку з зомбаванымі. Выкіды, каб іх чорт пабраў, замест дожджыку! А тут яшчэ ўсялякая халера: мутанты, анамаліі... Вось так і жывём.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1211">
+		<text>Што ў вас з рыштункам і запасамі?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_13">
+		<text>Раскажы пра «Маналіт».</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_131">
+		<text>Фанатыкі, самыя сапраўдныя. У што б яны ні верылі, усё адно ўвесь час лезуць у бой. А адступаць зусім не ўмеюць, нават перад пераважнымі сіламі... Гэта калі раптам нам удаецца заціснуць пяцёрку «маналітаўцаў», бо звычайна яны нас прыціскаюць. Да іх з боку ЧАЭС пастаянна ідуць падмацаванні, разумееш?! Чортавы гаўнюкі... Нас і без таго было няшмат, а яны яшчэ некалькіх нашых хлопцаў паклалі.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1311">
+		<text>Ці спрабавалі іх дапытваць?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_13111">
+		<text>Дарэмна: захапіць іх не ўдаецца, б’юцца да апошняга, зубамі нас грызуць. Аднаго цудам удалося захапіць — аглушыла граната, але з допыту ні чорта не выйшла. Не ўгледзелі: ледзь «маналітавец» апрытомнеў, адразу разагнаўся ды мазгі аб сцяну размазаў.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_14">
+		<text>Што збіраецеся рабіць далей?</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_141">
+		<text>Лічу далейшае правядзенне аперацыі «Фарватар» немагчымым. Відаць, наверсе таксама так лічаць, раз ты тут. Таму трымаю базу да прыбыцця верталётаў, а там... У плане аперацыі пазначана некалькі запасных дат эвакуацыі.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1411">
+		<text>Пакуль не высветліцца прычына падзення «Скатаў», верталётаў не будзе. Увогуле.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_14111">
+		<text>Вось так, значыць... Слухай, маёру, самі сваім ходам з Зоны мы не выберамся. Тут па дарозе — хрэн ведае колькі ўсялякіх «прыемнасцяў», ды яшчэ сталкеры, якім мы як костка ў горле. Трэба думаць, як выжыць і здабыць інфармацыю... Падобна, маёру, цяпер нашы мэты супадаюць як ніколі.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_15">
+		<text>Не зараз.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_start_0">
+		<text>Слухаю, маёру.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12111">
+		<text>З рыштункам так: што на сваім горбу прыцягнулі, тое і маем. Частку ўдалося адбіць у «Маналіту» — пераважна боепрыпасы. Жывём у рэжыме найстражэйшай эканоміі. З харчаваннем тое самае: ёсць трохі сухіх пайкоў, НЗ і сякі-такі харч са склада «Маналіту».</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_12112">
+		<text>З рыштункам так: што на сваім горбу прыцягнулі, тое і маем. Частку ўдалося адбіць у «Маналіту» — пераважна боепрыпасы. Жывём у рэжыме найстражэйшай эканоміі. З харчаваннем тое самае, але я дамовіўся з адным сталкерам, завуць яго Гарык, і ён патроху цягае нам кансервы. За гэта часам дазваляем яму пераначаваць на базе і свабодна шукаць артэфакты... Усім жа жыць хочацца.</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_soldiers_start_11">
+		<text>Ух... адпомсцілі за хлопцаў. Рабі, што табе трэба, ды нам ужо пара на базу. Тут мне неяк не па сабе.</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_soldiers_start_12">
+		<text>Давай тут не затрымлівацца, га? Трэба б вяртацца да сваіх, на базу...</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_soldiers_start_111">
+		<text>Угу.</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_vano_start_11">
+		<text>Вунь там нейкая дзіўнаватая штука стаіць, згодны? І на халеру яна ім патрэбная?.. А, ды ўсё адно. Давай, дружа, працуй. Як тут усё скончыш — пойдзем на базу.</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_vano_start_12">
+		<text>Ну што, ты ўжо ўсё тут?.. Я б зараз рвануў на базу: жэрці хочацца, трываць няма сілы!</text>
+	</string>
+	<string id="pri_a18_altar_destroyed_vano_start_111">
+		<text>Угу.</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_how_are_you_0">
+		<text>Як твае справы?</text>
+	</string>
+	<string id="pri_a15_sokolov_pripyat_how_are_you_1">
+		<text>Хрэнавата. Не, вядома, добра быць са сваімі... толькі выходзіць, што цяпер мы ўсе гуртам у адной вялікай дупе.</text>
+	</string>
+	<string id="pri_a15_sokolov_acquaintance_after_jorney_0">
+		<text>Я цябе тут раней не бачыў. Ты нядаўна прыйшоў?</text>
+	</string>
+	<string id="pri_a15_sokolov_acquaintance_after_jorney_1">
+		<text>Так. Я лейтэнант Сакалоў, другі пілот «Ската-4».</text>
+	</string>
+	<string id="pri_a15_sokolov_about_journey_0">
+		<text>Як ты сюды дабраўся?</text>
+	</string>
+	<string id="pri_a15_sokolov_about_journey_1">
+		<text>Прыйшоў са сталкерам, завуць яго Гарык. Ён узяў мяне з сабой, калі пайшоў шукаць шлях у Прыпяць. Яшчэ тая прагулка, скажу табе... Добра, што ў Прыпяці мы амаль адразу натрапілі на нашу выведвальную групу.</text>
+	</string>
+	<string id="pri_a15_sokolov_helicopter_0">
+		<text>Што здарылася са «Скатам-4»?</text>
+	</string>
+	<string id="pri_a15_sokolov_helicopter_1">
+		<text>Не ведаю... Чорт, я і праўда не ведаю! А перад вылетам жа нешта прадчувалася!.. Карацей, ляцелі на аўтапілоце, па прыборах усё было ў парадку, а потым — раз! — і мы ўжо ляцім уніз на кавалку мёртвага жалеза. Ні халеры не працуе, хоць бы адна лямпачка на прыборнай панэлі загарэлася! Мы з першым пілотам спрабавалі дацягнуць да роўнай пляцоўкі — не выйшла. Урэзаліся ў дах галоўнага цэха завода «Юпітэр», праламалі яго... Карацей, выбраўся толькі я.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_outfit_0">
+		<text>Мне патрэбная бронекамізэлька.</text>
+	</string>
+	<string id="pri_a22_army_signaller_supply_outfit_1">
+		<text>Ага. Спачатку трымай каску... так, вось і бронекамізэлька. Спадзяюся, памер твой? А то хоць як прасі — іншай няма. Я яе падлатаў — калі што, кулю павінна вытрымаць.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_task_dialog_111111">
+		<text>Вядома, маёру. У гэтай сітуацыі ў мяне няма выбару... Дарэчы, зайдзі да лейтэнанта Кірылава, няхай выдасць табе рыштунак.</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_9">
+		<text>Пра верталёты...</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_91">
+		<text>Слухаю.</text>
+	</string>
+	<string id="pri_a25_army_medic_start_dialog_14">
+		<text>Ну і лупіць! Усё, Кірылаў зноў будзе выпрошваць анальгін.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_21">
+		<text>Найгоршае — чаканне. Усю душу выматвае, чорт пабяры...</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_1111">
+		<text>Ладна, маёру, хлопцы ўжо сабраліся. Калі трэба, папоўні запасы ў Рагаўца і Кірылава. Як будзеш гатовы — паведамі.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_11111">
+		<text>Дамовіліся.</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_ready_11">
+		<text>Рушылі.</text>
+	</string>
+	<string id="pri_a15_sokolov_need_outfit_1">
+		<text>Тады патрэбны надзейны касцюм, як у навукоўцаў. Праўда, угаварыць Германа даць мне касцюм будзе няпроста. Здаецца, ён увогуле лічыць, што я мусіў перціся пешшу да межаў Зоны, а не займаць месца ў іхнім бункеры... Можа, спытаеш у Азёрскага? Ён... мякчэйшы, ці што. Магчыма, і пагодзіцца выдаць мне касцюм.</text>
+	</string>
+	<string id="pri_a17_military_recon_squad_ambush_dialog_second_0">
+		<text>Ну што, маёру?</text>
+	</string>
+	<string id="pri_a17_military_colonel_kovalski_evacuation_start_111">
+		<text>[далей...]</text>
+	</string>
+	<string id="pri_a25_army_medic_need_health_care_11">
+		<text>[далей...]</text>
+	</string>
+	<string id="pri_a17_military_base_commander_actor_questions_dialog_1112111">
+		<text>Я быў на ім. Калі знікла сувязь са «Скатам-4», я паведаміў астатнім, што месца эвакуацыі — у Прыпяці. Думаў, усё ж даляцім да станцыі. Амаль адразу вертушку скаланула, запахла гарэлым — загарэўся рухавік. Пілоты здолелі дацягнуць да верталётных пляцовак каля завода «Юпітэр», але абодва загінулі пры пасадцы. Потым страцілі сяржанта Шлячына — высветлілася, што падступы да пляцовак замінаваныя... А ўжо ў Прыпяці загінуў яшчэ адзін, старшы лейтэнант: палёг у баі з «Маналітам» за вось гэты будынак.</text>
+	</string>
+</string_table>

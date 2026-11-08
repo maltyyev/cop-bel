@@ -1,0 +1,345 @@
+<?xml version='1.0' encoding='windows-1251'?>
+<string_table>
+	<string id="pri_a17_get_gauss_rifle_documentation_name">
+		<text>«Выраб №62»: знайсці дакументацыю ў выпрабавальным цэху</text>
+	</string>
+	<string id="pri_a17_get_gauss_rifle_documentation_text">
+		<text>Трэба знайсці дакументацыю пра «выраб №62». Яна павінна праясніць, ці магла гэтая зброя стаць прычынай падзення верталётаў.</text>
+	</string>
+	<string id="pri_a17_get_in_cover_name">
+		<text>Невядомая зброя: укрыцца ў будынку</text>
+	</string>
+	<string id="pri_a17_get_in_cover_text">
+		<text>Трэба ўкрыцца ў будынку і адбіць напад маналітаўцаў.</text>
+	</string>
+	<string id="pri_a17_get_info_name">
+		<text>Невядомая зброя: атрымаць звесткі</text>
+	</string>
+	<string id="pri_a17_get_info_text">
+		<text>Зброя няспраўная, а прынцып яе дзеяння невядомы. Трэба знайсці тэхніка, які мог бы разабрацца ў гэтым дзіўным узоры.</text>
+	</string>
+	<string id="pri_a17_kill_preacher_name">
+		<text>Невядомая зброя: забіць важака «Маналіту»</text>
+	</string>
+	<string id="pri_a17_kill_preacher_text">
+		<text>Трэба забіць важака «Маналіту», узброенага невядомай зброяй.</text>
+	</string>
+	<string id="pri_a17_maraud_name">
+		<text>Невядомая зброя: абшукаць целы маналітаўцаў</text>
+	</string>
+	<string id="pri_a17_maraud_text">
+		<text>Маналітаўцы павінны былі мець пры сабе невядомую зброю. Трэба знайсці яе.</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_get_info_name">
+		<text>Невядомая зброя: пагаварыць з Карданам</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_get_info_text">
+		<text>Кардан, мабыць, ужо працверазеў. Пара пагаварыць з ім пра невядомую зброю.</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_show_name">
+		<text>Невядомая зброя: пачакаць, пакуль Кардан працверазее</text>
+	</string>
+	<string id="pri_a17_stalker_tech_produce_62_show_text">
+		<text>Здаецца, Кардан нешта ведае пра гэтую зброю. Трэба будзе пагаварыць з ім, калі ён працверазее.</text>
+	</string>
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_name">
+		<text>Гаўс-гармата: расказаць Кавальскаму пра зброю</text>
+	</string>
+	<string id="pri_a17_talk_with_kovalski_about_gauss_rifle_information_text">
+		<text>Трэба выкласці палкоўніку Кавальскаму ўсе звесткі, якія ўдалося атрымаць пра «выраб №62».</text>
+	</string>
+	<string id="pri_a17_task_find_gauss_rifle_name">
+		<text>Невядомая зброя: далучыцца да атрада</text>
+	</string>
+	<string id="pri_a17_task_find_gauss_rifle_text">
+		<text>Трэба далучыцца да спецыяльнага атрада, каб разам удзельнічаць у аперацыі па захопе зброі.</text>
+	</string>
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_name">
+		<text>Невядомая зброя: падабраць зброю</text>
+	</string>
+	<string id="pri_a17_task_get_gauss_rifle_from_preacher_text">
+		<text>Трэба падабраць зброю важака «Маналіту».</text>
+	</string>
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_name">
+		<text>Невядомая зброя: аднесці зброю Кавальскаму</text>
+	</string>
+	<string id="pri_a17_task_give_gauss_rifle_to_kovalski_text">
+		<text>Зброя ў вас. Трэба паказаць яе Кавальскаму і высветліць, ці не яна стала прычынай падзення верталётаў.</text>
+	</string>
+	<string id="pri_a17_watch_recons_six_name">
+		<text>Невядомая зброя: удзельнічаць у засадзе супраць атрада «Маналіту»</text>
+	</string>
+	<string id="pri_a17_watch_recons_six_text">
+		<text>Выведвальная група вайскоўцаў арганізуе засаду супраць атрада «Маналіту». Трэба ўдзельнічаць у аперацыі.</text>
+	</string>
+	<string id="pri_a18_get_reinforcement_name">
+		<text>Скупчэнне «Маналіту»: сустрэцца з падмацаваннем</text>
+	</string>
+	<string id="pri_a18_get_reinforcement_text">
+		<text>Кавальскі выслаў падмацаванне, каб дапамагчы знішчыць групу маналітаўцаў, якая засела ў краме «Кнігі».</text>
+	</string>
+	<string id="pri_a18_go_post_name">
+		<text>Скупчэнне «Маналіту»: зачысціць краму «Кнігі»</text>
+	</string>
+	<string id="pri_a18_go_post_text">
+		<text>Трэба знішчыць усіх маналітаўцаў, якія заселі ў будынку. Іхнія скупчэнні пагражаюць лагеру вайскоўцаў.</text>
+	</string>
+	<string id="pri_a18_use_idol_name">
+		<text>Скупчэнне «Маналіту»: даследаваць дзіўную канструкцыю</text>
+	</string>
+	<string id="pri_a18_use_idol_text">
+		<text>Унутры будынка, дзе былі маналітаўцы, знайшлі дзіўную канструкцыю. Трэба яе вывучыць.</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_name">
+		<text>Лабараторыя Х8: знайсці дакументы пра эксперыменты</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_text">
+		<text>Знойдзеныя звесткі паказваюць на цэнтральную лабараторыю пад індэксам Х8. Там могуць быць звесткі пра таемныя эксперыменты, якія праводзіліся на тэрыторыі Зоны.</text>
+	</string>
+	<string id="pri_a20_check_recon_squad_task_name">
+		<text>Зніклая выведвальная група: адшукаць атрад</text>
+	</string>
+	<string id="pri_a20_check_recon_squad_task_text">
+		<text>Выведвальная група, якую выслаў Кавальскі, знікла пасля дзіўнага сеансу сувязі. Трэба знайсці яе і высветліць, што здарылася.</text>
+	</string>
+	<string id="pri_a21_chasovoi_body_search_name">
+		<text>Зніклы вартавы: агледзець месца гібелі вартавога</text>
+	</string>
+	<string id="pri_a21_chasovoi_body_search_text">
+		<text>Вартавы паводзіў сябе вельмі дзіўна. Трэба азірнуцца навокал і высветліць, чаму ён так сябе паводзіў.</text>
+	</string>
+	<string id="pri_a21_find_chasovoi_name">
+		<text>Зніклы вартавы: знайсці вартавога</text>
+	</string>
+	<string id="pri_a21_find_chasovoi_text">
+		<text>Адзін з вайскоўцаў знік са свайго паста. Трэба знайсці яго і высветліць прычыну знікнення.</text>
+	</string>
+	<string id="pri_a21_kill_kontroler_name">
+		<text>Зніклы вартавы: забіць кантралёра</text>
+	</string>
+	<string id="pri_a21_kill_kontroler_text">
+		<text>Побач са зніклым вартовым знаходзіўся кантралёр. Трэба знішчыць небяспечнага мутанта.</text>
+	</string>
+	<string id="pri_a22_find_dead_squad_name">
+		<text>Радыёперашкоды: знайсці зніклы атрад</text>
+	</string>
+	<string id="pri_a22_find_dead_squad_text">
+		<text>Атрад, які выправіўся шукаць крыніцу радыёперашкод, знік. Трэба знайсці яго.</text>
+	</string>
+	<string id="pri_a22_search_bodys_name">
+		<text>Радыёперашкоды: абшукаць целы загінулых байцоў</text>
+	</string>
+	<string id="pri_a22_search_bodys_text">
+		<text>Трэба агледзець целы. Магчыма, гэта дапаможа высветліць прычыну гібелі людзей.</text>
+	</string>
+	<string id="pri_a22_search_yarmoshuk_body_name">
+		<text>Радыёперашкоды: абшукаць цела загінулага байца</text>
+	</string>
+	<string id="pri_a22_search_yarmoshuk_body_text">
+		<text>Трэба агледзець цела. Магчыма, гэта дапаможа высветліць прычыну гібелі чалавека.</text>
+	</string>
+	<string id="pri_a25_blow_up_door_name">
+		<text>Радыёперашкоды: узарваць дзверы</text>
+	</string>
+	<string id="pri_a25_blow_up_door_text">
+		<text>Каб пранікнуць у будынак, трэба расчысціць праход з дапамогай выбухоўкі.</text>
+	</string>
+	<string id="pri_a25_check_freezer_knock_name">
+		<text>Радыёперашкоды: праверыць крыніцу гуку</text>
+	</string>
+	<string id="pri_a25_check_freezer_knock_text">
+		<text>З халадзільніка чутны стук: здаецца, унутры нехта замкнуты. Трэба праверыць крыніцу гуку.</text>
+	</string>
+	<string id="pri_a25_destroy_antenna_name">
+		<text>Радыёперашкоды: знішчыць крыніцу перашкод</text>
+	</string>
+	<string id="pri_a25_destroy_antenna_text">
+		<text>Крыніцу радыёперашкод выявілі. Цяпер трэба яе знішчыць.</text>
+	</string>
+	<string id="pri_a25_find_antenna_name">
+		<text>Радыёперашкоды: знайсці крыніцу перашкод</text>
+	</string>
+	<string id="pri_a25_find_antenna_text">
+		<text>Недзе ў будынку ёсць крыніца радыёперашкод. Трэба знайсці яе.</text>
+	</string>
+	<string id="pri_a25_find_explosive_name">
+		<text>Радыёперашкоды: знайсці выбухоўку</text>
+	</string>
+	<string id="pri_a25_find_explosive_text">
+		<text>У атрада, які шукаў крыніцу перашкод, была выбухоўка. Трэба знайсці яе, каб расчысціць уваход у будынак.</text>
+	</string>
+	<string id="pri_a25_remove_source_of_hindrances_name">
+		<text>Радыёперашкоды: пранікнуць у будынак дзіцячага садка</text>
+	</string>
+	<string id="pri_a25_remove_source_of_hindrances_text">
+		<text>Крыніца сігналу недзе ў будынку дзіцячага садка. Трэба туды пранікнуць.</text>
+	</string>
+	<string id="pri_a28_cover_militarys_name">
+		<text>Эвакуацыя: прыкрываць вайскоўцаў</text>
+	</string>
+	<string id="pri_a28_cover_militarys_text">
+		<text>Нягледзячы на тое, што Стралок загінуў, трэба дапамагчы вайскоўцам дабрацца да верталётаў.</text>
+	</string>
+	<string id="pri_a28_cover_strelok_name">
+		<text>Эвакуацыя: прыкрываць Стралка</text>
+	</string>
+	<string id="pri_a28_cover_strelok_text">
+		<text>Камандаванне зацікаўлена ў звестках, вядомых Стралку. Трэба даставіць Стралка да верталётаў.</text>
+	</string>
+	<string id="pri_a28_go_hellis_name">
+		<text>Эвакуацыя: дабрацца да верталётаў</text>
+	</string>
+	<string id="pri_a28_go_hellis_text">
+		<text>Уся каманда загінула. Трэба самаму дабрацца да верталётаў.</text>
+	</string>
+	<string id="pri_a28_talk_with_kovalski_name">
+		<text>Эвакуацыя: пагаварыць з Кавальскім</text>
+	</string>
+	<string id="pri_a28_talk_with_kovalski_text">
+		<text>Перад пачаткам эвакуацыі трэба пагаварыць з Кавальскім.</text>
+	</string>
+	<string id="pri_a28_tell_kovalski_when_ready_name">
+		<text>Эвакуацыя: паведаміць Кавальскаму пра сваю гатоўнасць</text>
+	</string>
+	<string id="pri_a28_tell_kovalski_when_ready_text">
+		<text>Трэба паведаміць Кавальскаму пра сваю гатоўнасць да эвакуацыі.</text>
+	</string>
+	<string id="pri_a28_wait_surge_end_name">
+		<text>Эвакуацыя: перачакаць выкід</text>
+	</string>
+	<string id="pri_a28_wait_surge_end_text">
+		<text>Трэба дачакацца заканчэння выкіду.</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_1_name">
+		<text>Невядомы: праверыць крыніцу сігналу</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_1_text">
+		<text>Кірылаў выявіў дзіўны сігнал непадалёк ад базы. Трэба праверыць яго крыніцу.</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_2_name">
+		<text>Невядомы: ісці за сігналам</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_2_text">
+		<text>Каардынаты сігналу зноў даступныя. Трэба ісці за ім.</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_3_name">
+		<text>Невядомы: абследаваць месца апошняга з'яўлення сігналу</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_3_text">
+		<text>Сігнал знік у двары будынка. Трэба абследаваць месца, дзе ён з'явіўся апошні раз.</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_4_name">
+		<text>Невядомы: падрыхтавацца да атакі на базу</text>
+	</string>
+	<string id="pri_b305_check_unknown_signal_4_text">
+		<text>Вярнуцца на вайсковую базу і падрыхтавацца да магчымай атакі.</text>
+	</string>
+	<string id="pri_b305_kovalskiy_talk_name">
+		<text>Радыёперашкоды: пагаварыць з Кавальскім</text>
+	</string>
+	<string id="pri_b305_kovalskiy_talk_text">
+		<text>Палкоўнік Кавальскі прасіў зайсці да яго на размову.</text>
+	</string>
+	<string id="pri_b306_task_1_name">
+		<text>Лабараторыя Х8: трапіць у шахту ліфта</text>
+	</string>
+	<string id="pri_b306_task_1_text">
+		<text>Пад будынкам КБА «Юбілейны» знаходзіцца ўваход у падземную лабараторыю. Трапіць туды можна толькі праз шахту ліфта.</text>
+	</string>
+	<string id="pri_b306_task_2_name">
+		<text>Лабараторыя Х8: знайсці генератар</text>
+	</string>
+	<string id="pri_b306_task_2_text">
+		<text>Дзверы ў шахту ліфта абясточаныя. Каб іх адчыніць, трэба знайсці і запусціць аварыйны генератар.</text>
+	</string>
+	<string id="pri_b306_task_3_name">
+		<text>Лабараторыя Х8: спусціцца ў лабараторыю</text>
+	</string>
+	<string id="pri_b306_task_3_text">
+		<text>Трэба скарыстацца ліфтам, каб трапіць у лабараторыю Х8 пад будынкам КБА «Юбілейны».</text>
+	</string>
+	<string id="pri_b35_task_envoy_name">
+		<text>Адзін стрэл: ліквідаваць пасланца</text>
+	</string>
+	<string id="pri_b35_task_envoy_text">
+		<text>Трэба ліквідаваць пасланца: без яго найміты не змогуць знайсці лабараторыю.</text>
+	</string>
+	<string id="pri_b35_task_envoy_wait_name">
+		<text>Адзін стрэл: дачакацца з’яўлення людзей заказчыка</text>
+	</string>
+	<string id="pri_b35_task_envoy_wait_text">
+		<text>Трэба дачакацца з’яўлення людзей заказчыка і ліквідаваць іх лідара. Без яго найміты не змогуць знайсці лабараторыю.</text>
+	</string>
+	<string id="pri_b35_task_merc_name">
+		<text>Адзін стрэл: ліквідаваць лідара наймітаў</text>
+	</string>
+	<string id="pri_b35_task_merc_text">
+		<text>Трэба ліквідаваць лідара наймітаў: без яго найміты страцяць згуртаванасць і стануць менш небяспечнымі.</text>
+	</string>
+	<string id="pri_b35_task_merc_wait_name">
+		<text>Адзін стрэл: дачакацца з’яўлення наймітаў</text>
+	</string>
+	<string id="pri_b35_task_merc_wait_text">
+		<text>Трэба дачакацца з’яўлення наймітаў і ліквідаваць іх лідара. Без яго найміты страцяць згуртаванасць і стануць менш небяспечнымі.</text>
+	</string>
+	<string id="pri_b35_task_reward_name">
+		<text>Адзін стрэл: пагаварыць з Кавальскім</text>
+	</string>
+	<string id="pri_b35_task_reward_text">
+		<text>Трэба паведаміць Кавальскаму пра вынікі аперацыі.</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_1_name">
+		<text>Лабараторыя Х8: пакінуць падземны комплекс або працягнуць пошук дакументаў</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_1_text">
+		<text>Дакументы знойдзены, лабараторыю можна пакінуць. Тым не менш у комплексе могуць заставацца і іншыя дакументы.</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_2_name">
+		<text>Лабараторыя Х8: пакінуць падземны комплекс або працягнуць пошук дакументаў</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_2_text">
+		<text>Дакументы знойдзены, лабараторыю можна пакінуць. Тым не менш у комплексе могуць заставацца і іншыя дакументы.</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_3_name">
+		<text>Лабараторыя Х8: пакінуць падземны комплекс</text>
+	</string>
+	<string id="pri_a19_lab_x8_investigation_3_text">
+		<text>Мяркуючы па ўсім, у лабараторыі ўжо сабрана ўся дакументацыя. Можна пакінуць падземны комплекс.</text>
+	</string>
+	<string id="pri_a18_wait_reinf_name">
+		<text>Скупчэнне «Маналіту»: дачакацца падмацавання</text>
+	</string>
+	<string id="pri_a18_wait_reinf_text">
+		<text>Трэба дачакацца падмацавання, якое Кавальскі выслаў, каб знішчыць групу маналітаўцаў у краме «Кнігі».</text>
+	</string>
+	<string id="pri_a22_talk_with_kovalski_name">
+		<text>Размова сам-насам: пагаварыць з Кавальскім</text>
+	</string>
+	<string id="pri_a22_talk_with_kovalski_text">
+		<text>Трэба пагаварыць з Кавальскім. Здаецца, ён хоча паведаміць нешта важнае.</text>
+	</string>
+	<string id="pri_a28_defend_helis_name">
+		<text>Эвакуацыя: абараняць верталёты</text>
+	</string>
+	<string id="pri_a28_defend_helis_text">
+		<text>Трэба абараняць верталёты ад надыходзячага праціўніка, пакуль не з’явіцца магчымасць узляцець.</text>
+	</string>
+	<string id="pri_a28_save_medic_name">
+		<text>Эвакуацыя: прывесці медыка да прытомнасці</text>
+	</string>
+	<string id="pri_a28_save_medic_text">
+		<text>Здаецца, медык зноў трапіў пад нейкае невядомае ўздзеянне. Трэба тэрмінова прывесці яго да прытомнасці.</text>
+	</string>
+	<string id="pri_a28_return_to_helis_name">
+		<text>Эвакуацыя: вярнуцца да верталётаў</text>
+	</string>
+	<string id="pri_a28_return_to_helis_text">
+		<text>Трэба вярнуцца да верталётаў: магчымасць узляцець можа з’явіцца ў любы момант.</text>
+	</string>
+	<string id="pri_a28_helis_gonna_fly_name">
+		<text>Эвакуацыя: тэрмінова вярнуцца да верталётаў</text>
+	</string>
+	<string id="pri_a28_helis_gonna_fly_text">
+		<text>Верталёты гатовыя да вылету. Трэба тэрмінова трапіць на борт аднаго з іх. Пілоты доўга чакаць не будуць.</text>
+	</string>
+</string_table>
